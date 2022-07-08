@@ -1,7 +1,7 @@
 import './App.css';
 import { Routes, Route } from "react-router-dom";
 import Home from './components/Home'
-import MockDraft from './components/MockDraft'
+import MockDraft from './components/MockDraft/MockDraft'
 import Players from './components/Players'
 import About from './components/About'
 

@@ -1,4 +1,4 @@
-import React from 'react'
+import {React, useState} from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
 import PlayerCard from './PlayerCard'
 
@@ -10,10 +10,10 @@ const Board = ({ draftedPlayers }) => {
       <Container fluid>
           {draftedPlayers?.map(round => 
             <Row>
-                {round?.map(team => 
+                {round?.map(player => 
                     <Col sm={8/(round.length)}>
                         <div className='bg-light'>
-                            <PlayerCard />
+                            <PlayerCard key={player.id} player={player} name={player.name} team={player.team} position={player.position} clickable={false} />
                         </div>
                     </Col>
                 )}
