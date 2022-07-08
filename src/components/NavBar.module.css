@@ -1,0 +1,15 @@
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+a {
+    margin-left: 5vw;
+    text-decoration: none;
+    color: white;
+}
+
+a :hover {
+    color: lightgray;
+}
+

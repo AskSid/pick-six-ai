@@ -1,0 +1,26 @@
+.heading {
+    background-color: black;
+    text-align: center;
+    padding-top: 2vh;
+    color: lightblue;
+    font-size: large;
+}
+
+.eye {
+    margin-right: 2%;
+    margin-bottom: .2%;
+}
+
+
+.arrow {
+    margin-left: 2%;
+    font-size: large;
+    margin-bottom: .2%;
+}
+
+.line {
+    height: 2px;
+    width: 100%;
+    background-color: lightblue;
+    margin-top: 1.5vh;
+}
