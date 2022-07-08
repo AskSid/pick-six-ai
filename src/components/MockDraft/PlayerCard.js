@@ -11,7 +11,7 @@ const PlayerCard = ({ clickable, addPlayer, player, name, position, team }) => {
   return (
     <div>
     { clickable ? 
-      <button className={positions.get(position)} onClick={() => { addPlayer(player) }} >
+      <button className={positions.get(position)} onClick={() => { addPlayer(player, true) }} >
         <p>{name}, {team}, {position}</p>
       </button> : 
       <div className={positions.get(position)}>
