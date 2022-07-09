@@ -8,12 +8,28 @@
 }
 
 .informationTitle {
-    background: -webkit-linear-gradient(180deg, #A1FFEE, #E5B1DD);
+    background: -webkit-linear-gradient(180deg, #00dfb6, #E5B1DD);
     background-clip: inherit;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-size: 4vh;
+    padding-bottom: 1vh;
+    padding-left: 5vw;
+}
+
+.informationHeader {
+    padding-bottom: 1vh;
+    padding-left: 5vw;
+    color: white;
+    font-size: 4vmax;
+}
+
+.informationSubheading {
     padding-bottom: 5vh;
     padding-left: 5vw;
+    padding-right: 20vw;
+    color: white;
+    font-size: 2vmax;
 }
 
 .informationImage {
