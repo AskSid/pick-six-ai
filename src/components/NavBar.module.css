@@ -1,9 +1,11 @@
 .NavBar {
-    padding-top: 3vh;
     background-color: black;
 }
 
 .link {
+    text-decoration: none;
+    color: white;
+    margin-left: 4vw;
     text-decoration: none;
     color: white;
 }
@@ -12,13 +14,5 @@
     color: lightgray;
 }
 
-a {
-    margin-left: 4vw;
-    text-decoration: none;
-    color: white;
-}
 
-a :hover{
-    color: rgb(223, 223, 223);
-}
 

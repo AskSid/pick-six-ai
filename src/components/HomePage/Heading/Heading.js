@@ -8,10 +8,11 @@ function Heading() {
       <div className={styles.heading}>
         <p>
           <HiEye className={styles.eye} />
-          100% Tranceparency: Take a peek behind the algorithm
+          100% Transparency: Take a peek behind the algorithm
           <HiArrowSmRight className={styles.arrow} />
         </p>
         <div className={styles.line}></div>
+        <div className={styles.spacing}></div>
       </div>
     </>
   );

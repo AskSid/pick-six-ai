@@ -42,19 +42,21 @@
 
 .callToActionText {
     font-size: 4.5vh;
-    color: white;
+    color: rgb(243, 243, 243);
 }
 
 .callToActionButton {
-    color: rgba(0, 0, 0, 0.8);
-    background: rgb(171,156,227);
-    background: linear-gradient(90deg, rgb(161, 150, 197) 24%, rgb(170, 170, 241) 38% 58%, rgb(199, 218, 241) 93%);
+    color: rgba(255, 255, 255, 0.8);
+    border: solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
     padding: 1vmax 1vmax;
     border-radius: 4px;
     font-weight: normal;
     text-decoration: none;
     transition: all 0.2s ease-in-out;
-    margin-left: 5vw;
+    margin-left: 3vw;
     white-space: nowrap;
     font-size: 4vh;
 }

@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
+.information {
+    font-family: 'inter';
+    background-color: black;
+    padding-top: 5vmin;
+    padding-bottom: 10vh;
+}
+
+.informationTitle {
+    background: -webkit-linear-gradient(180deg, #A1FFEE, #E5B1DD);
+    background-clip: inherit;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 5vh;
+    padding-left: 5vw;
+}
+
+.informationImage {
+    height: 13vmax;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.informationText {
+    color: white;
+    text-align: center;
+    font-size: 3vmin;
+    margin-left: 10%;
+    margin-right: 10%;
+}
