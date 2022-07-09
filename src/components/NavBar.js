@@ -34,6 +34,12 @@ const NavBar = () => {
                   Behind the Algorithm
                 </Link>
               </Nav.Link>
+              <Nav.Link className={styles.link} href="#link">
+                {" "}
+                <Link className={styles.link} to="/about">
+                  Blog
+                </Link>
+              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

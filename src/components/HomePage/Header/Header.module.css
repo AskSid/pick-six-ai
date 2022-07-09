@@ -1,13 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
+.header {
+    background-color: black;
+    padding-top: 6vh;
+    padding-bottom: 10vh;
+    font-family: "inter";
+}
+
 .titleContainer {
+    padding-top: 4vh;
     background-color: black;
 }
 
 .title {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 12vh;
+    font-size: 6vmax;
+    background: -webkit-linear-gradient(180deg, #A1FFEE, #E5B1DD);
+    background-clip: inherit;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.subTitle {
+    color: white;
+    font-size: 5vh;
+    margin-top: 2vh;
+}
+
+.imageContainer {
+    padding-left: 0;
+}
+
+.mainImage {
+    width: 23vmax;
+}
+
+.callToAction {
+    text-align: center;
+    padding-top: 3vh;
+    font-size: 2vmax;
+}
+
+.callToActionText {
+    font-size: 4.5vh;
     color: white;
 }
 
-p {
+.callToActionButton {
+    color: rgba(0, 0, 0, 0.8);
+    background: rgb(171,156,227);
+    background: linear-gradient(90deg, rgb(161, 150, 197) 24%, rgb(170, 170, 241) 38% 58%, rgb(199, 218, 241) 93%);
+    padding: 1vmax 1vmax;
+    border-radius: 4px;
+    font-weight: normal;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+    margin-left: 5vw;
+    white-space: nowrap;
+    font-size: 4vh;
+}
+
+.callToActionButton:hover {
     color: white;
+    box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
+}
+
+
+@media only screen and (max-width: 992px) {
+    .title {
+        text-align: center;
+        font-size: 10vmax;
+    }
+
+    .subTitle {
+        color: white;
+        text-align: center;
+    }
+
+    .mainImage {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .callToActionText {
+        line-height: 7vh;
+    }
 }

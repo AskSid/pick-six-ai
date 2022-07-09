@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
 .heading {
     background-color: black;
     text-align: center;
     padding-top: 2vh;
     color: lightblue;
-    font-size: large;
+    font-family: "inter";
 }
 
 .eye {
@@ -14,7 +16,6 @@
 
 .arrow {
     margin-left: 2%;
-    font-size: large;
     margin-bottom: .2%;
 }
 
