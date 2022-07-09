@@ -23,6 +23,7 @@ const MockDraft = () => {
   const [userTurn, setUserTurn] = useState(true)
   const [userTurnTime, setUserTurnTime] = useState(30)
   
+  /*
   // Getting players from firestore database
   useEffect(() => {
     getPlayers()
@@ -36,6 +37,20 @@ const MockDraft = () => {
       setPlayers(playerDocs)
     })
   }
+  /*
+    /*
+    //ONE TIME GET FUNCTION
+    function getPlayers2() {
+      playersRef.get().then((item) => {
+        const items = item.docs.map((doc) => doc.data());
+        setPlayers(items);
+      });
+    }
+    useEffect(() => {
+      getPlayers2();
+      // eslint-disable-next-line
+    }, []);
+    */
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {
