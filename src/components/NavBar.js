@@ -6,7 +6,7 @@ import { Navbar, Container, NavDropdown, Nav } from "react-bootstrap";
 const NavBar = () => {
   return (
     <div className={styles.NavBar}>
-      <Navbar bg="dark" expand="lg" variant="dark">
+      <Navbar bg="black" expand="lg" variant="dark">
         <Container>
           <Navbar.Brand  className={styles.link}href="#home">
             <Link  className={styles.link} to="/">
