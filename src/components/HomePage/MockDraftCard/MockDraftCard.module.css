@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
+.mockDraftCardBack {
+    background-color: black;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-bottom: 10vh;
+    font-family: 'inter';
+}
+
+.mockDraftCard {
+    border: solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
+    padding: 1vmax 1vmax;
+    border-radius: 20px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.mockDraftCardTitle {
+    font-size: 8vmin;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.mockDraftCardButtonContainer {
+    padding-top: 9vmin;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 4vh;
+}
+
+.mockDraftCardButton {
+    font-size: 4vmin;
+    color: black;
+    text-decoration: none;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    padding-right: 2vmax;
+    padding-left: 2vmax;
+    background: white;
+    border-radius: 4px;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.mockDraftCardImage {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mockDraftCardText {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    color: #ffffff;
+    margin-top: 3vh;
+    text-align: center;
+    font-size: 3vh;
+}

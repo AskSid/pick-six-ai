@@ -3,6 +3,7 @@ import NavBar from './NavBar'
 import Heading from './HomePage/Heading/Heading'
 import Header from './HomePage/Header/Header'
 import Information from './HomePage/Information/Information'
+import MockDraftCard from './HomePage/MockDraftCard/MockDraftCard'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <NavBar />
       <Header/>
       <Information/>
+      <MockDraftCard/>
       <h1>Home</h1>
     </div>
   )
