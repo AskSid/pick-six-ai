@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./MockDraftCard.module.css";
 import { Container, Row, Col } from "react-bootstrap";
 import InformationImage3 from "../../../images/shape.png";
+import { Link } from "react-router-dom";
 
 function MockDraftCard(props) {
   return (
@@ -14,9 +15,9 @@ function MockDraftCard(props) {
             </p>
           </Col>
           <Col lg={3} className={styles.mockDraftCardButtonContainer}>
-            <a className={styles.mockDraftCardButton} href="/MockDraft">
+            <Link className={styles.mockDraftCardButton} to="/mock-draft">
               Play Now
-            </a>
+            </Link>
           </Col>
           <Col lg={3}>
           <img

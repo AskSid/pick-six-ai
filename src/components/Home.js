@@ -4,6 +4,8 @@ import Heading from './HomePage/Heading/Heading'
 import Header from './HomePage/Header/Header'
 import Information from './HomePage/Information/Information'
 import MockDraftCard from './HomePage/MockDraftCard/MockDraftCard'
+import Footer from './Footer/Footer'
+import RankingsCard from './HomePage/RankingsCard/RankingsCard'
 
 const Home = () => {
   return (
@@ -13,7 +15,9 @@ const Home = () => {
       <Header/>
       <Information/>
       <MockDraftCard/>
-      <h1>Home</h1>
+      <RankingsCard/>
+      <RankingsCard/>
+      <Footer/>
     </div>
   )
 }

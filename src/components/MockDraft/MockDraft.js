@@ -61,19 +61,19 @@ const MockDraft = () => {
     */
 
   //ONE TIME GET FUNCTION
-  function getPlayers2() {
-    const play = playersRef.orderBy('fantasy-points', 'desc'); //THIS ORDERS PLAYERS BASED ON SOME METRIC -> Good for Ranking
-    play.get().then((item) => {
-      const items = item.docs.map((doc) => doc.data());
-      const rb = items.filter((x) =>  x.position == "RB"); //THIS FILTERS PLAYERS BASED ON SOME METRIC -> Good for Position Sorting
-      setPlayers(rb);
-    });
-  }
+  // function getPlayers2() {
+  //   const play = playersRef.orderBy('fantasy-points', 'desc'); //THIS ORDERS PLAYERS BASED ON SOME METRIC -> Good for Ranking
+  //   playersRef.get().then((item) => {
+  //     const items = item.docs.map((doc) => doc.data());
+  //     const rb = items.filter((x) =>  x.position == "QB"); //THIS FILTERS PLAYERS BASED ON SOME METRIC -> Good for Position Sorting
+  //     setPlayers(items);
+  //   });
+  // }
 
-  useEffect(() => {
-    getPlayers2();
-    // eslint-disable-next-line
-  }, []);
+  // useEffect(() => {
+  //   getPlayers2();
+  //   // eslint-disable-next-line
+  // }, []);
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {

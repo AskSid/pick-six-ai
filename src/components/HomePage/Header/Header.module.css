@@ -2,7 +2,7 @@
 
 .header {
     background-color: black;
-    padding-top: 6vh;
+    padding-top: 1vh;
     padding-bottom: 10vh;
     font-family: "inter";
 }
@@ -13,8 +13,8 @@
 }
 
 .title {
-    font-size: 6vmax;
-    background: -webkit-linear-gradient(180deg, #A1FFEE, #E5B1DD);
+    font-size: 6.5vmax;
+    background: -webkit-linear-gradient(180deg, #14f3ca, #f748dc);
     background-clip: inherit;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -23,7 +23,8 @@
 .subTitle {
     color: white;
     font-size: 5vh;
-    margin-top: 2vh;
+    margin-top: 4vh;
+    
 }
 
 .imageContainer {
@@ -31,18 +32,18 @@
 }
 
 .mainImage {
-    width: 23vmax;
+    width: 27vmax;
 }
 
 .callToAction {
-    text-align: center;
-    padding-top: 3vh;
+    padding-top: 0vh;
     font-size: 2vmax;
+    
 }
 
 .callToActionText {
     font-size: 4.5vh;
-    color: rgb(243, 243, 243);
+    color: rgb(214, 214, 214);
 }
 
 .callToActionButton {
@@ -86,5 +87,6 @@
 
     .callToActionText {
         line-height: 7vh;
+        text-align: center;
     }
 }

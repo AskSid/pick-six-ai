@@ -4,8 +4,17 @@
     background-color: black;
     text-align: center;
     padding-top: 2vh;
-    color: lightblue;
+    color: rgb(122, 222, 255);
     font-family: "inter";
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(171,156,227);
+}
+
+.link:hover {
+    color: lightblue;
 }
 
 .eye {
@@ -21,13 +30,14 @@
 
 .line {
     height: 2px;
-    width: 100%;
+    width: 80%;
+    margin-left: 10%;
     background: rgb(171,156,227);
 background: linear-gradient(90deg, rgba(171,156,227,1) 24%, rgba(108,108,231,1) 38%, rgba(112,162,222,1) 58%, rgba(81,118,162,1) 93%);
     margin-top: 1.5vh;
 }
 
 .spacing {
-    height: 4vh;
+    height: 2vh;
     background-color: black;
 }

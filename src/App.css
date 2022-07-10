@@ -1,0 +1,18 @@
+.App {
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    width: 2px;
+    background: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(0deg, rgba(156,219,227,1) 16%, rgba(162,81,160,1) 93%);
+  }
+
+  /* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
+.rankingsCard {
+    background-color: black;
+    padding-bottom: 5vh;
+    font-family: 'inter';
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.border {
+
+}
+
+.rankingsCardInfo {
+    padding-top: 3vh;
+    background-color: black;
+    text-align: center;
+}
+
+.rankingsCardImage {
+    width: 5vmax;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rankingsCardHeading {
+    color: white;
+    margin-top: 3vh;
+    font-size: 6vmin;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-bottom: 6vh;
+    background: -webkit-linear-gradient(180deg, #14f3ca, #f748dc);
+    background-clip: inherit;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.rankingsCardButton {
+    font-size: 4vmin;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+    padding-right: 1vmax;
+    padding-left: 1vmax;
+    border: solid;
+    border-image-slice: 1;
+    border-width: 3px;
+    border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
+    white-space: nowrap;
+}
+
+.rankingsCardButton:hover {
+    color: white;
+    box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
+}
+
+.rankingsCardText {
+    text-align: center;
+    color: white;
+    color: white;
+    margin-top: 5vh;
+    font-size: 4vmin;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    margin-bottom: 6vh;
+}
+
+.rankingsCardImageMainContainer {
+    background: linear-gradient(210.64deg, #A95BF7 0.97%, #DE7B7B 89.96%);
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+    border-radius: 25px;
+}
+
+.rankingsCardImageMain {
+    width: 80%;
+    border-radius: 25px;
+}
