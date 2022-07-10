@@ -16,7 +16,6 @@ const Home = () => {
       <Information/>
       <MockDraftCard/>
       <RankingsCard/>
-      <RankingsCard/>
       <Footer/>
     </div>
   )
