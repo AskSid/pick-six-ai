@@ -24,7 +24,10 @@
 .mockDraftCardTitle {
     font-size: 8vmin;
     text-align: center;
-    color: rgb(255, 255, 255);
+    background: -webkit-linear-gradient(180deg, #14f3ca, #f748dc);
+    background-clip: inherit;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .mockDraftCardButtonContainer {
@@ -36,16 +39,22 @@
 
 .mockDraftCardButton {
     font-size: 4vmin;
+    font-weight: bold;
     color: black;
     text-decoration: none;
     padding-top: 2vh;
     padding-bottom: 2vh;
     padding-right: 2vmax;
     padding-left: 2vmax;
-    background: white;
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
     border-radius: 4px;
     white-space: nowrap;
     vertical-align: middle;
+}
+
+.mockDraftCardButton:hover {
+    color: white;
+    box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
 }
 
 .mockDraftCardImage {
