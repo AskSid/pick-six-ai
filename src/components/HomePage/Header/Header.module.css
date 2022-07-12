@@ -1,100 +1,95 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap");
 
 .header {
-    background-color: black;
-    padding-top: 1vh;
-    padding-bottom: 10vh;
-    font-family: "inter";
+  background-color: black;
+  padding-top: 1vh;
+  padding-bottom: 10vh;
+  font-family: "inter";
 }
 
 .titleContainer {
-    padding-top: 4vh;
-    background-color: black;
+  padding-top: 4vh;
+  background-color: black;
 }
 
 .title {
-    font-size: 6.5vmax;
-    background-image: 
-    linear-gradient(to right, #ff00d9, #00fcce); 
+  font-size: 6.5vmax;
+  background-image: linear-gradient(to right, #ff00d9, #00fcce);
   -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;  
+  -webkit-text-fill-color: transparent;
   animation: rainbow-animation 100s linear infinite;
-
 }
 
-  @keyframes rainbow-animation {
-    to {
-        background-position: 4500vh;
-    }
+@keyframes rainbow-animation {
+  to {
+    background-position: 4500vh;
+  }
 }
 
 .subTitle {
-    color: white;
-    font-size: 5vh;
-    margin-top: 4vh;
-    
+  color: white;
+  font-size: 5vh;
+  margin-top: 4vh;
 }
 
 .imageContainer {
-    padding-left: 0;
+  padding-left: 0;
 }
 
 .mainImage {
-    width: 27vmax;
+  width: 27vmax;
 }
 
 .callToAction {
-    padding-top: 0vh;
-    font-size: 2vmax;
-    
+  padding-top: 0vh;
+  font-size: 2vmax;
 }
 
 .callToActionText {
-    font-size: 4.5vh;
-    color: rgb(214, 214, 214);
+  font-size: 4.5vh;
+  color: rgb(214, 214, 214);
 }
 
 .callToActionButton {
-    color: rgba(255, 255, 255, 0.8);
-    border: solid;
-    border-image-slice: 1;
-    border-width: 3px;
-    border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
-    padding: 1vmax 1vmax;
-    border-radius: 4px;
-    font-weight: normal;
-    text-decoration: none;
-    transition: all 0.2s ease-in-out;
-    margin-left: 3vw;
-    white-space: nowrap;
-    font-size: 4vh;
+  color: rgba(255, 255, 255, 0.8);
+  border: solid;
+  border-image-slice: 1;
+  border-width: 3px;
+  border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
+  padding: 1vmax 1vmax;
+  border-radius: 4px;
+  font-weight: normal;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  margin-left: 3vw;
+  white-space: nowrap;
+  font-size: 4vh;
 }
 
 .callToActionButton:hover {
-    color: white;
-    box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
+  color: white;
+  box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
 }
 
-
 @media only screen and (max-width: 992px) {
-    .title {
-        text-align: center;
-        font-size: 10vmax;
-    }
+  .title {
+    text-align: center;
+    font-size: 10vmax;
+  }
 
-    .subTitle {
-        color: white;
-        text-align: center;
-    }
+  .subTitle {
+    color: white;
+    text-align: center;
+  }
 
-    .mainImage {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
+  .mainImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
-    .callToActionText {
-        line-height: 7vh;
-        text-align: center;
-    }
+  .callToActionText {
+    line-height: 7vh;
+    text-align: center;
+  }
 }

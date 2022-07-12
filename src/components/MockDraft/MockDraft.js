@@ -16,8 +16,7 @@ import db from "../../firebase";
 import {collection, getDocs} from "firebase/firestore"
 
 const MockDraft = () => {
-  const playerObjects = JSON.parse(playersJson)
-  console.log(playerObjects)
+  var myArr = JSON.parse(JSON.stringify(playersJson));
 
   const ref = collection(db, "players");
 
@@ -90,6 +89,7 @@ const MockDraft = () => {
 
   //     getUsers();
   // },[]);
+
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {
