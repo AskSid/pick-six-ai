@@ -14,10 +14,18 @@
 
 .title {
     font-size: 6.5vmax;
-    background: -webkit-linear-gradient(180deg, #14f3ca, #f748dc);
-    background-clip: inherit;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    background-image: 
+    linear-gradient(to right, #ff00d9, #00fcce); 
+  -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;  
+  animation: rainbow-animation 100s linear infinite;
+
+}
+
+  @keyframes rainbow-animation {
+    to {
+        background-position: 4500vh;
+    }
 }
 
 .subTitle {

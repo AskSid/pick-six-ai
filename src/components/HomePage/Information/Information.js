@@ -20,7 +20,7 @@ function Information(props) {
               alt="Information Image 1"
             />
             <p className={styles.informationText}>
-              Use data-informaed rankings to take the higher advanage
+              Use data-informed rankings to take the higher advanage
             </p>
           </Col>
           <Col md={4}>

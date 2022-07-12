@@ -12,8 +12,11 @@ import {
   Button,
 } from "react-bootstrap";
 import db from "../../firebase";
+import {collection, getDocs} from "firebase/firestore"
 
 const MockDraft = () => {
+  const ref = collection(db, "players");
+
   const playersRef = db.collection("players");
   const [players, setPlayers] = useState([]);
   const [team, setTeam] = useState([]);
@@ -72,8 +75,17 @@ const MockDraft = () => {
 
   // useEffect(() => {
   //   getPlayers2();
-  //   // eslint-disable-next-line
+  //   //eslint-disable-next-line
   // }, []);
+
+  // useEffect(() => {
+  //     const getUsers = async () => {
+  //       const data = await getDocs(ref);
+  //       setPlayers(data.docs.map((doc) => ({...doc.data(), id: doc.id})))
+  //     };
+
+  //     getUsers();
+  // },[]);
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {

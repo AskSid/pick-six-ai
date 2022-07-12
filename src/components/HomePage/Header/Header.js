@@ -11,7 +11,7 @@ function Header() {
         <Container>
           <Row>
             <Col lg={8} className={styles.titleContainer}>
-              <h1 className={styles.title}>Fantasy Football Driven by Data</h1>
+              <h1 className={styles.title}>Fantasy Football Driven by Data.</h1>
               <p className={styles.subTitle}> Driven by the fastest algorithm the world has every seen</p>
             </Col>
             <Col lg={4} className={styles.imageContainer}> 
