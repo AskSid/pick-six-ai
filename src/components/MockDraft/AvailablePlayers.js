@@ -6,7 +6,7 @@ const AvailablePlayers = ({ players, clickable, addPlayer }) => {
     <div>
       <h1>Available Players</h1>
 
-      { players?.map(player => <PlayerCard player={player} key={player.id} name={player.name} team={player.team} position={player.position} clickable={clickable} addPlayer={addPlayer}/>) }
+      { players?.map(player => <PlayerCard player={player} key={player["-9999"]} name={player.Player} team={player.Tm} position={player.FantPos} clickable={clickable} addPlayer={addPlayer}/>) }
     </div>
   )
 }
