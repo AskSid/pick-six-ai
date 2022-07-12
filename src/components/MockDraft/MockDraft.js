@@ -3,6 +3,7 @@ import NavBar from "../NavBar";
 import Team from "./Team";
 import Board from "./Board";
 import AvailablePlayers from "./AvailablePlayers";
+import playersJson from '../../players.json'
 import {
   Container,
   Row,
@@ -15,6 +16,9 @@ import db from "../../firebase";
 import {collection, getDocs} from "firebase/firestore"
 
 const MockDraft = () => {
+  const playerObjects = JSON.parse(playersJson)
+  console.log(playerObjects)
+
   const ref = collection(db, "players");
 
   const playersRef = db.collection("players");
