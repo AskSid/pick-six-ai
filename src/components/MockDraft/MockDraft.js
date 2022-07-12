@@ -25,7 +25,12 @@ const MockDraft = () => {
   const [team, setTeam] = useState([]);
   const [draftedPlayers, setDraftedPlayers] = useState(
     [...Array(12)].map((e) => Array(8).fill(""))
-  );
+  )
+
+
+  const allPlayers = JSON.parse(JSON.stringify(playersJson))
+  console.log(allPlayers[0].Rk)
+
 
   const [rounds, setRounds] = useState(12);
   const [teams, setTeams] = useState(8);
@@ -220,7 +225,7 @@ const MockDraft = () => {
           </Col>
           <Col sm={2}>
             <AvailablePlayers
-              players={players}
+              players={allPlayers}
               clickable={userTurn}
               addPlayer={addPlayer}
             />
