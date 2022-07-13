@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
+.main {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    font-family: 'inter';
+}
+
+.haha {
+    color: rgb(7, 7, 7);
+    margin: 0;
+}

@@ -1,11 +1,15 @@
 import React from 'react'
 import NavBar from './NavBar'
+import Rankings from '../components/PlayerRankings/Rankings/Rankings'
+import RankingsHeader from '../components/PlayerRankings/RankingsHeader/RankingsHeader'
+
 
 const Players = () => {
   return (
     <div>
-      <h1>Players</h1>
       <NavBar />
+      <RankingsHeader/>
+      <Rankings/>
     </div>
   )
 }
