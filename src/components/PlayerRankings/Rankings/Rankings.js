@@ -18,17 +18,31 @@ function Rankings(props) {
         DEF: 0
     };
 
-    const rb = allPlayers.filter((p) => currentPos.includes(p.FantPos));
+    var num = 0;
 
+    const players = allPlayers.filter((p) => currentPos.includes(p.FantPos));
 
+    function GetSortOrder(prop) {    
+        return function(a, b) {    
+            if (a[prop] < b[prop]) {    
+                return 1;    
+            } else if (a[prop] > b[prop]) {    
+                return -1;    
+            }    
+            return 0;    
+        }    
+    }    
+
+    players.sort(GetSortOrder('PPR'))
 
     return (
         <div className={styles.body}>
             <RankingsSelect setPosition={setCurrentPos}/>
-            {rb.map((p) => <PlayerRow 
+            {players.map((p) => <PlayerRow 
                 rank ={p.FantPos + ++posRank[p.FantPos]} 
                 playerName={p.Player}
                 team = {p.Tm}
+                num = {num++}
             />)}
         </div>
         );

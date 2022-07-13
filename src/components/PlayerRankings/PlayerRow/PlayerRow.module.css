@@ -1,16 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
 
 .main {
-    text-align: center;
     background-color: rgb(255, 255, 255);
     margin-left: 10vw;
     margin-right: 10vw;
-    padding-top: 1vh;
-    padding-bottom: 1vh;
+    height: 4vmin;
     font-family: 'inter';
+    display: flex;
+    font-size: 2.5vmin;
 }
 
-.haha {
-    color: rgb(7, 7, 7);
+.main2 {
+    background-color: rgb(230, 230, 230);
+    margin-left: 10vw;
+    margin-right: 10vw;
+    height: 4vmin;
+    font-family: 'inter';
+    display: flex;
+    font-size: 2.5vmin;
+}
+
+.rank {
+    color: rgb(0, 0, 0);
+    width: 15%;
+    padding-left: 5%;
+}
+
+.lol {
     margin: 0;
+}
+
+.name {
+    color: rgb(0, 0, 0);
+    width: 30%;
+}
+
+.info {
+    margin-left: 10px;
+    color: black
+}
+
+.team {
+    color: rgb(0, 0, 0);
+    width: 10%;
+}
+
+.line {
+    height: 1px;
+    width: 80vw;
+    background-color: black;
+    margin-left: 10vw;
 }
