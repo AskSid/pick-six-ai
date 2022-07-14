@@ -32,11 +32,11 @@
 
 .name {
     color: rgb(0, 0, 0);
-    width: 30%;
+    width: 50%;
 }
 
 .info {
-    margin-left: 10px;
+    margin-left: 1vw;
     color: black
 }
 

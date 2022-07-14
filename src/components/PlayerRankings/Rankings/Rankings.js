@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import playersJson from '../../../players.json'
 import PlayerRow from '../PlayerRow/PlayerRow';
+import RankingsScoring from '../RankingsScoring/RankingsScoring';
 import RankingsSelect from '../RankingsSelect/RankingsSelect';
 import styles from './Rankings.module.css'
 
@@ -33,10 +34,13 @@ function Rankings(props) {
         }    
     }    
 
-    players.sort(GetSortOrder('PPR'))
+    const [scoring, setScoring] = useState("PPR");
+
+    players.sort(GetSortOrder(scoring));
 
     return (
         <div className={styles.body}>
+            <RankingsScoring setScoring={setScoring}/>
             <RankingsSelect setPosition={setCurrentPos}/>
             {players.map((p) => <PlayerRow 
                 rank ={p.FantPos + ++posRank[p.FantPos]} 
