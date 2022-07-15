@@ -1,0 +1,10 @@
+.main {
+    height: 40vh;
+    width: 80vw;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: center;
+    overflow: auto;
+}
+

@@ -1,8 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
+
 .main {
     margin-left: 30vw;
     margin-right: 30vw;
     text-align: center;
     padding-bottom: 10vh;
+    padding-top: 10vh;
+    font-family: 'inter';
+}
+
+.title {
+    color: white;
+    margin-bottom: 2vh;
 }
 
 .pprButton {

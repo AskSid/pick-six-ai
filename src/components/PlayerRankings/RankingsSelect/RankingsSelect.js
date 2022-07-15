@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function RankingsSelect({ setPosition }) {
 
-    const [currentPos, setCurrentPos] = useState(["RB"])
+    const [currentPos, setCurrentPos] = useState(["QB"])
 
     function arraysEqual(a, b) {
         if (a === b) return true;

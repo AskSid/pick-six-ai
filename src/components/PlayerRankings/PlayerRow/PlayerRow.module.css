@@ -4,16 +4,19 @@
     background-color: rgb(255, 255, 255);
     margin-left: 10vw;
     margin-right: 10vw;
+    width: 80vw;
     height: 4vmin;
     font-family: 'inter';
     display: flex;
     font-size: 2.5vmin;
+    
 }
 
 .main2 {
     background-color: rgb(230, 230, 230);
     margin-left: 10vw;
     margin-right: 10vw;
+    width: 80vw;
     height: 4vmin;
     font-family: 'inter';
     display: flex;
@@ -23,11 +26,7 @@
 .rank {
     color: rgb(0, 0, 0);
     width: 15%;
-    padding-left: 5%;
-}
-
-.lol {
-    margin: 0;
+    padding-left: 3%;
 }
 
 .name {
@@ -36,8 +35,8 @@
 }
 
 .info {
-    margin-left: 1vw;
-    color: black
+    margin-left: 0.5vw;
+    color: rgb(60, 63, 255);
 }
 
 .team {
