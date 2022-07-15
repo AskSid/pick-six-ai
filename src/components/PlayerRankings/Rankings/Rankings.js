@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useCallback} from "react";
+import React, { useEffect, useState, useCallback } from "react";
 import playersJson from "../../../players.json";
 import PlayerInfo from "../PlayerInfo/PlayerInfo";
 import PlayerRow from "../PlayerRow/PlayerRow";
@@ -8,7 +8,6 @@ import styles from "./Rankings.module.css";
 
 function Rankings(props) {
   const allPlayers = JSON.parse(JSON.stringify(playersJson));
-
 
   const [currentPos, setCurrentPos] = useState(["QB"]);
 
@@ -36,9 +35,17 @@ function Rankings(props) {
     };
   }
 
+  const [displayInfo, setDisplayInfo] = useState(true);
+
   const setScore = (s) => {
     setScoring(s);
-  }
+    setDisplayInfo(false);
+  };
+
+  const setPosition = (p) => {
+    setCurrentPos(p);
+    setDisplayInfo(false);
+  };
 
   const [scoring, setScoring] = useState("PPR");
 
@@ -47,14 +54,15 @@ function Rankings(props) {
   return (
     <div className={styles.body}>
       <RankingsScoring setScoring={setScore} />
-      <RankingsSelect setPosition={setCurrentPos} />
+      <RankingsSelect setPosition={setPosition} />
       {sortedPlayers.map((p) => (
         <PlayerRow
           key={num}
-          rank={p.FantPos + ++posRank[p.FantPos]}
+          rank={++posRank[p.FantPos]}
           num={num++}
           player={p}
-          display={false}
+          change={displayInfo}
+          setChange={setDisplayInfo}
         />
       ))}
     </div>

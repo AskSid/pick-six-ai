@@ -31,7 +31,8 @@ function RankingsScoring({setScoring}) {
                 onClick={() => setButtonStyle(["light", "primary"])} 
                 variant={buttonStyle[1]}
                 size="lg">
-                    Standard</Button>{' '}
+                    Standard
+            </Button>
         </div>
     );
 }
