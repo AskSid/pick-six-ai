@@ -1,0 +1,74 @@
+.main {
+  background-color: black;
+}
+
+.textContainer {
+  text-align: center;
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+
+.header1 {
+  color: white;
+  font-size: 3vmax;
+  margin-bottom: 3vh;
+  font-weight: bold;
+}
+
+.header2 {
+    background-image: linear-gradient(to right, #ff00d9, #00fcce);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-animation 100s linear infinite;
+  font-size: 4vmax;
+  margin-bottom: 2vh;
+  font-weight: bold;
+}
+
+@keyframes rainbow-animation {
+    to {
+      background-position: 4500vh;
+    }
+  }
+
+.underline {
+    color: white;
+    width: 80%;
+}
+
+.subheader {
+    color: white;
+    margin-top: 8vh;
+    font-size: 2vmax;
+    text-align: left;
+}
+
+.repoButton {
+    margin-top: 3vh;
+    font-size: 1.5vmax;
+}
+
+.github {
+    width: 3vmax;
+    margin-right: 1vw;
+}
+
+.database {
+    margin-top: 15vh;
+    width: 120%;
+    margin-bottom: 10vh;
+}
+
+@media only screen and (max-width: 992px) {
+    .textContainer {
+        padding-right: 5vw;
+        padding-left: 5vw;
+    }
+    .subheader {
+        text-align: center;
+    }
+
+    .database {
+        margin-top: 5vh;
+    }
+}

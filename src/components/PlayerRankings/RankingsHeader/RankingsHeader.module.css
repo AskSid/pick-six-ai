@@ -16,6 +16,7 @@
     -webkit-text-fill-color: transparent;
     animation: rainbow-animation 100s linear infinite;
     font-size: 8vmin;
+    font-weight: bold;
 }
 
 @keyframes rainbow-animation {
