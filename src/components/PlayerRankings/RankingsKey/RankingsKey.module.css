@@ -1,6 +1,6 @@
 .main {
     width: 80vw;
-    height: 4vh;
+    height: 5vh;
     margin-left: 10vw;
     margin-bottom: 2vh;
     background: linear-gradient(89.69deg, #679EF0 0.22%, #FEC3E3 103.53%);
@@ -14,6 +14,7 @@
 .rank {
     color: rgb(0, 0, 0);
     width: 15%;
+    font-size: 1.5vmax;
     padding-left: 3%;
     margin: 0;
     height:min-content;
@@ -22,6 +23,7 @@
 .name {
     color: rgb(0, 0, 0);
     width: 50%;
+    font-size: 1.5vmax;
     margin: 0;
     height:min-content;
 
@@ -30,6 +32,7 @@
 .team {
     color: rgb(0, 0, 0);
     width: 10%;
+    font-size: 1.5vmax;
     margin: 0;
     height:min-content;
 }

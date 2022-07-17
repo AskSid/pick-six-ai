@@ -1,18 +1,20 @@
 .NavBar {
     background-color: black;
-    padding-top: 2vh;
+    padding-top: 1vh;
 }
 
 .link {
     text-decoration: none;
     color: white;
-    margin-left: 4vw;
+    margin-left: 8vw;
+    margin-top: 1vh;
     text-decoration: none;
     color: white;
+    width: max-content;
     
 }
 
-.link :hover{
+.link:hover{
     color: lightgray;
 }
 

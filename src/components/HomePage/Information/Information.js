@@ -1,9 +1,9 @@
 import React from "react";
 import styles from "./Information.module.css";
 import { Container, Row, Col } from "react-bootstrap";
-import InformationImage1 from "../../../images/InformationImage1.png";
-import InformationImage2 from "../../../images/InformationImage2.png";
-import InformationImage3 from "../../../images/InformationImage3.jpg";
+import InformationImage1 from "../../../images/interface.svg";
+import InformationImage2 from "../../../images/data.svg";
+import InformationImage3 from "../../../images/success.svg";
 
 function Information(props) {
   return (

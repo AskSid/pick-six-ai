@@ -42,7 +42,7 @@ function PlayerRow({ rank, num, player, change, setChange }) {
         display={displayInfo}
         player={player}
         change={change}
-        setChange={setChange}
+        info={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est"}
       />
     </>
   );

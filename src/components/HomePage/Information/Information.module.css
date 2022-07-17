@@ -8,7 +8,7 @@
 }
 
 .informationTitle {
-    background: -webkit-linear-gradient(180deg, #00dfb6, #E5B1DD);
+    background: -webkit-linear-gradient(-90deg, #00ffd0, #f748dc);
     background-clip: inherit;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -28,7 +28,7 @@
     padding-bottom: 5vh;
     padding-left: 5vw;
     padding-right: 20vw;
-    color: white;
+    color: rgb(221, 221, 221);
     font-size: 2vmax;
 }
 

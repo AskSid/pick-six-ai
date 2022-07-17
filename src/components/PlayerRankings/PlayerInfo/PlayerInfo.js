@@ -2,13 +2,12 @@ import React, { useState } from "react";
 import styles from "./PlayerInfo.module.css";
 import { Container, Row, Col } from "react-bootstrap";
 
-function PlayerInfo({ display, player, change, setChange }) {
+function PlayerInfo({ display, player, change, info}) {
 
   const posStats = {
     QB: (
       <>
         {" "}
-        <br></br>
         <div className={styles.statistics1}>
           <p className={styles.games}>GAMES</p>
           <p className={styles.attempts}>CMP%</p>
@@ -39,7 +38,6 @@ function PlayerInfo({ display, player, change, setChange }) {
     RB: (
       <>
         {" "}
-        <br></br>
         <div className={styles.statistics1}>
           <p className={styles.games}>GAMES</p>
           <p className={styles.attempts}>ATT</p>
@@ -70,7 +68,6 @@ function PlayerInfo({ display, player, change, setChange }) {
     WR: (
         <>
           {" "}
-          <br></br>
           <div className={styles.statistics1}>
             <p className={styles.games}>GAMES</p>
             <p className={styles.attempts}>REC</p>
@@ -101,7 +98,6 @@ function PlayerInfo({ display, player, change, setChange }) {
       TE: (
         <>
           {" "}
-          <br></br>
           <div className={styles.statistics1}>
             <p className={styles.games}>GAMES</p>
             <p className={styles.attempts}>REC</p>
@@ -141,16 +137,7 @@ function PlayerInfo({ display, player, change, setChange }) {
       <Row>
         <Col className={styles.section} lg={5}>
           <h2 className={styles.title}>Pick Six Analysis</h2>
-          <p className={styles.overview}>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est
-            quam, aliquam sed neque eget, imperdiet sodales orci. Maecenas quis
-            dolor vel erat accumsan ullamcorper. Sed condimentum nisi sit amet
-            dolor bibendum scelerisque. Donec tristique velit in arcu molestie,
-            id euismod sem accumsan. Suspendisse porttitor arcu ac leo euismod
-            ornare vitae non eros. Vestibulum molestie quam mattis lorem maximus
-            tristique. Sed congue dolor consequat gravida euismod. Donec sodales
-            maximus eleifend.
-          </p>
+          <p className={styles.overview}>{info}</p>
         </Col>
         <Col className={styles.section} lg={3}>
           <h2 className={styles.title}>2021 Statistics</h2>

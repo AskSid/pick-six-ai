@@ -8,7 +8,7 @@ const NavBar = () => {
     <div className={styles.NavBar}>
       <Navbar bg="black" expand="lg" variant="dark">
         <Container>
-          <Navbar.Brand  className={styles.link} href="#home">
+          <Navbar.Brand href="#home">
             <Link  className={styles.link} to="/">
               Home
             </Link>
@@ -16,30 +16,22 @@ const NavBar = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link className={styles.link} href="">
                 {" "}
                 <Link className={styles.link} to="/mock-draft">
                   Mock Draft
                 </Link>
-              </Nav.Link>
-              <Nav.Link className={styles.link} href="#link">
                 {" "}
                 <Link className={styles.link} to="/player-rankings">
                   Player Rankings
                 </Link>
-              </Nav.Link>
-              <Nav.Link className={styles.link} href="#link">
                 {" "}
                 <Link className={styles.link} to="/about">
                   Behind the Algorithm
                 </Link>
-              </Nav.Link>
-              <Nav.Link className={styles.link} href="#link">
                 {" "}
                 <Link className={styles.link} to="/about">
                   Blog
                 </Link>
-              </Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
