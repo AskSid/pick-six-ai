@@ -4,7 +4,7 @@
     margin-left: 30vw;
     margin-right: 30vw;
     text-align: center;
-    padding-bottom: 10vh;
+    padding-bottom: 5vh;
     padding-top: 10vh;
     font-family: 'inter';
 }
@@ -16,4 +16,9 @@
 
 .pprButton {
     margin-right: 1vw;
+    margin-bottom: 1vh;
+}
+
+.standardButton {
+    margin-bottom: 1vh;
 }

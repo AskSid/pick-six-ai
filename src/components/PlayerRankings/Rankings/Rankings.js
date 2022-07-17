@@ -2,6 +2,7 @@ import React, { useEffect, useState, useCallback } from "react";
 import playersJson from "../../../players.json";
 import PlayerInfo from "../PlayerInfo/PlayerInfo";
 import PlayerRow from "../PlayerRow/PlayerRow";
+import RankingsKey from "../RankingsKey/RankingsKey";
 import RankingsScoring from "../RankingsScoring/RankingsScoring";
 import RankingsSelect from "../RankingsSelect/RankingsSelect";
 import styles from "./Rankings.module.css";
@@ -55,6 +56,7 @@ function Rankings(props) {
     <div className={styles.body}>
       <RankingsScoring setScoring={setScore} />
       <RankingsSelect setPosition={setPosition} />
+      <RankingsKey/>
       {sortedPlayers.map((p) => (
         <PlayerRow
           key={num}

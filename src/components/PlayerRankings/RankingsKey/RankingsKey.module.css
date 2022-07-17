@@ -1,0 +1,35 @@
+.main {
+    width: 80vw;
+    height: 4vh;
+    margin-left: 10vw;
+    margin-bottom: 2vh;
+    background: linear-gradient(89.69deg, #679EF0 0.22%, #FEC3E3 103.53%);
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    font-weight: bolder;
+    font-size: 2vmin;
+}
+
+.rank {
+    color: rgb(0, 0, 0);
+    width: 15%;
+    padding-left: 3%;
+    margin: 0;
+    height:min-content;
+}
+
+.name {
+    color: rgb(0, 0, 0);
+    width: 50%;
+    margin: 0;
+    height:min-content;
+
+}
+
+.team {
+    color: rgb(0, 0, 0);
+    width: 10%;
+    margin: 0;
+    height:min-content;
+}

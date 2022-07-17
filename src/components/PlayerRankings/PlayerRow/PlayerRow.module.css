@@ -5,11 +5,11 @@
     margin-left: 10vw;
     margin-right: 10vw;
     width: 80vw;
-    height: 4vmin;
+    height: 5vh;
     font-family: 'inter';
     display: flex;
     font-size: 2.5vmin;
-    
+    align-items: center;
 }
 
 .main2 {
@@ -17,31 +17,40 @@
     margin-left: 10vw;
     margin-right: 10vw;
     width: 80vw;
-    height: 4vmin;
+    height: 5vh;
     font-family: 'inter';
     display: flex;
     font-size: 2.5vmin;
+    align-items: center;
 }
 
 .rank {
     color: rgb(0, 0, 0);
     width: 15%;
     padding-left: 3%;
+    margin: 0;
+    height:min-content;
 }
 
 .name {
     color: rgb(0, 0, 0);
     width: 50%;
+    margin: 0;
+    height:min-content;
+
 }
 
 .info {
     margin-left: 0.5vw;
-    color: rgb(60, 63, 255);
+    color: rgb(21, 25, 243);
+    height:min-content;
 }
 
 .team {
     color: rgb(0, 0, 0);
     width: 10%;
+    margin: 0;
+    height:min-content;
 }
 
 .line {

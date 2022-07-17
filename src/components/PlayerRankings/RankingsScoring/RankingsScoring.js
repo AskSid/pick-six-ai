@@ -28,6 +28,7 @@ function RankingsScoring({setScoring}) {
                     PPR
             </Button>
             <Button 
+                className={styles.standardButton} 
                 onClick={() => setButtonStyle(["light", "primary"])} 
                 variant={buttonStyle[1]}
                 size="lg">

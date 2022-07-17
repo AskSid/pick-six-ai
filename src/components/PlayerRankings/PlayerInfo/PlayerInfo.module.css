@@ -1,10 +1,91 @@
 .main {
     height: 30vh;
     width: 80vw;
-    background-color: rgb(255, 255, 255);
+    background: linear-gradient(93.24deg, #D3E0FF 0%, #FFCDEB 99.4%);
     margin-left: 10vw;
     margin-right: 10vw;
     text-align: center;
-    overflow: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
+.header {
+    background: linear-gradient(90deg, #0008BE 0%, #FB26FF 100%);
+    text-align: left;
+    padding-left: 3vw;
+    padding-top: 0.5vh;
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    font-size: 3vh;
+    color: white;
+    margin: 0 3vw 0 0;
+}
+
+.position {
+    color: white;
+    font-size: 2vh;
+    color: white;
+    margin: 0 5vw 0 0;
+}
+
+.section {
+    padding-top: 0.5vh;
+}
+
+.title {
+    font-size: 2.5vh;
+    font-weight: bold;
+}
+ 
+.overview {
+    text-align: left;
+    margin-left: 15px;
+    line-height: 120%;
+}
+
+.statistics1 {
+    background-color: rgb(230, 230, 230);
+    display: flex;
+    padding: 0 5%;
+    text-align: center;
+    margin: 0;
+}
+.statistics2 {
+    background-color: rgb(245, 241, 241);
+    display: flex;
+    padding: 0 5%;
+    text-align: center;
+    margin: 0;
+}
+
+.games {
+    width: 25%;
+    margin: 0;
+}
+
+.attempts {
+    width: 25%;
+    margin: 0;
+}
+
+.yds {
+    width: 25%;
+    margin: 0;
+}
+
+.avg {
+    width: 25%;
+    margin: 0;
+}
+
+@media only screen and (max-width: 992px) {
+    .overview {
+        text-align: center;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+
+}
