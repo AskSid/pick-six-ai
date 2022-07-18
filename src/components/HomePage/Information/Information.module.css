@@ -8,20 +8,26 @@
 }
 
 .informationTitle {
-    background: -webkit-linear-gradient(-90deg, #00ffd0, #f748dc);
-    background-clip: inherit;
+    background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 30%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
     font-size: 4vh;
     padding-bottom: 1vh;
     padding-left: 5vw;
 }
 
 .informationHeader {
-    padding-bottom: 1vh;
+    padding-bottom: 2vh;
     padding-left: 5vw;
     color: white;
     font-size: 4vmax;
+}
+
+.underline {
+    margin-left: 7vw;
+    padding-bottom: 2vh;
 }
 
 .informationSubheading {

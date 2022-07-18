@@ -1,0 +1,19 @@
+.main {
+    background-color: black;
+    padding-bottom: 10vh;
+    
+}
+
+.row {
+    background-color: black;
+}
+
+.card {
+    background-color: white;
+    color: black;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 3vh;
+    padding: 2vmax;
+    border-radius: 25px;
+}

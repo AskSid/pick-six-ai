@@ -11,7 +11,6 @@ const About = () => {
       <NavBar />
       <AboutHeader/>
       <Method/>
-      <h1>About</h1>
       <Footer/>
     </div>
   )

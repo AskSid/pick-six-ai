@@ -1,5 +1,4 @@
 .main {
-    height: 30vh;
     width: 80vw;
     background: linear-gradient(93.24deg, #D3E0FF 0%, #FFCDEB 99.4%);
     margin-left: 10vw;
@@ -8,6 +7,37 @@
     overflow-y: auto;
     overflow-x: hidden;
 }
+
+@keyframes rise {
+    0% {
+        height: 30vh;
+    }
+    100% {
+      height: 0vh;
+    }
+  }
+
+.mainActive {
+    width: 80vw;
+    height: 30vh;
+    background: linear-gradient(93.24deg, #D3E0FF 0%, #e1faf9 99.4%);
+    margin-left: 10vw;
+    margin-right: 10vw;
+    text-align: center;
+    overflow-y: auto;
+    overflow-x: hidden;
+    animation-duration: 0.75s;
+    animation-name: drop;
+}
+
+@keyframes drop {
+    0% {
+        height: 0vh;
+    }
+    100% {
+      height: 30vh;
+    }
+  }
 
 .header {
     background: linear-gradient(90deg, #0008BE 0%, #FB26FF 100%);
