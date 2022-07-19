@@ -1,0 +1,140 @@
+.main {
+    background-color: black;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.heading {
+    background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 10%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin-left: 1vmax;
+    font-size: 3vmax;
+    margin-bottom: 10vh;
+}
+
+.row {
+    padding-bottom: 12vh;
+}
+
+.tensorflowContainer {
+    background-color: rgb(231, 131, 128);
+    width:fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1vmax 2vmax;
+    border-radius: 20px;
+}
+
+.tensorflow {
+    width: 20vmax;
+}
+
+.twitter {
+    width: 25vmax;
+    margin-top: 4vh;
+}
+
+.tensorflowTitle {
+    color: white;
+    margin-right: 10vw;
+    font-size: xx-large;
+    margin-top: 3vh;
+}
+
+.tensorflowText {
+    color: white;
+    margin-right: 10vw;
+    font-size:x-large;
+    margin-top: 3vh;
+}
+
+.twitterContainer {
+    background-color: rgb(128, 198, 231);
+    width:fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1vmax 2vmax;
+    border-radius: 20px;
+}
+
+.twitterText {
+    color: white;
+    margin-left: 10vw;
+    font-size:x-large;
+    margin-top: 3vh;
+    text-align: left;
+}
+
+.twitterTitle {
+    color: white;
+    margin-left: 10vw;
+    font-size:xx-large;
+    margin-top: 3vh;
+    text-align: left;
+}
+
+.circleContainer {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 15vh;
+}
+
+.circle {
+    background-color: white;
+    height: 10vw;
+    width: 10vw;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.circle:hover {
+    color: white;
+    box-shadow: 0 10px 25px rgba(255, 255, 255, 0.8);
+}
+
+.react {
+    width: 8vw;
+    display: block;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.figma {
+    height: 8vw;
+    display: block;
+    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+@media only screen and (max-width: 768px) {
+    .tensorflowText {
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .twitterText {
+        text-align: center;
+        margin-left: 0;
+    }
+
+    .tensorflowTitle {
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .twitterTitle {
+        text-align: center;
+        margin-left: 0;
+    }
+
+}
