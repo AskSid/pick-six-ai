@@ -19,6 +19,8 @@ function PlayerRow({ rank, num, player, change, setChange }) {
     setChange(true);
   };
 
+  const analysis = player.analysis != null ? player.analysis : "No player info available at this time."
+
   return (
     <>
       <div className={styles.line}> </div>
@@ -42,7 +44,7 @@ function PlayerRow({ rank, num, player, change, setChange }) {
         display={displayInfo}
         player={player}
         change={change}
-        info={"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est"}
+        info={analysis}
       />
     </>
   );

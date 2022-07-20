@@ -35,7 +35,7 @@ function Method(props) {
           </Col>
           <Col className={styles.cardContainer} lg={4}>
             <div className={styles.card}>
-              <h2>Recency</h2>
+              <h2>Volatility</h2>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut

@@ -16,7 +16,7 @@ function PlayerInfo({ display, player, change, info }) {
         <div className={styles.statistics2}>
           <p className={styles.games}>{player.G}</p>
           <p className={styles.attempts}>
-            {(player.Cmp / player.Att[0]).toFixed(2) * 100}
+            {Math.round((player.Cmp / player.Att[0])* 100)}
           </p>
           <p className={styles.yds}>{player.Yds[0]}</p>
           <p className={styles.avg}>{player.TD[0]}</p>

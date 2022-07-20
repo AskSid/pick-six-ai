@@ -79,14 +79,14 @@
 .statistics1 {
     background-color: rgb(230, 230, 230);
     display: flex;
-    padding: 0 5%;
+    padding: 2% 5%;
     text-align: center;
     margin: 0;
 }
 .statistics2 {
     background-color: rgb(245, 241, 241);
     display: flex;
-    padding: 0 5%;
+    padding: 2% 5%;
     text-align: center;
     margin: 0;
 }
