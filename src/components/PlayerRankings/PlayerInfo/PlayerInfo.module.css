@@ -19,7 +19,7 @@
 
 .mainActive {
     width: 80vw;
-    height: 30vh;
+    height: 40vh;
     background: linear-gradient(93.24deg, #D3E0FF 0%, #e1faf9 99.4%);
     margin-left: 10vw;
     margin-right: 10vw;
@@ -35,7 +35,7 @@
         height: 0vh;
     }
     100% {
-      height: 30vh;
+      height: 40vh;
     }
   }
 
@@ -77,14 +77,15 @@
 }
 
 .statistics1 {
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(235, 235, 235);
     display: flex;
     padding: 2% 5%;
     text-align: center;
     margin: 0;
+    margin-top: 1vw;
 }
 .statistics2 {
-    background-color: rgb(245, 241, 241);
+    background-color: rgb(250, 248, 248);
     display: flex;
     padding: 2% 5%;
     text-align: center;
@@ -109,6 +110,14 @@
 .avg {
     width: 25%;
     margin: 0;
+}
+
+.tweet {
+    background-color: rgb(250, 249, 249);
+    padding: 1vw;
+    margin-right: 1vw;
+    margin-top: 2vh;
+    border-radius: 15px;
 }
 
 @media only screen and (max-width: 992px) {

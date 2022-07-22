@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styles from "./PlayerInfo.module.css";
 import { Container, Row, Col } from "react-bootstrap";
+import playersJson from "../../twitter/filtered_tweets.json";
 
 function PlayerInfo({ display, player, change, info }) {
   const posStats = {
@@ -16,7 +17,7 @@ function PlayerInfo({ display, player, change, info }) {
         <div className={styles.statistics2}>
           <p className={styles.games}>{player.G}</p>
           <p className={styles.attempts}>
-            {Math.round((player.Cmp / player.Att[0])* 100)}
+            {Math.round((player.Cmp / player.Att[0]) * 100)}
           </p>
           <p className={styles.yds}>{player.Yds[0]}</p>
           <p className={styles.avg}>{player.TD[0]}</p>
@@ -132,19 +133,35 @@ function PlayerInfo({ display, player, change, info }) {
     ),
   };
 
-  var activeStyle = display ? styles.mainActive: styles.main
+  const filtered_players = JSON.parse(JSON.stringify(playersJson));
+
+  var activeStyle = display ? styles.mainActive : styles.main;
 
   if (!display || !change) {
     return null;
   }
 
-
+  const news = () => {
+    const name = player.Player;
+    if (filtered_players[name].length == 0) {
+      return <p>No recent news reported.</p>;
+    }
+    return filtered_players[name].map((tweet) => (
+      <>
+        <div className={styles.tweet}>
+          <p>{"@"+tweet["author"]}</p>
+          <p>{tweet["time"]}</p>
+          <p>{tweet["text"]}</p>
+        </div>
+      </>
+    ));
+  };
 
   return (
     <>
       <div className={activeStyle}>
         <Row>
-          <Col className={styles.section} lg={5}>
+          <Col className={styles.section} lg={4}>
             <h2 className={styles.title}>Pick Six Analysis</h2>
             <p className={styles.overview}>{info}</p>
           </Col>
@@ -152,8 +169,9 @@ function PlayerInfo({ display, player, change, info }) {
             <h2 className={styles.title}>2021 Statistics</h2>
             {posStats[player.FantPos]}
           </Col>
-          <Col className={styles.section} lg={4}>
+          <Col className={styles.section} lg={5}>
             <h2 className={styles.title}>Recent News</h2>
+            <p>{news()}</p>
           </Col>
         </Row>
       </div>
