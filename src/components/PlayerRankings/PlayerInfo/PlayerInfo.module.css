@@ -1,6 +1,6 @@
 .main {
     width: 80vw;
-    background: linear-gradient(93.24deg, #D3E0FF 0%, #FFCDEB 99.4%);
+    background-color: rgb(234, 245, 255);
     margin-left: 10vw;
     margin-right: 10vw;
     text-align: center;
@@ -20,13 +20,13 @@
 .mainActive {
     width: 80vw;
     height: 40vh;
-    background: linear-gradient(93.24deg, #D3E0FF 0%, #e1faf9 99.4%);
+    background-color: #222122;
     margin-left: 10vw;
     margin-right: 10vw;
     text-align: center;
     overflow-y: auto;
     overflow-x: hidden;
-    animation-duration: 0.75s;
+    animation-duration: 1s;
     animation-name: drop;
 }
 
@@ -68,12 +68,32 @@
 .title {
     font-size: 2.5vh;
     font-weight: bold;
+    color: white
 }
  
+.overviewBox {
+    background-color: rgb(241, 241, 241);
+    padding: 1vw;
+    margin: 1vw;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(235, 84, 172);
+    border-radius: 20px;
+}
+
 .overview {
     text-align: left;
     margin-left: 15px;
     line-height: 120%;
+}
+
+.stats {
+    margin-top: 1vw;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(84, 94, 235);
+    border-radius: 20px;
+    overflow: hidden;
 }
 
 .statistics1 {
@@ -82,7 +102,6 @@
     padding: 2% 5%;
     text-align: center;
     margin: 0;
-    margin-top: 1vw;
 }
 .statistics2 {
     background-color: rgb(250, 248, 248);
@@ -117,14 +136,19 @@
     padding: 1vw;
     margin-right: 1vw;
     margin-top: 2vh;
-    border-radius: 15px;
+    border-radius: 20px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: rgb(0, 247, 255);
 }
 
+.noNews {
+    color: white;
+}
 @media only screen and (max-width: 992px) {
     .overview {
         text-align: center;
         margin-right: 5%;
         margin-left: 5%;
     }
-
 }
