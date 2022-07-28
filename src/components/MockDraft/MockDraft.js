@@ -29,7 +29,7 @@ const MockDraft = () => {
   const [teams, setTeams] = useState(8)
 
   const [userPick, setUserPick] = useState(4)
-  const userStartPick = 4
+  const [userStartPick, setUserStartPick] = useState(4)
   const [oddUserPick, setOddUserPick] = useState(true)
   const [currentPick, setCurrentPick] = useState(-1)
 
@@ -59,13 +59,11 @@ const MockDraft = () => {
 
     const currentRound = Math.floor(currentPick / teams)
     let tempDraftedPlayers = draftedPlayers[currentRound]
-    //tempDraftedPlayers[currentPick % teams] = player
     
     if (currentRound % 2 === 0) {
       tempDraftedPlayers[currentPick % teams] = player
     } else {
       tempDraftedPlayers.reverse()
-      //tempDraftedPlayers[teams - (currentPick % teams)] = player
       tempDraftedPlayers[currentPick % teams] = player
       tempDraftedPlayers.reverse()
     }
@@ -87,7 +85,6 @@ const MockDraft = () => {
   // Handles each pick as either a user or algorithm turn
   useEffect(() => {
    if (currentPick < teams * rounds) {
-    //if ((currentPick % teams) === userPick) {
       if (currentPick  === userPick) {
         userTurnHandler()
       } else if (currentPick >= 0) {
@@ -99,16 +96,14 @@ const MockDraft = () => {
   // Runs the user turn
   const userTurnHandler = async () => {
     setUserTurn(true)
-    await new Promise(r => setTimeout(r, 2000))
+    await new Promise(r => setTimeout(r, userTurnTime * 1000))
     setUserTurn(false)
     setCurrentPick(currentPick + 1)
     if (oddUserPick === true) {
-      console.log("TEST")
       setUserPick(userPick + 2 * (teams - userStartPick) - 1)
       console.log(userPick)
 
     } else {
-      console.log("TEST2")
       setUserPick(userPick + 2 * userStartPick + 1)
       console.log(userPick)
     }
@@ -117,7 +112,7 @@ const MockDraft = () => {
 
   // Runs the algorithm turn
   const algoTurnHandler = async () => {
-    await new Promise(r => setTimeout(r, 1000))
+    await new Promise(r => setTimeout(r, 2000))
     addPlayer(players[0], false)
     setCurrentPick(currentPick + 1)
   }
@@ -159,7 +154,7 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
               <FormControl
-                defaultValue={60}
+                defaultValue={5}
                 disabled={started}
                 aria-label="num-teams"
                 onChange={(e) => setUserTurnTime(parseInt(e.target.value))}
@@ -175,8 +170,9 @@ const MockDraft = () => {
                 defaultValue={4}
                 disabled={started}
                 aria-label="pick-sum"
-                //onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? setUserPick(parseInt(e.target.value - 1)) : setUserPick(4)}
-                onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? userPick = parseInt(e.target.value - 1) : userPick = 4}
+                onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? 
+                  (setUserPick(parseInt(e.target.value - 1)), setUserStartPick(parseInt(e.target.value - 1))) 
+                  : (setUserPick(Math.floor(Math.random() * teams)), setUserStartPick(Math.floor(Math.random() * teams)))}
 
               />
             </InputGroup>
