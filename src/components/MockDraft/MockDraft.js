@@ -19,17 +19,17 @@ const MockDraft = () => {
     setPlayers(allPlayers)
   }, [])
 
+  const [rounds, setRounds] = useState(JSON.parse(localStorage.getItem("rounds")) || 12)
+  const [teams, setTeams] = useState(JSON.parse(localStorage.getItem("teams")) || 8)
+
   const [players, setPlayers] = useState([])
   const [team, setTeam] = useState([])
   const [draftedPlayers, setDraftedPlayers] = useState(
     [...Array(12)].map((e) => Array(8).fill(""))
   )
 
-  const [rounds, setRounds] = useState(12)
-  const [teams, setTeams] = useState(8)
-
-  const [userPick, setUserPick] = useState(1)
-  const [userStartPick, setUserStartPick] = useState(1)
+  const [userPick, setUserPick] = useState(JSON.parse(localStorage.getItem("userPick")) || 0)
+  const [userStartPick, setUserStartPick] = useState(JSON.parse(localStorage.getItem("userStartPick")) || 0)
   const [oddUserPick, setOddUserPick] = useState(true)
   const [currentPick, setCurrentPick] = useState(-1)
 
@@ -39,17 +39,31 @@ const MockDraft = () => {
   }
 
   const [userTurn, setUserTurn] = useState(false)
-  const [userTurnTime, setUserTurnTime] = useState(30)
+  const [userTurnTime, setUserTurnTime] = useState(JSON.parse(localStorage.getItem("userTurnTime")) || 5)
 
-  const [started, setStarted] = useState(false)
+  const [started, setStarted] = useState("not started")
+
+  function handleStartStopButton() {
+    if (started === "not started") {
+      setStarted("started")
+    } else if (started === "started") {
+      setStarted("ended")
+    }
+  }
+
+  useEffect(() => {
+    localStorage.setItem("teams", JSON.stringify(teams))
+    localStorage.setItem("rounds", JSON.stringify(rounds))
+    localStorage.setItem("userTurnTime", JSON.stringify(userTurnTime))
+    localStorage.setItem("userPick", JSON.stringify(userPick))
+    localStorage.setItem("userStartPick", JSON.stringify(userStartPick))
+  }, [teams, rounds, userTurnTime, userPick, userStartPick]);
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {
-    if (!started) {
       if (rounds > 0 && teams > 0) {
         setDraftedPlayers([...Array(rounds)].map((e) => Array(teams).fill("")))
       }
-    }
   }, [rounds, teams])
 
   // Adds a player to the board, if the person adding a player is a user then it adds the player to their team
@@ -80,10 +94,12 @@ const MockDraft = () => {
     ])
   }
 
-  // Starts mock draft
+  // Starts and ends mock draft
   useEffect(() => {
-    if (started) {
+    if (started === "started") {
       setCurrentPick(0)
+    } else if (started == "ended") {
+      window.location.reload(false)
     }
   }, [started])
 
@@ -133,8 +149,8 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Teams in League</InputGroup.Text>
               <FormControl
-                defaultValue={8}
-                disabled={started}
+                defaultValue={JSON.parse(localStorage.getItem("teams")) || 8}
+                disabled={started === "started"}
                 aria-label="num-teams"
                 onChange={(e) => setTeams(parseInt(e.target.value))}
               />
@@ -146,8 +162,8 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Number of Rounds</InputGroup.Text>
               <FormControl
-                defaultValue={12}
-                disabled={started}
+                defaultValue={JSON.parse(localStorage.getItem("rounds")) || 12}
+                disabled={started === "started"}
                 aria-label="num-rounds"
                 onChange={(e) => setRounds(parseInt(e.target.value))}
               />
@@ -159,8 +175,8 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
               <FormControl
-                defaultValue={5}
-                disabled={started}
+                defaultValue={JSON.parse(localStorage.getItem("userTurnTime")) || 5}
+                disabled={started === "started"}
                 aria-label="num-teams"
                 onChange={(e) => setUserTurnTime(parseInt(e.target.value))}
               />
@@ -172,8 +188,8 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Your Draft Position</InputGroup.Text>
               <FormControl
-                defaultValue={1}
-                disabled={started}
+                defaultValue={JSON.parse(localStorage.getItem("userPick")) + 1 || 1}
+                disabled={started === "started"}
                 aria-label="pick-sum"
                 onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? 
                   setUserPickState(parseInt(e.target.value - 1)) : setUserPickState(Math.floor(Math.random() * teams))}
@@ -183,15 +199,15 @@ const MockDraft = () => {
         </Row>
         <Row>
           <Col sm={4}>
-            <Button variant="primary" onClick={(e) => setStarted(!started)}>
-              {started ? "Stop Draft" : "Start Mock Draft"}
+            <Button variant="primary" onClick={(e) => handleStartStopButton()}>
+              {started !== "not started" ? "Stop Draft" : "Start Mock Draft"}
             </Button>
           </Col>
         </Row>
       </Container>
       <br />
 
-      
+
       <Container fluid>
         <Row>
           <Col sm={2}>
