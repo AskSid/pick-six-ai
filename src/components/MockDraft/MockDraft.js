@@ -200,7 +200,7 @@ const MockDraft = () => {
         <Row>
           <Col sm={4}>
             <Button variant="primary" onClick={(e) => handleStartStopButton()}>
-              {started !== "not started" ? "Stop Draft" : "Start Mock Draft"}
+              {started !== "not started" ? "Restart Draft" : "Start Mock Draft"}
             </Button>
           </Col>
         </Row>
