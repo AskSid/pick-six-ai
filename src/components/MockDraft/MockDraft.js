@@ -28,10 +28,15 @@ const MockDraft = () => {
   const [rounds, setRounds] = useState(12)
   const [teams, setTeams] = useState(8)
 
-  const [userPick, setUserPick] = useState(4)
-  const [userStartPick, setUserStartPick] = useState(4)
+  const [userPick, setUserPick] = useState(1)
+  const [userStartPick, setUserStartPick] = useState(1)
   const [oddUserPick, setOddUserPick] = useState(true)
   const [currentPick, setCurrentPick] = useState(-1)
+
+  function setUserPickState(pickNum) {
+    setUserPick(pickNum)
+    setUserStartPick(pickNum)
+  }
 
   const [userTurn, setUserTurn] = useState(false)
   const [userTurnTime, setUserTurnTime] = useState(30)
@@ -167,13 +172,11 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Your Draft Position</InputGroup.Text>
               <FormControl
-                defaultValue={4}
+                defaultValue={1}
                 disabled={started}
                 aria-label="pick-sum"
                 onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? 
-                  (setUserPick(parseInt(e.target.value - 1)), setUserStartPick(parseInt(e.target.value - 1))) 
-                  : (setUserPick(Math.floor(Math.random() * teams)), setUserStartPick(Math.floor(Math.random() * teams)))}
-
+                  setUserPickState(parseInt(e.target.value - 1)) : setUserPickState(Math.floor(Math.random() * teams))}
               />
             </InputGroup>
           </Col>
@@ -187,6 +190,8 @@ const MockDraft = () => {
         </Row>
       </Container>
       <br />
+
+      
       <Container fluid>
         <Row>
           <Col sm={2}>
