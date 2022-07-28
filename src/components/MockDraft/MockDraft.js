@@ -28,7 +28,7 @@ const MockDraft = () => {
     [...Array(12)].map((e) => Array(8).fill(""))
   )
 
-  const [userPick, setUserPick] = useState(JSON.parse(localStorage.getItem("userPick")) || 0)
+  const [userPick, setUserPick] = useState(JSON.parse(localStorage.getItem("userStartPick")) || 0)
   const [userStartPick, setUserStartPick] = useState(JSON.parse(localStorage.getItem("userStartPick")) || 0)
   const [oddUserPick, setOddUserPick] = useState(true)
   const [currentPick, setCurrentPick] = useState(-1)
@@ -188,7 +188,7 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Your Draft Position</InputGroup.Text>
               <FormControl
-                defaultValue={JSON.parse(localStorage.getItem("userPick")) + 1 || 1}
+                defaultValue={JSON.parse(localStorage.getItem("userStartPick")) + 1 || 1}
                 disabled={started === "started"}
                 aria-label="pick-sum"
                 onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? 
