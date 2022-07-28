@@ -15,7 +15,7 @@ const PlayerCard = ({ clickable, addPlayer, player, name, position, team }) => {
     <div>
     { clickable ? 
       <button className={positions.get(position)} onClick={() => { addPlayer(player, true) }} >
-        <p>{name}, {team}, {position}</p>
+        <p>{name} {team} {position}</p>
       </button> : 
       <div className={positions.get(position)}>
         {/* <p className={styles.text}>{stringName[0]}</p> */}
