@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import NavBar from "../NavBar";
 import Team from "./Team";
-import Board from "./Board";
+import Board from "./Board/Board";
 import AvailablePlayers from "./AvailablePlayers";
 import playersJson from '../../players.json'
 import {
@@ -26,7 +26,7 @@ const MockDraft = () => {
   )
 
   const [rounds, setRounds] = useState(12)
-  const [teams, setTeams] = useState(8)
+  const [teams, setTeams] = useState(16)
 
   const [userPick, setUserPick] = useState(4)
   const userStartPick = 4
@@ -196,7 +196,7 @@ const MockDraft = () => {
           <Col sm={2}>
             <Team team={team} />
           </Col>
-          <Col sm={8}>
+          <Col sm={12}>
             <Board draftedPlayers={draftedPlayers} />
           </Col>
           <Col sm={2}>

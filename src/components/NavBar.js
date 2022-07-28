@@ -29,7 +29,7 @@ const NavBar = () => {
                   Behind the Algorithm
                 </Link>
                 {" "}
-                <Link className={styles.link} to="/about">
+                <Link className={styles.link} to="/blog">
                   Blog
                 </Link>
             </Nav>

@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./Header.module.css";
 import { Container, Row, Col } from "react-bootstrap";
 import MainImage from "../../../images/MainImage.png"
+import Main from "../../../images/Rocket.svg"
 import { Link } from "react-router-dom";
 
 function Header() {

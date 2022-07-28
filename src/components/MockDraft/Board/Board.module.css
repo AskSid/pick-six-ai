@@ -1,0 +1,18 @@
+.board {
+    overflow-x: scroll;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 20px;
+    padding-bottom: 1vw;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.rowReverse {
+    display: flex;
+    flex-direction: row;
+}
