@@ -8,20 +8,27 @@ const Board = ({ draftedPlayers }) => {
     <div>
       <h1>Draft Board</h1>
       <Container fluid>
-          {draftedPlayers?.map(round => 
+          {draftedPlayers?.map((round, index) => 
             <Row>
-                {round?.map(player => 
-                    <Col sm={8/(round.length)}>
+                {
+                (index % 2 === 0) ? 
+                  (round?.map(player => 
+                    <Col sm={Math.floor(12/(round.length))}>
                         <div className='bg-light'>
-                            <PlayerCard key={player.id} player={player} name={player.name} team={player.team} position={player.position} clickable={false} />
+                            <PlayerCard key={player["-9999"]} player={player} name={player.Player} team={player.Tm} position={player.FantPos} clickable={false} />
                         </div>
                     </Col>
-                )}
+                  )) : 
+                  (round?.map(player => 
+                    <Col sm={Math.floor(12/(round.length))}>
+                        <div className='bg-warning'>
+                            <PlayerCard key={player["-9999"]} player={player} name={player.Player} team={player.Tm} position={player.FantPos} clickable={false} />
+                        </div>
+                    </Col>
+                  ))
+                }
             </Row>
           )}
-          <Row>
-              <Col sm={4/3}></Col>
-          </Row>
       </Container>
     </div>
   )

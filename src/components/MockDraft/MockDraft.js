@@ -12,157 +12,115 @@ import {
   FormControl,
   Button,
 } from "react-bootstrap";
-import db from "../../firebase";
-import {collection, getDocs} from "firebase/firestore"
 
 const MockDraft = () => {
-  var myArr = JSON.parse(JSON.stringify(playersJson));
+  const allPlayers = JSON.parse(JSON.stringify(playersJson))
+  useEffect(() => {
+    setPlayers(allPlayers)
+  }, [])
 
-  const ref = collection(db, "players");
-
-  const playersRef = db.collection("players");
-  const [players, setPlayers] = useState([]);
-  const [team, setTeam] = useState([]);
+  const [players, setPlayers] = useState([])
+  const [team, setTeam] = useState([])
   const [draftedPlayers, setDraftedPlayers] = useState(
     [...Array(12)].map((e) => Array(8).fill(""))
   )
 
+  const [rounds, setRounds] = useState(12)
+  const [teams, setTeams] = useState(8)
 
-  const allPlayers = JSON.parse(JSON.stringify(playersJson))
-  console.log(allPlayers[0].Rk)
+  const [userPick, setUserPick] = useState(4)
+  const userStartPick = 4
+  const [oddUserPick, setOddUserPick] = useState(true)
+  const [currentPick, setCurrentPick] = useState(-1)
 
+  const [userTurn, setUserTurn] = useState(false)
+  const [userTurnTime, setUserTurnTime] = useState(30)
 
-  const [rounds, setRounds] = useState(12);
-  const [teams, setTeams] = useState(8);
-
-  const [userPick, setUserPick] = useState(0);
-  const [currentPick, setCurrentPick] = useState(0);
-
-  const [started, setStarted] = useState(false);
-  const [userTurn, setUserTurn] = useState(true);
-  const [userTurnTime, setUserTurnTime] = useState(30);
-
-  /*
-  // Getting players from firestore database
-  useEffect(() => {
-    getPlayers()
-  }, [])
-  function getPlayers() {
-    playersRef.onSnapshot((querySnapshot) => {
-      const playerDocs = []
-      querySnapshot.forEach((doc) => {
-        playerDocs.push(doc.data())
-      })
-      setPlayers(playerDocs)
-    })
-  }
-  /*
-    /*
-    //ONE TIME GET FUNCTION
-    function getPlayers2() {
-      playersRef.get().then((item) => {
-        const items = item.docs.map((doc) => doc.data());
-        setPlayers(items);
-      });
-    }
-    useEffect(() => {
-      getPlayers2();
-      // eslint-disable-next-line
-    }, []);
-    */
-
-  //ONE TIME GET FUNCTION
-  // function getPlayers2() {
-  //   const play = playersRef.orderBy('fantasy-points', 'desc'); //THIS ORDERS PLAYERS BASED ON SOME METRIC -> Good for Ranking
-  //   playersRef.get().then((item) => {
-  //     const items = item.docs.map((doc) => doc.data());
-  //     const rb = items.filter((x) =>  x.position == "QB"); //THIS FILTERS PLAYERS BASED ON SOME METRIC -> Good for Position Sorting
-  //     setPlayers(items);
-  //   });
-  // }
-
-  // useEffect(() => {
-  //   getPlayers2();
-  //   //eslint-disable-next-line
-  // }, []);
-
-  // useEffect(() => {
-  //     const getUsers = async () => {
-  //       const data = await getDocs(ref);
-  //       setPlayers(data.docs.map((doc) => ({...doc.data(), id: doc.id})))
-  //     };
-
-  //     getUsers();
-  // },[]);
-
+  const [started, setStarted] = useState(false)
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {
     if (!started) {
       if (rounds > 0 && teams > 0) {
-        setDraftedPlayers([...Array(rounds)].map((e) => Array(teams).fill("")));
+        setDraftedPlayers([...Array(rounds)].map((e) => Array(teams).fill("")))
       }
     }
-  }, [rounds, teams]);
+  }, [rounds, teams])
 
   // Adds a player to the board, if the person adding a player is a user then it adds the player to their team
   function addPlayer(player, user) {
     if (user) {
-      setTeam([...team, player]);
+      setTeam([...team, player])
+      setUserTurn(false)
     }
 
-    const tempPlayers = players.filter((item) => item !== player);
-    setPlayers(tempPlayers);
+    const tempPlayers = players.filter((item) => item["-9999"] !== player["-9999"])
+    setPlayers(tempPlayers)
 
-    const currentRound = Math.floor(currentPick / teams);
-    let tempDraftedPlayers = draftedPlayers[currentRound];
-    tempDraftedPlayers[currentPick % teams] = player;
-
+    const currentRound = Math.floor(currentPick / teams)
+    let tempDraftedPlayers = draftedPlayers[currentRound]
+    //tempDraftedPlayers[currentPick % teams] = player
+    
+    if (currentRound % 2 === 0) {
+      tempDraftedPlayers[currentPick % teams] = player
+    } else {
+      tempDraftedPlayers.reverse()
+      //tempDraftedPlayers[teams - (currentPick % teams)] = player
+      tempDraftedPlayers[currentPick % teams] = player
+      tempDraftedPlayers.reverse()
+    }
+    
     setDraftedPlayers([
       ...draftedPlayers.slice(0, currentRound),
       tempDraftedPlayers,
       ...draftedPlayers.slice(currentRound + 1, rounds),
-    ]);
-
-    setCurrentPick(currentPick + 1);
-    //setUserTurn(false)
+    ])
   }
 
-  /*
-  function runAlgoTurn() {
-    for (let i = 0; i < teams; i++) {
-      addPlayer(players[0], false)
-    }
-    setUserTurn(true)
-  }
-  */
-
-  // Runs game based on whether it is the user's turn or not
-  /*
-  useEffect(() => {
-    if (userTurn) {
-      setTimeout(setUserTurn(false), userTurnTime * 1000)
-    } else {
-      setTimeout(runAlgoTurn, teams * 3 * 1000)
-    }
-  }, [userTurn])
-  */
-
-  // Starts the game by giving the user a pick
-
-  /*
+  // Starts mock draft
   useEffect(() => {
     if (started) {
-      setUserPick(Math.floor(Math.random() * (teams + 1)))
-      console.log(userPick)
-      if (userPick === 0) {
-        setUserTurn(true)
-      } else {
-        setUserTurn(false)
-      }
+      setCurrentPick(0)
     }
   }, [started])
-  */
+
+  // Handles each pick as either a user or algorithm turn
+  useEffect(() => {
+   if (currentPick < teams * rounds) {
+    //if ((currentPick % teams) === userPick) {
+      if (currentPick  === userPick) {
+        userTurnHandler()
+      } else if (currentPick >= 0) {
+        algoTurnHandler()
+      }
+  }
+  }, [currentPick])
+
+  // Runs the user turn
+  const userTurnHandler = async () => {
+    setUserTurn(true)
+    await new Promise(r => setTimeout(r, 2000))
+    setUserTurn(false)
+    setCurrentPick(currentPick + 1)
+    if (oddUserPick === true) {
+      console.log("TEST")
+      setUserPick(userPick + 2 * (teams - userStartPick) - 1)
+      console.log(userPick)
+
+    } else {
+      console.log("TEST2")
+      setUserPick(userPick + 2 * userStartPick + 1)
+      console.log(userPick)
+    }
+    setOddUserPick(!oddUserPick)
+  }
+
+  // Runs the algorithm turn
+  const algoTurnHandler = async () => {
+    await new Promise(r => setTimeout(r, 1000))
+    addPlayer(players[0], false)
+    setCurrentPick(currentPick + 1)
+  }
 
   return (
     <div>
@@ -173,8 +131,9 @@ const MockDraft = () => {
         <Row>
           <Col sm={4}>
             <InputGroup className="mb-3 w-50">
-              <InputGroup.Text>Number of Teams</InputGroup.Text>
+              <InputGroup.Text>Teams in League</InputGroup.Text>
               <FormControl
+                defaultValue={8}
                 disabled={started}
                 aria-label="num-teams"
                 onChange={(e) => setTeams(parseInt(e.target.value))}
@@ -187,6 +146,7 @@ const MockDraft = () => {
             <InputGroup className="mb-3 w-50">
               <InputGroup.Text>Number of Rounds</InputGroup.Text>
               <FormControl
+                defaultValue={12}
                 disabled={started}
                 aria-label="num-rounds"
                 onChange={(e) => setRounds(parseInt(e.target.value))}
@@ -196,21 +156,37 @@ const MockDraft = () => {
         </Row>
         <Row>
           <Col sm={4}>
-            <Button variant="primary" onClick={(e) => setStarted(!started)}>
-              {started ? "Stop Draft" : "Start Mock Draft"}
-            </Button>
-          </Col>
-        </Row>
-        <Row>
-          <Col sm={4}>
             <InputGroup className="mb-3 w-50">
-              <InputGroup.Text>Time to Pick (seconds)</InputGroup.Text>
+              <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
               <FormControl
+                defaultValue={60}
                 disabled={started}
                 aria-label="num-teams"
                 onChange={(e) => setUserTurnTime(parseInt(e.target.value))}
               />
             </InputGroup>
+          </Col>
+        </Row>
+        <Row>
+          <Col sm={4}>
+            <InputGroup className="mb-3 w-50">
+              <InputGroup.Text>Your Draft Position</InputGroup.Text>
+              <FormControl
+                defaultValue={4}
+                disabled={started}
+                aria-label="pick-sum"
+                //onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? setUserPick(parseInt(e.target.value - 1)) : setUserPick(4)}
+                onChange={(e) => ((e.target.value > 0) && (e.target.value <= teams)) ? userPick = parseInt(e.target.value - 1) : userPick = 4}
+
+              />
+            </InputGroup>
+          </Col>
+        </Row>
+        <Row>
+          <Col sm={4}>
+            <Button variant="primary" onClick={(e) => setStarted(!started)}>
+              {started ? "Stop Draft" : "Start Mock Draft"}
+            </Button>
           </Col>
         </Row>
       </Container>
@@ -225,7 +201,7 @@ const MockDraft = () => {
           </Col>
           <Col sm={2}>
             <AvailablePlayers
-              players={allPlayers}
+              players={players}
               clickable={userTurn}
               addPlayer={addPlayer}
             />
