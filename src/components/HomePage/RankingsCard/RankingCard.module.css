@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
 
 .rankingsCard {
-    background-color: black;
+    background-color: var(--main-bg-color);
     padding-bottom: 5vh;
     font-family: 'inter';
     padding-top: 10vh;
@@ -10,7 +10,7 @@
 
 .rankingsCardInfo {
     padding-top: 3vh;
-    background-color: black;
+    background-color: var(--main-bg-color);
     text-align: center;
 }
 

@@ -1,24 +1,74 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap");
 
+:root {
+  --main-bg-color: rgb(17, 17, 17);
+  /* var(--main-bg-color) */
+}
+
+
 .header {
-  background-color: black;
+  background-color: var(--main-bg-color);
   padding-top: 1vh;
-  padding-bottom: 10vh;
   font-family: "inter";
-  
+  padding-left: 5vw;
 }
 
 .titleContainer {
   padding-top: 4vh;
-  background-color: black;
+  background-color: var(--main-bg-color);
+  background-image: url(../../../images/blobanimation.svg);
+  background-repeat: no-repeat;
+  background-position-x: 25vw;
+  background-position-y: -6vw;
+  background-size: 135vh;
+  z-index: 2;
+  animation: image-resize 15s linear infinite;
 }
 
+@keyframes image-resize {
+  0% {
+    background-size: 124vh;
+    background-position-x: 35vw;
+  }
+  10% {
+    background-size: 145vh;
+    background-position-x: 29vw;
+    background-position-y: -4vh;
+  }
+  30% {
+    background-size: 120vh;
+    background-position-x: 30vw;
+    background-position-y: -3vh;
+  }
+  50% {
+    background-size: 125vh;
+    background-position-x: 32vw;
+    background-position-y: -3vh;
+  }
+  60% {
+    background-size: 135vh;
+    background-position-x: 35vw;
+    background-position-y: -6vh;
+  }
+  80% {
+    background-size: 125vh;
+    background-position-x: 34vw;
+    background-position-y: -3vh;
+  }
+  100% {
+    background-size: 120vh;
+    background-position-x: 35vw;
+  }
+}
+
+
 .title {
-  font-size: 6.5vmax;
-  background-image: linear-gradient(to right, #ff00d9, #00fcce);
+  font-size: 7vmax;
+  background-image: linear-gradient(to right, #ff00ff, #00fcce);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: rainbow-animation 100s linear infinite;
+  margin-top: 0vh;
 }
 
 @keyframes rainbow-animation {
@@ -30,19 +80,24 @@
 .subTitle {
   color: white;
   font-size: 5vh;
-  margin-top: 4vh;
+  margin-top: 3vh;
+  margin-right: 10vw;
 }
 
 .imageContainer {
   padding-left: 0;
+  padding-right: 10vw;
+  z-index: 1;
 }
 
 .mainImage {
-  width: 27vmax;
+  height: 70vh;
+  margin-top: 0vh;
+  transform: translateX(-10vw);
 }
 
 .callToAction {
-  padding-top: 0vh;
+  padding-top: 4vh;
   font-size: 2vmax;
 }
 
@@ -56,7 +111,7 @@
   border: solid;
   border-image-slice: 1;
   border-width: 3px;
-  border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
+  border-image-source: linear-gradient(60deg, #ff00b3, #00ffea);
   padding: 1vmax 1vmax;
   border-radius: 4px;
   font-weight: normal;
@@ -72,7 +127,43 @@
   box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
 }
 
+.informationTitle {
+  margin-top: 20vh;
+  background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 30%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  font-size: 4vh;
+  padding-bottom: 1vh;
+}
+
+.informationHeader {
+  padding-bottom: 2vh;
+  color: white;
+  font-size: 4vmax;
+}
+
+.underline {
+  padding-bottom: 2vh;
+  width: 40vw
+}
+
+.informationSubheading {
+  padding-bottom: 0vh;
+  padding-right: 7vw;
+  color: rgb(221, 221, 221);
+  font-size: 2vmax;
+}
+
 @media only screen and (max-width: 992px) {
+
+  .titleContainer {
+    background-position-x: 0;
+    padding-bottom: 10vh;
+  }
+
+
   .title {
     text-align: center;
     font-size: 10vmax;
@@ -81,12 +172,11 @@
   .subTitle {
     color: white;
     text-align: center;
+    margin-right: 0;
   }
 
-  .mainImage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  .imageContainer {
+    display: none;
   }
 
   .callToActionText {

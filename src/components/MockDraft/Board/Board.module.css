@@ -1,11 +1,22 @@
 .board {
     overflow-x: scroll;
     border-style: solid;
-    border-color: black;
+    border-color: rgb(255, 255, 255);
     border-width: 2px;
     border-radius: 20px;
     padding-bottom: 1vw;
-    
+    height: 60vh;
+    margin-bottom: 5vh;
+    padding-left: 10px;
+}
+
+.board::-webkit-scrollbar {
+    display: none;
+  }
+
+.title {
+    color: white;
+    text-align: center;
 }
 
 .row {

@@ -1,60 +1,65 @@
 .qb {
-    padding: 1vw;
-    text-align: center;
-    font-size: 0.75vmax;
-    background-color: #e3ff7f;
-    margin-top: 1vh;
-    margin-right: 0.5vw;
-    width:8vw;
-    border-radius: 20px;
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #ff8484;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
 }
 
 .rb {
-    padding: 1vw;
-    text-align: center;
-    font-size: 0.75vmax;
-    background-color: rgb(255, 127, 127);
-    margin-top: 1vh;
-    margin-right: 0.5vw;
-    width: 8vw;
-    border-radius: 20px;
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #a4ffe9;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
 }
 
 .wr {
-    padding: 1vw;
-    text-align: center;
-    font-size: 0.75vmax;
-    background-color: rgb(127, 193, 255);
-    margin-top: 1vh;
-    margin-right: 0.5vw;
-    width: 8vw;
-    border-radius: 20px;
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #c1c8ff;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
 }
 
 .te {
-    padding: 1vw;
-    text-align: center;
-    font-size: 0.75vmax;
-    background-color: rgb(255, 210, 127);
-    margin-top: 1vh;
-    margin-right: 0.5vw;
-    width: 8vw;
-    border-radius: 15px;
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #ffbe82;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
 }
 
 .none {
-    padding: 1vw;
-    text-align: center;
-    font-size: 0.75vmax;
-    background-color: rgb(221, 221, 221);
-    margin-top: 1vh;
-    margin-right: 0.5vw;
-    width: 8vw;
-    border-radius: 15px;
-    height: 10vh;
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: rgb(221, 221, 221);
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  height: 13vh;
 }
 
 .text {
-    margin: 0;
-    font-weight: bold;
+  margin: 0;
+}
+
+.pick {
+  margin: 0;
+  font-weight: bold;
+  text-align: left;
 }

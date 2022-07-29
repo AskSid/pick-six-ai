@@ -28,7 +28,7 @@ function getMaxPick(x) {
 const Board = ({ draftedPlayers }) => {
   return (
     <div>
-      <h1>Draft Board</h1>
+      <h1 className={styles.title}>Draft Board</h1>
       <Container className={styles.board}>
         {draftedPlayers?.map((round, index) =>
           index % 2 === 0 ? (

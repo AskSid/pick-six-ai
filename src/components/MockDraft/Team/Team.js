@@ -1,10 +1,11 @@
 import React from 'react'
-import PlayerCard from './PlayerCard/PlayerCard'
+import styles from './Team.module.css'
+import PlayerCard from '../PlayerCard/PlayerCard'
 
 const Team = ( { team }) => {
   return (
-    <div>
-        <h1>My Team</h1>
+    <div className={styles.main}>
+        <h1 className={styles.title}>My Team</h1>
         { team?.map(player => <PlayerCard player={player} name={player.Player} team={player.Tm} position={player.FantPos} clickable={false}/>) }
     </div>
   )

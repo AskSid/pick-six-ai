@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito:wght@300&display=swap');
 
+:root {
+    --main-bg-color: rgb(17, 17, 17);
+    /* var(--main-bg-color) */
+  }
+
 .information {
     font-family: 'inter';
-    background-color: black;
-    padding-top: 5vmin;
+    background-color: var(--main-bg-color);
+    padding-top: 0vmin;
     padding-bottom: 10vh;
 }
 
@@ -14,7 +19,7 @@
     background-clip: text;
     text-fill-color: transparent;
     font-size: 4vh;
-    padding-bottom: 1vh;
+    padding-bottom: 0vh;
     padding-left: 5vw;
 }
 

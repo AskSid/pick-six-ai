@@ -16,7 +16,7 @@ const PlayerCard = ({ clickable, addPlayer, player, name, position, team, pick})
       nameSplit[1] = String(name).split(" ")[1]
     }
 
-    const pickNum = pick ?  <p className={styles.text}>{pick}</p> : null;
+    const pickNum = pick ?  <p className={styles.pick}>{pick}</p> : null;
 
   return (
     <div>
@@ -28,8 +28,7 @@ const PlayerCard = ({ clickable, addPlayer, player, name, position, team, pick})
         {pickNum}
         <p className={styles.text}>{nameSplit[0]}</p>
         <p className={styles.text}>{nameSplit[1]}</p>
-        <p className={styles.text}>{team}</p>
-        <p className={styles.text}>{position}</p>
+        <p className={styles.text}>{team} - {position}</p>
       </div> }
     </div>
     

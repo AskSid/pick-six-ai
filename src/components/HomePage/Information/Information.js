@@ -10,10 +10,7 @@ function Information(props) {
   return (
     <div className={styles.information}>
       <Container>
-        <h2 className={styles.informationTitle}>What we're About</h2>
-        <h2 className={styles.informationHeader}>Pick Six AI Core Values</h2>
-        <img className={styles.underline} src={Underline} alt="BigCo Inc. logo"/>
-        <p className={styles.informationSubheading}>At our core values, we're a bunch of football-loving data nerds who want you to win your fantasy football league</p>
+
         <Row>
           <Col md={4}>
             <img

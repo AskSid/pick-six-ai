@@ -1,6 +1,31 @@
+:root {
+    --main-bg-color: rgb(17, 17, 17);
+    /* var(--main-bg-color) */
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Italiana&family=Nunito:wght@300&display=swap');
+
 .NavBar {
-    background-color: black;
-    padding-top: 3vh;
+    background-color: var(--main-bg-color);
+    padding-top: 2vh;
+    padding-right: 5vw;
+}
+
+.logo {
+    text-decoration: none;
+    color: white;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    margin-top: 1vh;
+    text-decoration: none;
+    color: white;
+    width: max-content;
+    font-family: 'italiana';
+    font-size: 2rem;
+}
+
+.logo:hover{
+    color: lightgray;
 }
 
 .link {

@@ -1,5 +1,23 @@
+.mock {
+    background-color: black;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.inputs {
+    
+}
+
 .select {
     height: 1000vw;
     background-color: white;
     /* transform: translateY(70vh); */
+}
+
+.team {
+    background-color: black;
 }

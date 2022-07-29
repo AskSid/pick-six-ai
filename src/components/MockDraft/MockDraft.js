@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import styles from "./MockDraft.module.css";
 import NavBar from "../NavBar";
-import Team from "./Team";
+import Team from "./Team/Team";
 import Board from "./Board/Board";
-import AvailablePlayers from "./AvailablePlayers";
+import AvailablePlayers from "./AvailablePlayers/AvailablePlayers";
 import playersJson from "../../players.json";
 import {
   Container,
@@ -151,9 +151,9 @@ const MockDraft = () => {
   };
 
   return (
-    <div>
+    <div className={styles.mock}>
       <NavBar />
-      <h1>Mock Draft</h1>
+      <h1 className={styles.title}>Mock Draft</h1>
       <br />
       <Container fluid>
         <Row>
@@ -226,18 +226,17 @@ const MockDraft = () => {
       </Container>
       <br />
 
-      <Container fluid>
+      <div>
         <Row>
           <Col sm={12}>
             <Board draftedPlayers={draftedPlayers} />
           </Col>
           <div className={styles.select}>
-            <Row>
-              {" "}
-              <Col sm={6}>
+            <Row className='g-0'>
+              <Col sm={6} className={styles.team}>
                 <Team team={team} />
               </Col>
-              <Col sm={6}>
+              <Col sm={6} className={styles.team}>
                 <AvailablePlayers
                   players={players}
                   clickable={userTurn}
@@ -247,7 +246,7 @@ const MockDraft = () => {
             </Row>
           </div>
         </Row>
-      </Container>
+      </div>
     </div>
   );
 };

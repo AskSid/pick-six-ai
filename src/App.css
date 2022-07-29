@@ -5,3 +5,16 @@
     font-family: 'inter';
 }
 
+::-webkit-scrollbar {
+    width: 2px;
+    background-color: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(0, 255, 255);
+  }
+  
+  element::-webkit-scrollbar {
+    display: none; /* for Chrome, Safari, and Opera */
+  }
