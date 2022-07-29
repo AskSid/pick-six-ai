@@ -5,10 +5,43 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Italiana&family=Nunito:wght@300&display=swap');
 
-.NavBar {
+.nav {
     background-color: var(--main-bg-color);
-    padding-top: 2vh;
+    padding-top: 1vh;
     padding-right: 5vw;
+    width: 100%;
+    transition-timing-function: ease-out;
+    transition: 0.5s;
+    position: fixed;
+}
+
+.nav2 {
+    background-color:rgb(59, 59, 59);
+    padding-top: 1vh;
+    padding-right: 5vw;
+    width: 100%;
+    transition-timing-function: ease-in;
+    transition: 0.5s;
+    position: fixed;
+    transform: translateY(-11vh);
+    z-index: 10;
+}
+
+.nav3 {
+    background-color:rgb(59, 59, 59);
+    padding-top: 1vh;
+    padding-right: 5vw;
+    width: 100%;
+    transition-timing-function: ease-in;
+    transition: 0.3s;
+    position: fixed;
+    z-index: 10;
+}
+
+@keyframes move-up {
+    to {
+        top: 0;
+    }
 }
 
 .logo {

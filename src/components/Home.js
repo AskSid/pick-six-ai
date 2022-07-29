@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div>
       <Heading />
-      <NavBar />
+      <NavBar isHome={true}/>
       <Header/>
       <Information/>
       <MockDraftCard/>

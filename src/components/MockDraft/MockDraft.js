@@ -151,8 +151,9 @@ const MockDraft = () => {
   };
 
   return (
+    <>
+          <NavBar />
     <div className={styles.mock}>
-      <NavBar />
       <h1 className={styles.title}>Mock Draft</h1>
       <br />
       <Container fluid>
@@ -248,6 +249,7 @@ const MockDraft = () => {
         </Row>
       </div>
     </div>
+    </>
   );
 };
 
