@@ -14,12 +14,12 @@ function MockDraftCard(props) {
               Try our simulated Mock Draft
             </p>
           </Col>
-          <Col lg={3} className={styles.mockDraftCardButtonContainer}>
+          <Col lg={2} className={styles.mockDraftCardButtonContainer}>
             <Link className={styles.mockDraftCardButton} to="/mock-draft">
               Play Now
             </Link>
           </Col>
-          <Col lg={3}>
+          <Col lg={4}>
           <img
               className={styles.mockDraftCardImage}
               src={InformationImage3}

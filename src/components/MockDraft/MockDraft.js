@@ -20,6 +20,10 @@ const MockDraft = () => {
     setPlayers(allPlayers);
   }, []);
 
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   const [rounds, setRounds] = useState(
     JSON.parse(localStorage.getItem("rounds")) || 12
   );
@@ -152,103 +156,110 @@ const MockDraft = () => {
 
   return (
     <>
-          <NavBar />
-    <div className={styles.mock}>
-      <h1 className={styles.title}>Mock Draft</h1>
-      <br />
-      <Container fluid>
-        <Row>
-          <Col sm={4}>
-            <InputGroup className="mb-3 w-50">
-              <InputGroup.Text>Teams in League</InputGroup.Text>
-              <FormControl
-                defaultValue={JSON.parse(localStorage.getItem("teams")) || 8}
-                disabled={started === "started"}
-                aria-label="num-teams"
-                onChange={(e) => setTeams(parseInt(e.target.value))}
-              />
-            </InputGroup>
-          </Col>
-        </Row>
-        <Row>
-          <Col sm={4}>
-            <InputGroup className="mb-3 w-50">
-              <InputGroup.Text>Number of Rounds</InputGroup.Text>
-              <FormControl
-                defaultValue={JSON.parse(localStorage.getItem("rounds")) || 12}
-                disabled={started === "started"}
-                aria-label="num-rounds"
-                onChange={(e) => setRounds(parseInt(e.target.value))}
-              />
-            </InputGroup>
-          </Col>
-        </Row>
-        <Row>
-          <Col sm={4}>
-            <InputGroup className="mb-3 w-50">
-              <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
-              <FormControl
-                defaultValue={
-                  JSON.parse(localStorage.getItem("userTurnTime")) || 5
-                }
-                disabled={started === "started"}
-                aria-label="num-teams"
-                onChange={(e) => setUserTurnTime(parseInt(e.target.value))}
-              />
-            </InputGroup>
-          </Col>
-        </Row>
-        <Row>
-          <Col sm={4}>
-            <InputGroup className="mb-3 w-50">
-              <InputGroup.Text>Your Draft Position</InputGroup.Text>
-              <FormControl
-                defaultValue={
-                  JSON.parse(localStorage.getItem("userStartPick")) + 1 || 1
-                }
-                disabled={started === "started"}
-                aria-label="pick-sum"
-                onChange={(e) =>
-                  e.target.value > 0 && e.target.value <= teams
-                    ? setUserPickState(parseInt(e.target.value - 1))
-                    : setUserPickState(Math.floor(Math.random() * teams))
-                }
-              />
-            </InputGroup>
-          </Col>
-        </Row>
-        <Row>
-          <Col sm={4}>
-            <Button variant="primary" onClick={(e) => handleStartStopButton()}>
-              {started !== "not started" ? "Restart Draft" : "Start Mock Draft"}
-            </Button>
-          </Col>
-        </Row>
-      </Container>
-      <br />
-
-      <div>
-        <Row>
-          <Col sm={12}>
-            <Board draftedPlayers={draftedPlayers} />
-          </Col>
-          <div className={styles.select}>
-            <Row className='g-0'>
-              <Col sm={6} className={styles.team}>
-                <Team team={team} />
-              </Col>
-              <Col sm={6} className={styles.team}>
-                <AvailablePlayers
-                  players={players}
-                  clickable={userTurn}
-                  addPlayer={addPlayer}
+      <NavBar />
+      <div className={styles.mock}>
+        <h1 className={styles.title}>Mock Draft</h1>
+        <br />
+        <Container fluid>
+          <Row>
+            <Col sm={4}>
+              <InputGroup className="mb-3 w-50">
+                <InputGroup.Text>Teams in League</InputGroup.Text>
+                <FormControl
+                  defaultValue={JSON.parse(localStorage.getItem("teams")) || 8}
+                  disabled={started === "started"}
+                  aria-label="num-teams"
+                  onChange={(e) => setTeams(parseInt(e.target.value))}
                 />
-              </Col>
-            </Row>
-          </div>
-        </Row>
+              </InputGroup>
+            </Col>
+          </Row>
+          <Row>
+            <Col sm={4}>
+              <InputGroup className="mb-3 w-50">
+                <InputGroup.Text>Number of Rounds</InputGroup.Text>
+                <FormControl
+                  defaultValue={
+                    JSON.parse(localStorage.getItem("rounds")) || 12
+                  }
+                  disabled={started === "started"}
+                  aria-label="num-rounds"
+                  onChange={(e) => setRounds(parseInt(e.target.value))}
+                />
+              </InputGroup>
+            </Col>
+          </Row>
+          <Row>
+            <Col sm={4}>
+              <InputGroup className="mb-3 w-50">
+                <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
+                <FormControl
+                  defaultValue={
+                    JSON.parse(localStorage.getItem("userTurnTime")) || 5
+                  }
+                  disabled={started === "started"}
+                  aria-label="num-teams"
+                  onChange={(e) => setUserTurnTime(parseInt(e.target.value))}
+                />
+              </InputGroup>
+            </Col>
+          </Row>
+          <Row>
+            <Col sm={4}>
+              <InputGroup className="mb-3 w-50">
+                <InputGroup.Text>Your Draft Position</InputGroup.Text>
+                <FormControl
+                  defaultValue={
+                    JSON.parse(localStorage.getItem("userStartPick")) + 1 || 1
+                  }
+                  disabled={started === "started"}
+                  aria-label="pick-sum"
+                  onChange={(e) =>
+                    e.target.value > 0 && e.target.value <= teams
+                      ? setUserPickState(parseInt(e.target.value - 1))
+                      : setUserPickState(Math.floor(Math.random() * teams))
+                  }
+                />
+              </InputGroup>
+            </Col>
+          </Row>
+          <Row>
+            <Col sm={4}>
+              <Button
+                variant="primary"
+                onClick={(e) => handleStartStopButton()}
+              >
+                {started !== "not started"
+                  ? "Restart Draft"
+                  : "Start Mock Draft"}
+              </Button>
+            </Col>
+          </Row>
+        </Container>
+        <br />
+
+        <div>
+          <Row>
+            <Col sm={12}>
+              <Board draftedPlayers={draftedPlayers} />
+            </Col>
+            <div className={styles.select}>
+              <Row className="g-0">
+                <Col sm={5} className={styles.team}>
+                  <Team team={team} />
+                </Col>
+                <Col sm={7} className={styles.team}>
+                  <AvailablePlayers
+                    players={players}
+                    clickable={userTurn}
+                    addPlayer={addPlayer}
+                  />
+                </Col>
+              </Row>
+            </div>
+          </Row>
+        </div>
       </div>
-    </div>
     </>
   );
 };

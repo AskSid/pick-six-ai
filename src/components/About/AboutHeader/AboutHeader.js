@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import styles from "./AboutHeader.module.css";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import Underline from "../../../images/underline.svg"
@@ -6,6 +6,11 @@ import Product from "../../../images/product.svg"
 import Github from "../../../images/github.png"
 
 function AboutHeader(props) {
+
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+  
   return (
     <div className={styles.main}>
       <Container>

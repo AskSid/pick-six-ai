@@ -1,0 +1,51 @@
+.main {
+    background-color: var(--main-bg-color);
+    padding-top: 0vh;
+    padding-bottom: 4vh;
+}
+
+.title {
+    background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 10%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin-left: 1vmax;
+    font-size: 3vmax;
+    margin-bottom: 10vh;
+}
+
+.col {
+    margin-top: 10vh;
+    padding: 1vmax;
+
+}
+.personContainer {
+    padding: 1vmax;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    width: 30vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.person {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bio {
+    width: 70%;
+    color: white;
+    margin-top: 8vh;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5rem;
+}

@@ -4,6 +4,7 @@ import NavBar from './NavBar'
 import Footer from './Footer/Footer'
 import Method from './About/Method/Method'
 import Technologies from './About/Technologies/Technologies'
+import Contributors from './About/Contributors/Contributors'
 
 
 const About = () => {
@@ -13,6 +14,7 @@ const About = () => {
       <AboutHeader/>
       <Method/>
       <Technologies/>
+      <Contributors/>
       <Footer/>
     </div>
   )

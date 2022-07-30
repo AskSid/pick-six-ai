@@ -16,14 +16,14 @@
 }
 
 .nav2 {
-    background-color:rgb(59, 59, 59);
-    padding-top: 1vh;
+    background-color: rgba(68, 68, 68, 0.945);
+    padding-top: 2vh;
     padding-right: 5vw;
     width: 100%;
     transition-timing-function: ease-in;
     transition: 0.5s;
     position: fixed;
-    transform: translateY(-11vh);
+    transform: translateY(-12vh);
     z-index: 10;
 }
 
@@ -46,7 +46,6 @@
 
 .logo {
     text-decoration: none;
-    color: white;
     margin-left: 6vw;
     margin-right: 6vw;
     margin-top: 1vh;
@@ -55,24 +54,58 @@
     width: max-content;
     font-family: 'italiana';
     font-size: 2rem;
+    font-weight: bold;
+    
 }
 
 .logo:hover{
     color: lightgray;
 }
 
+.logo2 {
+    text-decoration: none;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    margin-top: 1vh;
+    text-decoration: none;
+    color: rgb(179, 146, 255);
+    width: max-content;
+    font-family: 'italiana';
+    font-size: 2rem; 
+    font-weight: bold;
+}
+
+.logo2:hover{
+    color: lightgray;
+}
+
+
 .link {
     text-decoration: none;
-    color: white;
     margin-left: 8vw;
     margin-top: 1vh;
     text-decoration: none;
     color: white;
-    width: max-content;
-    
+    width: max-content; 
+    text-decoration: bold;
+    font-weight: bold;
+}
+
+.link2 {
+    text-decoration: none;
+    margin-left: 8vw;
+    margin-top: 1vh;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    width: max-content; 
+    font-weight: bold;
 }
 
 .link:hover{
+    color: lightgray;
+}
+
+.link2:hover{
     color: lightgray;
 }
 

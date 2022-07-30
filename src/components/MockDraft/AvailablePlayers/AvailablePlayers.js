@@ -1,8 +1,11 @@
-import React from 'react'
+import React, {useState} from 'react'
 import styles from './AvailablePlayers.module.css'
 import PlayerCard from '../PlayerCard/PlayerCard'
 
 const AvailablePlayers = ({ players, clickable, addPlayer }) => {
+
+  
+
   return (
     <div className={styles.main}>
       <h1 className={styles.title}>Available Players</h1>

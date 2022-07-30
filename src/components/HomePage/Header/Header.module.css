@@ -18,9 +18,9 @@
   background-color: var(--main-bg-color);
   background-image: url(../../../images/blobanimation.svg);
   background-repeat: no-repeat;
-  background-position-x: 25vw;
+  background-position-x: 35vw;
   background-position-y: -6vw;
-  background-size: 135vh;
+  background-size: 165vh;
   z-index: 2;
   animation: image-resize 15s linear infinite;
 }
@@ -32,17 +32,17 @@
   }
   10% {
     background-size: 145vh;
-    background-position-x: 29vw;
+    background-position-x: 35vw;
     background-position-y: -4vh;
   }
   30% {
     background-size: 120vh;
-    background-position-x: 30vw;
+    background-position-x: 37vw;
     background-position-y: -3vh;
   }
   50% {
     background-size: 125vh;
-    background-position-x: 32vw;
+    background-position-x: 37vw;
     background-position-y: -3vh;
   }
   60% {
@@ -52,7 +52,7 @@
   }
   80% {
     background-size: 125vh;
-    background-position-x: 34vw;
+    background-position-x: 39vw;
     background-position-y: -3vh;
   }
   100% {
@@ -128,7 +128,7 @@
 }
 
 .informationTitle {
-  margin-top: 20vh;
+  margin-top: 25vh;
   background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 30%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

@@ -1,5 +1,5 @@
 .main {
-    background-color: black;
+    background-color: var(--main-bg-color);
     padding-top: 10vh;
     padding-bottom: 10vh;
 }
@@ -79,7 +79,7 @@
 }
 
 .circleContainer {
-    background-color: black;
+    background-color: var(--main-bg-color);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;

@@ -32,10 +32,10 @@ function NavBar({isHome}) {
 
 
   const controlNavbar = () => {
-    if (y < 35 && isScrollUp == true) {
+    if (y < 25 && isScrollUp == true) {
       setShow(true);
     }
-    else if (isScrollUp == false && y > 20) {
+    else if (isScrollUp == false) {
       setShow(false);
     } 
   };
@@ -52,13 +52,15 @@ function NavBar({isHome}) {
   } 
 
   const navStyle = show ? styles.nav : dropHeader;
+  const linkStyle = show ? styles.link : styles.link2
+  const logoStyles = show ? styles.logo : styles.logo2
 
   return (
     <div className={navStyle}>
       <Navbar bg="rgb(17, 17, 17)" expand="lg" variant="dark">
         <Container>
           <Navbar.Brand href="#home">
-            <Link className={styles.logo} to="/">
+            <Link className={logoStyles} to="/">
               &#60; pick six ai &#62;
             </Link>
           </Navbar.Brand>
@@ -66,16 +68,16 @@ function NavBar({isHome}) {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               {" "}
-              <Link className={styles.link} to="/mock-draft">
+              <Link className={linkStyle} to="/mock-draft">
                 Mock Draft
               </Link>{" "}
-              <Link className={styles.link} to="/player-rankings">
+              <Link className={linkStyle} to="/player-rankings">
                 Player Rankings
               </Link>{" "}
-              <Link className={styles.link} to="/about">
+              <Link className={linkStyle} to="/about">
                 Behind the Algorithm
               </Link>{" "}
-              <Link className={styles.link} to="/blog">
+              <Link className={linkStyle} to="/blog">
                 Blog
               </Link>
             </Nav>

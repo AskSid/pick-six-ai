@@ -1,10 +1,11 @@
 .main {
-  background-color: black;
+  background-color: var(--main-bg-color);
+  padding-top: 5vh;
 }
 
 .textContainer {
   text-align: center;
-  padding-top: 15vh;
+  padding-top: 20vh;
   padding-bottom: 10vh;
 }
 
@@ -23,7 +24,6 @@
   font-size: 4vmax;
   margin-bottom: 2vh;
   font-weight: bold;
-  
 }
 
 @keyframes rainbow-animation {

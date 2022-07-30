@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useEffect} from "react";
 import styles from "./Header.module.css";
 import { Container, Row, Col } from "react-bootstrap";
 import MainImage from "../../../images/MainImage.png";
@@ -7,6 +7,10 @@ import Underline from "../../../images/underline.svg";
 import { Link } from "react-router-dom";
 
 function Header() {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+  
   return (
     <>
       <div className={styles.header}>
@@ -36,7 +40,6 @@ function Header() {
               </p>
             </Col>
             <Col lg={3} className={styles.imageContainer}>
-              
             </Col>
           </Row>
         </Container>
