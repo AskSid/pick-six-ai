@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./MockDraftCard.module.css";
 import { Container, Row, Col } from "react-bootstrap";
-import InformationImage3 from "../../../images/shape.png";
+import InformationImage3 from "../../../images/learn.svg";
 import { Link } from "react-router-dom";
 
 function MockDraftCard(props) {
@@ -9,12 +9,12 @@ function MockDraftCard(props) {
     <div className={styles.mockDraftCardBack}>
       <div className={styles.mockDraftCard}>
         <Row>
-          <Col lg={6}>
+          <Col lg={5}>
             <p className={styles.mockDraftCardTitle}>
               Try our simulated Mock Draft
             </p>
           </Col>
-          <Col lg={2} className={styles.mockDraftCardButtonContainer}>
+          <Col lg={3} className={styles.mockDraftCardButtonContainer}>
             <Link className={styles.mockDraftCardButton} to="/mock-draft">
               Play Now
             </Link>

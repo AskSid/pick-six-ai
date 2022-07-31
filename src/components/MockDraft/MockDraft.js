@@ -4,6 +4,7 @@ import NavBar from "../NavBar";
 import Team from "./Team/Team";
 import Board from "./Board/Board";
 import AvailablePlayers from "./AvailablePlayers/AvailablePlayers";
+import Footer from "../Footer/Footer"
 import playersJson from "../../players.json";
 import {
   Container,
@@ -260,6 +261,7 @@ const MockDraft = () => {
           </Row>
         </div>
       </div>
+      <Footer/>
     </>
   );
 };

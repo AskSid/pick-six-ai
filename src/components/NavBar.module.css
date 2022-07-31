@@ -68,7 +68,10 @@
     margin-right: 6vw;
     margin-top: 1vh;
     text-decoration: none;
-    color: rgb(179, 146, 255);
+    background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 98%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     width: max-content;
     font-family: 'italiana';
     font-size: 2rem; 

@@ -33,40 +33,44 @@
 }
 
 .mockDraftCardTitle {
-    font-size: 8vmin;
+    font-size: 7vmin;
     text-align: center;
-color: black;
+    color: black;
 }
 
 .mockDraftCardButtonContainer {
     padding-top: 9vmin;
     text-align: center;
     vertical-align: middle;
-    padding-bottom: 4vh;
+    padding-bottom: 10vh;
 }
 
 .mockDraftCardButton {
     font-size: 4vmin;
     font-weight: bold;
-    color: black;
+    color: rgb(209, 209, 209);
     text-decoration: none;
     padding-top: 2vh;
     padding-bottom: 2vh;
     padding-right: 2vmax;
     padding-left: 2vmax;
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
-    border-radius: 4px;
+    background-color: rgb(121, 119, 247);
+    border-radius: 10px;
     white-space: nowrap;
     vertical-align: middle;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(209, 209, 209);
 }
 
 .mockDraftCardButton:hover {
-    color: white;
     box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
+    color: white;
+    border-color: rgb(255, 255, 255);
 }
 
 .mockDraftCardImage {
-    width: 25vmin;
+    width: 35vmin;
     display: block;
     margin-left: auto;
     margin-right: auto;
