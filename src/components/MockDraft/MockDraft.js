@@ -4,7 +4,7 @@ import NavBar from "../NavBar";
 import Team from "./Team/Team";
 import Board from "./Board/Board";
 import AvailablePlayers from "./AvailablePlayers/AvailablePlayers";
-import Footer from "../Footer/Footer"
+import Footer from "../Footer/Footer";
 import playersJson from "../../players.json";
 import {
   Container,
@@ -159,27 +159,29 @@ const MockDraft = () => {
     <>
       <NavBar />
       <div className={styles.mock}>
-        <h1 className={styles.title}>Mock Draft</h1>
-        <br />
-        <Container fluid>
-          <Row>
-            <Col sm={4}>
-              <InputGroup className="mb-3 w-50">
-                <InputGroup.Text>Teams in League</InputGroup.Text>
-                <FormControl
-                  defaultValue={JSON.parse(localStorage.getItem("teams")) || 8}
-                  disabled={started === "started"}
-                  aria-label="num-teams"
-                  onChange={(e) => setTeams(parseInt(e.target.value))}
-                />
-              </InputGroup>
+        <h1 className={styles.title}>Mock Draft Simulator</h1>
+        <p className={styles.subtitle}>Before we start, we just need some info to match your league settings:</p>
+        <Container>
+          <Row className={styles.inputs}>
+          <Col lg={4}  className="px-5 pb-3">
+                <InputGroup className="mb-3 w-10">
+                  <InputGroup.Text>Teams in League</InputGroup.Text>
+                  <FormControl
+                  className="p-3"
+                    defaultValue={
+                      JSON.parse(localStorage.getItem("teams")) || 8
+                    }
+                    disabled={started === "started"}
+                    aria-label="num-teams"
+                    onChange={(e) => setTeams(parseInt(e.target.value))}
+                  />
+                </InputGroup>
             </Col>
-          </Row>
-          <Row>
-            <Col sm={4}>
-              <InputGroup className="mb-3 w-50">
+            <Col lg={4}  className="px-5 pb-3">
+              <InputGroup className="mb-3 w-10">
                 <InputGroup.Text>Number of Rounds</InputGroup.Text>
                 <FormControl
+                className="p-3"
                   defaultValue={
                     JSON.parse(localStorage.getItem("rounds")) || 12
                   }
@@ -189,12 +191,11 @@ const MockDraft = () => {
                 />
               </InputGroup>
             </Col>
-          </Row>
-          <Row>
-            <Col sm={4}>
-              <InputGroup className="mb-3 w-50">
+            <Col lg={4}  className="px-5 pb-3">
+              <InputGroup className="mb-3 w-10">
                 <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
                 <FormControl
+                className="p-3"
                   defaultValue={
                     JSON.parse(localStorage.getItem("userTurnTime")) || 5
                   }
@@ -204,12 +205,10 @@ const MockDraft = () => {
                 />
               </InputGroup>
             </Col>
-          </Row>
-          <Row>
-            <Col sm={4}>
-              <InputGroup className="mb-3 w-50">
+            <Col lg={4} className="px-5 pb-3">
+              <InputGroup className="mb-3 w-60 flex-nowrap" >
                 <InputGroup.Text>Your Draft Position</InputGroup.Text>
-                <FormControl
+                <FormControl className="p-3"
                   defaultValue={
                     JSON.parse(localStorage.getItem("userStartPick")) + 1 || 1
                   }
@@ -223,10 +222,9 @@ const MockDraft = () => {
                 />
               </InputGroup>
             </Col>
-          </Row>
-          <Row>
-            <Col sm={4}>
+            <Col lg={4} className="px-5">
               <Button
+              className="p-3"
                 variant="primary"
                 onClick={(e) => handleStartStopButton()}
               >
@@ -241,27 +239,27 @@ const MockDraft = () => {
 
         <div>
           <Row>
-            <Col sm={12}>
+            <Col sm={8}>
               <Board draftedPlayers={draftedPlayers} />
+            </Col>
+            <Col sm={4} className={styles.team}>
+              <AvailablePlayers
+                players={players}
+                clickable={userTurn}
+                addPlayer={addPlayer}
+              />
             </Col>
             <div className={styles.select}>
               <Row className="g-0">
-                <Col sm={5} className={styles.team}>
+                <Col sm={12} className={styles.team}>
                   <Team team={team} />
-                </Col>
-                <Col sm={7} className={styles.team}>
-                  <AvailablePlayers
-                    players={players}
-                    clickable={userTurn}
-                    addPlayer={addPlayer}
-                  />
                 </Col>
               </Row>
             </div>
           </Row>
         </div>
       </div>
-      <Footer/>
+      <Footer />
     </>
   );
 };

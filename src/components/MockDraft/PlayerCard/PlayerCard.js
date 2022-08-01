@@ -1,7 +1,7 @@
 import {React, useEffect, useState} from 'react'
 import styles from './PlayerCard.module.css'
 
-const PlayerCard = ({ clickable, addPlayer, player, name, position, team, pick}) => {
+const PlayerCard = ({ clickable, addPlayer, player, name, position, team, pick }) => {
 
     const positions = new Map();
     positions.set('QB', styles.qb);

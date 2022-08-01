@@ -3,16 +3,16 @@
     height: 5vh;
     margin-left: 10vw;
     margin-bottom: 2vh;
-    background: linear-gradient(89.69deg, #679EF0 0.22%, #FEC3E3 103.53%);
+    background: linear-gradient(89.69deg, #2d81ff 0.22%, #ff259d 103.53%);
     display: flex;
     align-items: center;
     border-radius: 15px;
     font-weight: bolder;
-    font-size: 2vmin;
+    font-size: 1.5vmin;
 }
 
 .rank {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     width: 15%;
     font-size: 1.5vmax;
     padding-left: 3%;
@@ -21,7 +21,7 @@
 }
 
 .name {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     width: 50%;
     font-size: 1.5vmax;
     margin: 0;
@@ -30,7 +30,7 @@
 }
 
 .team {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     width: 10%;
     font-size: 1.5vmax;
     margin: 0;

@@ -2,17 +2,17 @@
 
 .main {
     border: solid;
-    border-image-slice: 1;
-    border-width: 3px;
-    border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9);
-    padding: 1vmax 3vmax;
+    border-width: 2px;
+    padding: 0.5vmax 3vmax;
     margin-left: 10vw;
     margin-right: 10vw;
-    border-radius: 30px;
+    border-radius: 35px;
+    border-color: white;
     display: flex;
     justify-content: space-between;
-    margin-bottom: 10vh;
+    margin-bottom: 5vh;
     font-family: 'inter';
+    box-shadow: 0 10px 25px rgba(255, 255, 255, 0.4);
 }
 
 .position {

@@ -3,9 +3,9 @@
 .header {
     background-color: black;
     font-family: 'inter';
-    padding-top: 18vh;
-    padding-left: 30vw;
-    padding-right: 30vw;
+    padding-top: 25vh;
+    padding-left: 25vw;
+    padding-right: 25vw;
     padding-bottom: 1vh;
 }
 
@@ -15,7 +15,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     animation: rainbow-animation 100s linear infinite;
-    font-size: 8vmin;
+    font-size: 10vmin;
     font-weight: bold;
 }
 

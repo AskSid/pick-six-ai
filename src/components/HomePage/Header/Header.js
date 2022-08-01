@@ -40,6 +40,7 @@ function Header() {
               </p>
             </Col>
             <Col lg={3} className={styles.imageContainer}>
+              <img className={styles.mainImage} src={MainImage} alt="BigCo Inc. logo"/>
             </Col>
           </Row>
         </Container>

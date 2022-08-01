@@ -91,9 +91,9 @@
 }
 
 .mainImage {
-  height: 70vh;
-  margin-top: 0vh;
-  transform: translateX(-10vw);
+  height: 75vh;
+  margin-top: -2vh;
+  transform: translateX(-15vw);
 }
 
 .callToAction {

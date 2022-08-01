@@ -1,23 +1,54 @@
 .mock {
-    background-color: black;
-    padding-top: 5vh;
+  background-color: black;
+  padding-top: 5vh;
 }
 
 .title {
-    color: white;
-    text-align: center;
-    margin-top: 10vh;
+  color: white;
+  text-align: center;
+  margin-top: 20vh;
+  margin-bottom: 10vh;
+  background-image: linear-gradient(to right, #ff00d9, #00fcce);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: rainbow-animation 80s linear infinite;
+  font-size: 9vmin;
+  font-weight: bold;
 }
 
+.subtitle {
+    color: white;
+    text-align: center;
+    margin-bottom: 5vw;
+    font-size: 4vmin;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+@keyframes rainbow-animation {
+  to {
+    background-position: 5500vh;
+  }
+}
+
+.haha {
+    background-color: turquoise;
+}
+
+
 .inputs {
-    
+    padding-left: 2vw;
+}
+
+.inputContainer {
+    padding: 1vw 5vw;
 }
 
 .select {
-    background-color: white;
-    /* transform: translateY(70vh); */
+  background-color: white;
+  /* transform: translateY(70vh); */
 }
 
 .team {
-    background-color: black;
+  background-color: black;
 }

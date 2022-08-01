@@ -9,10 +9,10 @@
     border-color: white;
     margin-bottom: 20vh;
     width: 30vw;
-    margin-left: 6vw;
     padding-top: 3vh;
     height: 50vh;
     overflow-y:scroll;
+    margin-left: 35vw;
 }
 
 .title {

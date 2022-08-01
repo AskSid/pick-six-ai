@@ -1,13 +1,14 @@
 .board {
     overflow-x: scroll;
     border-style: solid;
-    border-color: rgb(255, 255, 255);
+    border-color: rgb(106, 95, 255);
     border-width: 2px;
     border-radius: 20px;
     padding-bottom: 1vw;
-    height: 60vh;
+    height: 70vh;
     margin-bottom: 5vh;
     padding-top: 0.5vw;
+    margin-left: 2vw;
 }
 
 .board::-webkit-scrollbar {

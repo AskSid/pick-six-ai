@@ -44,6 +44,10 @@
     }
 }
 
+.logoContainer {
+    width: fit-content;
+}
+
 .logo {
     text-decoration: none;
     margin-left: 6vw;

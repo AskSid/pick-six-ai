@@ -2,44 +2,48 @@
   padding: 1vw;
   text-align: center;
   font-size: 0.75vmax;
-  background-color: #ff8484;
+  background-color: #FF5C5C;
   margin-top: 1vh;
   margin-right: 0.5vw;
   width: 8vw;
   border-radius: 10px;
+  font-weight: bolder;
 }
 
 .rb {
   padding: 1vw;
   text-align: center;
   font-size: 0.75vmax;
-  background-color: #a4ffe9;
+  background-color: #12FFC6;
   margin-top: 1vh;
   margin-right: 0.5vw;
   width: 8vw;
   border-radius: 10px;
+  font-weight: bolder;
 }
 
 .wr {
   padding: 1vw;
   text-align: center;
   font-size: 0.75vmax;
-  background-color: #c1c8ff;
+  background-color: #7785FF;
   margin-top: 1vh;
   margin-right: 0.5vw;
   width: 8vw;
   border-radius: 10px;
+  font-weight: bolder;
 }
 
 .te {
   padding: 1vw;
   text-align: center;
   font-size: 0.75vmax;
-  background-color: #ffbe82;
+  background-color: #FF9F46;
   margin-top: 1vh;
   margin-right: 0.5vw;
   width: 8vw;
   border-radius: 10px;
+  font-weight:bolder;
 }
 
 .none {
@@ -52,10 +56,12 @@
   width: 8vw;
   border-radius: 10px;
   height: 13vh;
+  font-weight: bolder;
 }
 
 .text {
   margin: 0;
+  
 }
 
 .pick {

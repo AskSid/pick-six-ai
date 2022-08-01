@@ -1,4 +1,9 @@
 .body {
-   background: linear-gradient(180deg, #000000 0%, #3E0070 13.03%, #000000 100%);
+   background-color: black;
+   background-image: url(../../../images/blobanimation.svg);
+   background-repeat: no-repeat;
+   background-position-x: 35vw;
+   background-position-y: 8vw;
+   background-size: 165vh;
    padding-bottom: 20vh;
 }

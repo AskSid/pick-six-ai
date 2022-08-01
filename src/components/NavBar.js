@@ -59,7 +59,7 @@ function NavBar({isHome}) {
     <div className={navStyle}>
       <Navbar bg="rgb(17, 17, 17)" expand="lg" variant="dark">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand className={styles.logoContainer}>
             <Link className={logoStyles} to="/">
               &#60; pick six ai &#62;
             </Link>

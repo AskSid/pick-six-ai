@@ -1,6 +1,6 @@
 .main {
-    margin-left: 10vw;
-    margin-right: 10vw;
+    margin-left: 4vw;
+    margin-right: 4.5vw;
     border-radius: 30px;
     display: flex;
     justify-content: space-between;
@@ -11,7 +11,7 @@
 .position {
     color: white;
     display: inline-block;
-    font-size: 2.5vmin;
+    font-size: 2vmin;
     margin-bottom: 0;
     text-decoration: none;
 }
@@ -19,7 +19,7 @@
 .positionActive {
     color: #0084ff;
     display: inline-block;
-    font-size: 2.5vmin;
+    font-size: 2vmin;
     margin-bottom: 0;
     text-decoration: none;
 }
