@@ -19,7 +19,10 @@ function PlayerRow({ rank, num, player, change, setChange }) {
     setChange(true);
   };
 
-  const analysis = player.analysis != null ? player.analysis : "No player info available at this time."
+  const analysis =
+    player.analysis != null
+      ? player.analysis
+      : "No player info available at this time.";
 
   return (
     <>
@@ -29,12 +32,11 @@ function PlayerRow({ rank, num, player, change, setChange }) {
 
         <p className={styles.name}>
           {player.Player}
-          <a href="javascript:void(0)">
-            <AiOutlineInfoCircle
-              className={styles.info}
-              onClick={() => click(displayInfo)}
-            />
-          </a>
+
+          <AiOutlineInfoCircle
+            className={styles.info}
+            onClick={() => click(displayInfo)}
+          />
         </p>
 
         <p className={styles.team}>{player.Tm}</p>

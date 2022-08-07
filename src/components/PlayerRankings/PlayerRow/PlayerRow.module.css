@@ -46,6 +46,7 @@
     margin-left: 0.5vw;
     color: rgb(21, 25, 243);
     height:min-content;
+    cursor: pointer;
 }
 
 .team {

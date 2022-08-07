@@ -8,12 +8,20 @@
     border-width: 2px;
     border-color: white;
     margin-bottom: 20vh;
-    width: 30vw;
+    width: 95%;
     padding-top: 3vh;
-    height: 50vh;
+    height: 70vh;
     overflow-y:scroll;
-    margin-left: 35vw;
+    margin-left: 1vw;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(106, 95, 255);
+    border-radius: 20px;
 }
+
+.main::-webkit-scrollbar {
+    display: none;
+  }
 
 .title {
     color: white;

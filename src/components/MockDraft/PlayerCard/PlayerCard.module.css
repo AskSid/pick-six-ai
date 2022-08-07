@@ -55,7 +55,78 @@
   margin-right: 0.5vw;
   width: 8vw;
   border-radius: 10px;
-  height: 13vh;
+  font-weight: bolder;
+}
+
+.qbClick {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #FF5C5C;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  font-weight: bolder;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.rbClick {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #12FFC6;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  font-weight: bolder;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.wrClick {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #7785FF;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  font-weight: bolder;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.teClick {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #FF9F46;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  font-weight:bolder;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.noneClick {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: rgb(221, 221, 221);
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
   font-weight: bolder;
 }
 

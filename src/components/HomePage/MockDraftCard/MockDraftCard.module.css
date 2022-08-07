@@ -22,7 +22,6 @@
     border-width: 3px;
     border-image-source: linear-gradient(60deg, #b16ec4, #5f98b9); */
     background: linear-gradient(277.16deg, #8458FF 6.81%, #FF9797 102.49%);
-    border-radius: 31px;
     padding: 1vmax 1vmax;
     border-radius: 20px;
     padding-top: 5vh;
@@ -35,7 +34,7 @@
 .mockDraftCardTitle {
     font-size: 7vmin;
     text-align: center;
-    color: black;
+    color: rgb(66, 66, 66);
 }
 
 .mockDraftCardButtonContainer {
