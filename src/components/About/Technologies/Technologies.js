@@ -37,12 +37,13 @@ function Technologies(props) {
         </Row>
         <Row className={styles.row}>
           <Col md={6}>
-            <h2 className={styles.twitterTitle}>TwitterAPI</h2>
+            <h2 className={styles.twitterTitle}>Twitter API</h2>
             <p className={styles.twitterText}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              Given developer access, the Twitter API is able to scrape three
+              million tweets a month. Using this Twitter Bot, we are able to
+              gather tweets from credible, hand-selected accounts that report
+              NFL and Fantasy news. News is then catogorized and filtered for
+              each player nad displayed in the Player Rankings section.
             </p>
           </Col>
           <Col md={6}>
@@ -78,7 +79,7 @@ function Technologies(props) {
             </Col>
             <Col md={2}>
               <div className={styles.circle}>
-              <img
+                <img
                   className={styles.react}
                   src={Python}
                   alt="BigCo Inc. logo"
@@ -87,7 +88,7 @@ function Technologies(props) {
             </Col>
             <Col md={2}>
               <div className={styles.circle}>
-              <img
+                <img
                   className={styles.figma}
                   src={Figma}
                   alt="BigCo Inc. logo"
@@ -96,7 +97,7 @@ function Technologies(props) {
             </Col>
             <Col md={2}>
               <div className={styles.circle}>
-              <img
+                <img
                   className={styles.figma}
                   src={Firebase}
                   alt="BigCo Inc. logo"
@@ -105,11 +106,7 @@ function Technologies(props) {
             </Col>
             <Col md={2}>
               <div className={styles.circle}>
-              <img
-                  className={styles.react}
-                  src={Git}
-                  alt="BigCo Inc. logo"
-                />
+                <img className={styles.react} src={Git} alt="BigCo Inc. logo" />
               </div>
             </Col>
           </div>

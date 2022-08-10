@@ -25,13 +25,21 @@ function getMaxPick(x) {
   }
 }
 
-const Board = ({ draftedPlayers }) => {
+function generateNames() {
+  for (let i = 0; i < 1; i++) {
+      <h1>hello</h1>
+  }
+}
+
+const Board = ({ draftedPlayers, userPick }) => {
   return (
     <>
       <h1 className={styles.title}>Draft Board</h1>
       <div className={styles.board}>
         <Container>
           
+          {generateNames()}
+
           {draftedPlayers?.map((round, index) =>
             index % 2 === 0 ? (
               <>

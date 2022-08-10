@@ -242,10 +242,10 @@ const MockDraft = () => {
             <Col sm={2} className={styles.team}>
               <Team team={team} />
             </Col>
-            <Col sm={6}>
-              <Board draftedPlayers={draftedPlayers} />
+            <Col sm={7}>
+              <Board draftedPlayers={draftedPlayers} userPick={userPick} />
             </Col>
-            <Col sm={4} className={styles.team}>
+            <Col sm={3} className={styles.team}>
               <AvailablePlayers
                 players={players}
                 clickable={userTurn}

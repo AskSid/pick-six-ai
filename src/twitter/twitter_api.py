@@ -37,8 +37,8 @@ with open("src/twitter/tweets.json") as fp:
         listObj = []
 
 
-for i in range(0, 4):
-    tweets = client.get_users_tweets(id=following_user_ids[i], max_results=75)
+for i in range(0, 8):
+    tweets = client.get_users_tweets(id=following_user_ids[i], max_results=37)
     for tweet in tweets.data:
         obj = {}
         obj['author'] = usernames[i]

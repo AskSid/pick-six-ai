@@ -39,6 +39,7 @@ function NavBar({isHome}) {
       setShow(false);
     } 
   };
+  
   useEffect(() => {
     window.addEventListener("scroll", controlNavbar);
     return () => {
@@ -77,9 +78,6 @@ function NavBar({isHome}) {
               <Link className={linkStyle} to="/about">
                 Behind the Algorithm
               </Link>{" "}
-              <Link className={linkStyle} to="/blog">
-                Blog
-              </Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

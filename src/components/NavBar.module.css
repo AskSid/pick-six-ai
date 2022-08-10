@@ -16,7 +16,7 @@
 }
 
 .nav2 {
-    background-color: rgba(68, 68, 68, 0.945);
+    background-color: rgba(221, 221, 221, 0.945);
     padding-top: 2vh;
     padding-right: 5vw;
     width: 100%;
@@ -25,6 +25,9 @@
     position: fixed;
     transform: translateY(-12vh);
     z-index: 10;
+    background:
+    linear-gradient(rgb(2, 2, 2), transparent),
+    url(https://grainy-gradients.vercel.app/noise.svg);
 }
 
 .nav3 {
@@ -51,7 +54,7 @@
 .logo {
     text-decoration: none;
     margin-left: 6vw;
-    margin-right: 6vw;
+    margin-right: 10vw;
     margin-top: 1vh;
     text-decoration: none;
     color: white;
@@ -69,7 +72,7 @@
 .logo2 {
     text-decoration: none;
     margin-left: 6vw;
-    margin-right: 6vw;
+    margin-right: 10vw;
     margin-top: 1vh;
     text-decoration: none;
     background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 98%);
