@@ -17,7 +17,7 @@ function Rankings(props) {
     RB: 0,
     WR: 0,
     TE: 0,
-    K: 0,
+    k: 0,
     DEF: 0,
   };
 

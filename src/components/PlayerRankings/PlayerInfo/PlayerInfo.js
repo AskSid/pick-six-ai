@@ -4,7 +4,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import playersJson from "../../../twitter/filtered_tweets.json";
 
 function PlayerInfo({ display, player, change, info }) {
-  const posStats = {
+  
+var posStats = {
     QB: (
       <>
         {" "}

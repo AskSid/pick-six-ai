@@ -37,7 +37,7 @@ function RankingsSelect({ setPosition }) {
             <Link to="" onClick={() => setActive(["WR"])} className={currStyle(["WR"])}>WR</Link>
             <Link to="" onClick={() => setActive(["TE"])} className={currStyle(["TE"])}>TE</Link>
             <Link to="" onClick={() => setActive(["RB", "WR", "TE"])} className={currStyle(["RB", "WR", "TE"])}>Flex</Link>
-            <Link to="" onClick={() => setActive(["K"])} className={currStyle(["K"])}>K</Link>
+            <Link to="" onClick={() => setActive(["k"])} className={currStyle(["k"])}>K</Link>
             <Link to="" onClick={() => setActive(["DEF"])} className={currStyle(["DEF"])}>DEF</Link>
         </div>
     );
