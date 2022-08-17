@@ -46,6 +46,18 @@
   font-weight:bolder;
 }
 
+.k {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #46b8ff;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  font-weight:bolder;
+}
+
 .none {
   padding: 1vw;
   text-align: center;
@@ -108,6 +120,21 @@
   text-align: center;
   font-size: 0.75vmax;
   background-color: #FF9F46;
+  margin-top: 1vh;
+  margin-right: 0.5vw;
+  width: 8vw;
+  border-radius: 10px;
+  font-weight:bolder;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(255, 255, 255);
+}
+
+.kClick {
+  padding: 1vw;
+  text-align: center;
+  font-size: 0.75vmax;
+  background-color: #46b8ff;
   margin-top: 1vh;
   margin-right: 0.5vw;
   width: 8vw;

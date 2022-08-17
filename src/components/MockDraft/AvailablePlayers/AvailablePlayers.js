@@ -5,7 +5,7 @@ import AvailablePlayerFilter from "../AvailablePlayerFilter/AvailablePlayerFilte
 
 const AvailablePlayers = ({ players, clickable, addPlayer }) => {
 
-  const [currentPos, setCurrentPos] = useState(["QB", "RB", "WR", "TE"]);
+  const [currentPos, setCurrentPos] = useState(["QB", "RB", "WR", "TE", "k"]);
 
   var posRank = {
     QB: 0,
@@ -14,6 +14,7 @@ const AvailablePlayers = ({ players, clickable, addPlayer }) => {
     TE: 0,
     K: 0,
     DEF: 0,
+    k: 0,
   };
 
   const filteredPlayers = players.filter((p) => currentPos.includes(p.FantPos));
