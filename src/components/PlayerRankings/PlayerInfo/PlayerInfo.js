@@ -148,6 +148,43 @@ var posStats = {
         </div>
       </>
     ),
+    k: (
+      <>
+        {" "}
+        <div className={styles.stats}>
+          <div className={styles.statistics1}>
+            <p className={styles.games}>GAMES</p>
+            <p className={styles.attempts}>REC</p>
+            <p className={styles.yds}>TGTs</p>
+            <p className={styles.avg}>YDS</p>
+          </div>
+          <div className={styles.statistics2}>
+            <p className={styles.games}>{player.G}</p>
+            <p className={styles.attempts}>{player.Rec}</p>
+            <p className={styles.yds}>{player.Tgt}</p>
+            <p className={styles.avg}>{player.Yds[2]}</p>
+          </div>
+        </div>
+        <br></br>
+        <div className={styles.stats}>
+          <div className={styles.statistics1}>
+            <p className={styles.games}>Y/R</p>
+            <p className={styles.attempts}>FMBLs</p>
+            <p className={styles.yds}>TDs</p>
+            <p className={styles.avg}>RANK</p>
+          </div>
+          <div className={styles.statistics2}>
+            <p className={styles.games}>
+              {(player.Yds[2] / player.Rec).toFixed(2)}
+            </p>
+            <p className={styles.attempts}>{player.Fmb}</p>
+            <p className={styles.yds}>{player.TD[3]}</p>
+            <p className={styles.avg}>{player.Rk}</p>
+          </div>
+        </div>
+      </>
+    ),
+
   };
 
   const filtered_players = JSON.parse(JSON.stringify(playersJson));
