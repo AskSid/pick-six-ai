@@ -16,7 +16,9 @@ import {
 } from "react-bootstrap";
 
 const MockDraft = () => {
-  const allPlayers = JSON.parse(JSON.stringify(playersJson));
+  var allPlayers = JSON.parse(JSON.stringify(playersJson));
+  allPlayers = allPlayers.sort((a, b) => (a.expectedPoints > b.expectedPoints) ? -1 : 1)
+
   useEffect(() => {
     setPlayers(allPlayers);
   }, []);
