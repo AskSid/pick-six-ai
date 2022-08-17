@@ -29529,7 +29529,7 @@
      "Player": "Daniel Carlson",
      "Tm": "LVR",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29574,7 +29574,7 @@
      "Player": "Chris Boswell",
      "Tm": "PIT",
      "Age": 30,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29619,7 +29619,7 @@
      "Player": "Nick Folk",
      "Tm": "NWE",
      "Age": 37,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29664,7 +29664,7 @@
      "Player": "Greg Joseph",
      "Tm": "MIN",
      "Age": 27,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29709,7 +29709,7 @@
      "Player": "Matt Prater",
      "Tm": "ARI",
      "Age": 37,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29754,7 +29754,7 @@
      "Player": "Justin Tucker*+",
      "Tm": "BAL",
      "Age": 32,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29799,7 +29799,7 @@
      "Player": "Greg Zuerlein",
      "Tm": "DAL",
      "Age": 34,
-     "Pos": "",
+     "FantPos": "",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -29844,7 +29844,7 @@
      "Player": "Mason Crosby",
      "Tm": "GNB",
      "Age": 37,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29889,7 +29889,7 @@
      "Player": "Matt Gay*",
      "Tm": "LAR",
      "Age": 27,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29934,7 +29934,7 @@
      "Player": "Dustin Hopkins",
      "Tm": "2TM",
      "Age": 31,
-     "Pos": "",
+     "FantPos": "",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -29979,7 +29979,7 @@
      "Player": "Jake Elliott *",
      "Tm": "PHI",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30024,7 +30024,7 @@
      "Player": "Graham Gano",
      "Tm": "NYG",
      "Age": 34,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30069,7 +30069,7 @@
      "Player": "Evan McPherson",
      "Tm": "CIN",
      "Age": 22,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -30114,7 +30114,7 @@
      "Player": "Tyler Bass",
      "Tm": "BUF",
      "Age": 24,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30159,7 +30159,7 @@
      "Player": "Randy Bullock",
      "Tm": "TEN",
      "Age": 32,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -30204,7 +30204,7 @@
      "Player": "Brandon McManus",
      "Tm": "DEN",
      "Age": 30,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30249,7 +30249,7 @@
      "Player": "Jason Sanders",
      "Tm": "MIA",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30294,7 +30294,7 @@
      "Player": "Cairo Santos",
      "Tm": "CHI",
      "Age": 30,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30339,7 +30339,7 @@
      "Player": "Ryan Succop",
      "Tm": "TAM",
      "Age": 35,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30384,7 +30384,7 @@
      "Player": "Younghoe Koo",
      "Tm": "ATL",
      "Age": 27,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30429,7 +30429,7 @@
      "Player": "Harrison Butker",
      "Tm": "KAN",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -30474,7 +30474,7 @@
      "Player": "Joey Slye",
      "Tm": "3TM",
      "Age": 25,
-     "Pos": "",
+     "FantPos": "",
      "G": 12,
      "GS": 0,
      "FGA": [
@@ -30519,7 +30519,7 @@
      "Player": "Matthew Wright",
      "Tm": "JAX",
      "Age": 25,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 14,
      "GS": 0,
      "FGA": [
@@ -30564,7 +30564,7 @@
      "Player": "Robbie Gould",
      "Tm": "SFO",
      "Age": 39,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 13,
      "GS": 0,
      "FGA": [
@@ -30609,7 +30609,7 @@
      "Player": "Jason Myers",
      "Tm": "SEA",
      "Age": 30,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -30654,7 +30654,7 @@
      "Player": "Zane Gonzalez",
      "Tm": "CAR",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 12,
      "GS": 0,
      "FGA": [
@@ -30699,7 +30699,7 @@
      "Player": "Michael Badgley",
      "Tm": "2TM",
      "Age": 26,
-     "Pos": "",
+     "FantPos": "",
      "G": 13,
      "GS": 0,
      "FGA": [
@@ -30744,7 +30744,7 @@
      "Player": "Chase McLaughlin",
      "Tm": "CLE",
      "Age": 25,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -30789,7 +30789,7 @@
      "Player": "Matt Ammendola",
      "Tm": "NYJ",
      "Age": 25,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 11,
      "GS": 0,
      "FGA": [
@@ -30834,7 +30834,7 @@
      "Player": "Ka'imi Fairbairn",
      "Tm": "HOU",
      "Age": 27,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 13,
      "GS": 0,
      "FGA": [
@@ -30879,7 +30879,7 @@
      "Player": "Brett Maher",
      "Tm": "NOR",
      "Age": 32,
-     "Pos": "",
+     "FantPos": "",
      "G": 8,
      "GS": 0,
      "FGA": [
@@ -30924,7 +30924,7 @@
      "Player": "Rodrigo Blankenship",
      "Tm": "IND",
      "Age": 24,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 5,
      "GS": 0,
      "FGA": [
@@ -30969,7 +30969,7 @@
      "Player": "Riley Patterson",
      "Tm": "DET",
      "Age": 22,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 7,
      "GS": 0,
      "FGA": [
@@ -31014,7 +31014,7 @@
      "Player": "Austin Seibert",
      "Tm": "DET",
      "Age": 25,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 6,
      "GS": 0,
      "FGA": [
@@ -31059,7 +31059,7 @@
      "Player": "Brian Johnson",
      "Tm": "2TM",
      "Age": 22,
-     "Pos": "",
+     "FantPos": "",
      "G": 7,
      "GS": 0,
      "FGA": [
@@ -31104,7 +31104,7 @@
      "Player": "Eddy Pineiro",
      "Tm": "NYJ",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 5,
      "GS": 0,
      "FGA": [
@@ -31149,7 +31149,7 @@
      "Player": "Tristan Vizcaino",
      "Tm": "LAC",
      "Age": 25,
-     "Pos": "",
+     "FantPos": "",
      "G": 6,
      "GS": 0,
      "FGA": [
@@ -31194,7 +31194,7 @@
      "Player": "Chris Blewitt",
      "Tm": "WAS",
      "Age": 26,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 2,
      "GS": 0,
      "FGA": [
@@ -31239,7 +31239,7 @@
      "Player": "Elliott Fry",
      "Tm": "2TM",
      "Age": 27,
-     "Pos": "",
+     "FantPos": "",
      "G": 2,
      "GS": 0,
      "FGA": [
@@ -31284,7 +31284,7 @@
      "Player": "Lirim Hajrullahu",
      "Tm": "2TM",
      "Age": 31,
-     "Pos": "",
+     "FantPos": "",
      "G": 4,
      "GS": 0,
      "FGA": [
@@ -31329,7 +31329,7 @@
      "Player": "Aldrick Rosas",
      "Tm": "2TM",
      "Age": 27,
-     "Pos": "",
+     "FantPos": "",
      "G": 5,
      "GS": 0,
      "FGA": [
@@ -31374,7 +31374,7 @@
      "Player": "Ryan Santoso",
      "Tm": "2TM",
      "Age": 26,
-     "Pos": "",
+     "FantPos": "",
      "G": 4,
      "GS": 0,
      "FGA": [
@@ -31419,7 +31419,7 @@
      "Player": "Dominik Eberle",
      "Tm": "HOU",
      "Age": 25,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 1,
      "GS": 0,
      "FGA": [
@@ -31464,7 +31464,7 @@
      "Player": "Josh Lambo",
      "Tm": "JAX",
      "Age": 31,
-     "Pos": "",
+     "FantPos": "",
      "G": 3,
      "GS": 0,
      "FGA": [
@@ -31509,7 +31509,7 @@
      "Player": "Mitch Wishnowsky",
      "Tm": "SFO",
      "Age": 29,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31554,7 +31554,7 @@
      "Player": "Bradley Pinion",
      "Tm": "TAM",
      "Age": 27,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 15,
      "GS": 0,
      "FGA": [
@@ -31599,7 +31599,7 @@
      "Player": "Chris Naggar",
      "Tm": "CLE",
      "Age": 24,
-     "Pos": "k",
+     "FantPos": "k",
      "G": 1,
      "GS": 0,
      "FGA": [
@@ -31644,7 +31644,7 @@
      "Player": "Cameron Johnston",
      "Tm": "HOU",
      "Age": 29,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31689,7 +31689,7 @@
      "Player": "Michael Dickson",
      "Tm": "SEA",
      "Age": 25,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31734,7 +31734,7 @@
      "Player": "Blake Gillikin",
      "Tm": "NOR",
      "Age": 23,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31779,7 +31779,7 @@
      "Player": "Jordan Berry",
      "Tm": "MIN",
      "Age": 30,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31824,7 +31824,7 @@
      "Player": "Michael Palardy",
      "Tm": "MIA",
      "Age": 29,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31869,7 +31869,7 @@
      "Player": "Riley Dixon",
      "Tm": "NYG",
      "Age": 28,
-     "Pos": "",
+     "FantPos": "",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31914,7 +31914,7 @@
      "Player": "Sam Koch",
      "Tm": "BAL",
      "Age": 39,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -31959,7 +31959,7 @@
      "Player": "Pressley Harvin III",
      "Tm": "PIT",
      "Age": 23,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 15,
      "GS": 0,
      "FGA": [
@@ -32004,7 +32004,7 @@
      "Player": "Sam Martin",
      "Tm": "DEN",
      "Age": 31,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32049,7 +32049,7 @@
      "Player": "Kevin Huber",
      "Tm": "CIN",
      "Age": 36,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32094,7 +32094,7 @@
      "Player": "Bryan Anger*",
      "Tm": "DAL",
      "Age": 33,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32139,7 +32139,7 @@
      "Player": "Jack Fox",
      "Tm": "DET",
      "Age": 25,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32184,7 +32184,7 @@
      "Player": "AJ Cole III*+",
      "Tm": "LVR",
      "Age": 26,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32229,7 +32229,7 @@
      "Player": "Logan Cooke",
      "Tm": "JAX",
      "Age": 26,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 15,
      "GS": 0,
      "FGA": [
@@ -32274,7 +32274,7 @@
      "Player": "Pat O'Donnell",
      "Tm": "CHI",
      "Age": 30,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32319,7 +32319,7 @@
      "Player": "Tress Way",
      "Tm": "WAS",
      "Age": 31,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -32364,7 +32364,7 @@
      "Player": "Rigoberto Sanchez",
      "Tm": "IND",
      "Age": 27,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32406,10 +32406,10 @@
   },
    {
      "Rk": 65,
-     "Player": "Arryn Siposs",
+     "Player": "Arryn SiFantPoss",
      "Tm": "PHI",
      "Age": 29,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32454,7 +32454,7 @@
      "Player": "Corey Bojorquez",
      "Tm": "GNB",
      "Age": 25,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32499,7 +32499,7 @@
      "Player": "Matt Haack",
      "Tm": "BUF",
      "Age": 27,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32544,7 +32544,7 @@
      "Player": "Johnny Hekker",
      "Tm": "LAR",
      "Age": 31,
-     "Pos": "",
+     "FantPos": "",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32589,7 +32589,7 @@
      "Player": "Andy Lee",
      "Tm": "ARI",
      "Age": 39,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -32634,7 +32634,7 @@
      "Player": "Jake Bailey",
      "Tm": "NWE",
      "Age": 24,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32679,7 +32679,7 @@
      "Player": "Dustin Colquitt",
      "Tm": "2TM",
      "Age": 39,
-     "Pos": "",
+     "FantPos": "",
      "G": 11,
      "GS": 0,
      "FGA": [
@@ -32724,7 +32724,7 @@
      "Player": "Brett Kern",
      "Tm": "TEN",
      "Age": 35,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 14,
      "GS": 0,
      "FGA": [
@@ -32769,7 +32769,7 @@
      "Player": "Ty Long",
      "Tm": "LAC",
      "Age": 28,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 17,
      "GS": 0,
      "FGA": [
@@ -32814,7 +32814,7 @@
      "Player": "Thomas Morstead",
      "Tm": "2TM",
      "Age": 35,
-     "Pos": "",
+     "FantPos": "",
      "G": 14,
      "GS": 0,
      "FGA": [
@@ -32859,7 +32859,7 @@
      "Player": "Jamie Gillan",
      "Tm": "CLE",
      "Age": 24,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 12,
      "GS": 0,
      "FGA": [
@@ -32904,7 +32904,7 @@
      "Player": "Braden Mann",
      "Tm": "NYJ",
      "Age": 24,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 10,
      "GS": 0,
      "FGA": [
@@ -32949,7 +32949,7 @@
      "Player": "Lac Edwards",
      "Tm": "CAR",
      "Age": 29,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 10,
      "GS": 0,
      "FGA": [
@@ -32994,7 +32994,7 @@
      "Player": "Tommy Townsend",
      "Tm": "KAN",
      "Age": 25,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 16,
      "GS": 0,
      "FGA": [
@@ -33039,7 +33039,7 @@
      "Player": "Joseph Charlton",
      "Tm": "2TM",
      "Age": 24,
-     "Pos": "",
+     "FantPos": "",
      "G": 6,
      "GS": 0,
      "FGA": [
@@ -33084,7 +33084,7 @@
      "Player": "Cameron Nizialek",
      "Tm": "ATL",
      "Age": 26,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 4,
      "GS": 0,
      "FGA": [
@@ -33129,7 +33129,7 @@
      "Player": "Ryan Winslow",
      "Tm": "3TM",
      "Age": 27,
-     "Pos": "",
+     "FantPos": "",
      "G": 4,
      "GS": 0,
      "FGA": [
@@ -33174,7 +33174,7 @@
      "Player": "Johnny Townsend",
      "Tm": "2TM",
      "Age": 26,
-     "Pos": "",
+     "FantPos": "",
      "G": 4,
      "GS": 0,
      "FGA": [
@@ -33219,7 +33219,7 @@
      "Player": "Corliss Waitman",
      "Tm": "PIT",
      "Age": 26,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 2,
      "GS": 0,
      "FGA": [
@@ -33264,7 +33264,7 @@
      "Player": "Sterling Hofrichter",
      "Tm": "TAM",
      "Age": 25,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 2,
      "GS": 0,
      "FGA": [
@@ -33309,7 +33309,7 @@
      "Player": "JK Scott",
      "Tm": "JAX",
      "Age": 26,
-     "Pos": "p",
+     "FantPos": "p",
      "G": 1,
      "GS": 0,
      "FGA": [
@@ -33354,7 +33354,7 @@
      "Player": "Alex Kessman",
      "Tm": "NYJ",
      "Age": 23,
-     "Pos": "",
+     "FantPos": "",
      "G": 1,
      "GS": 0,
      "FGA": [
@@ -33399,7 +33399,7 @@
      "Player": "Cody Parkey",
      "Tm": "NOR",
      "Age": 29,
-     "Pos": "",
+     "FantPos": "",
      "G": 1,
      "GS": 0,
      "FGA": [
@@ -33440,3 +33440,4 @@
      "-9999": "ParkCo03"
   }
 ]
+  
