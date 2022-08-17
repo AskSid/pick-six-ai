@@ -29523,5 +29523,3920 @@
    "PosRank": 261,
    "OvRank": null,
    "-9999": "SpenDi00"
-}
-]
+},
+   {
+     "Rk": 1,
+     "Player": "Daniel Carlson",
+     "Tm": "LVR",
+     "Age": 26,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        11,
+        12,
+        13,
+        7,
+        43
+     ],
+     "FGM": [
+        null,
+        10,
+        12,
+        12,
+        6,
+        40
+     ],
+     "Lng": [
+        56,
+        null
+     ],
+     "FG%": "93.0%",
+     "XPA": 33,
+     "XPM": 30,
+     "XP%": "90.9%",
+     "KO": 87,
+     "KOYds": 5560,
+     "TB": 53,
+     "TB%": "60.9%",
+     "KOAvg": 63.9,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "CarlDa00"
+  },
+   {
+     "Rk": 2,
+     "Player": "Chris Boswell",
+     "Tm": "PIT",
+     "Age": 30,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        9,
+        9,
+        13,
+        9,
+        40
+     ],
+     "FGM": [
+        null,
+        9,
+        8,
+        11,
+        8,
+        36
+     ],
+     "Lng": [
+        56,
+        null
+     ],
+     "FG%": "90.0%",
+     "XPA": 29,
+     "XPM": 27,
+     "XP%": "93.1%",
+     "KO": 86,
+     "KOYds": 5464,
+     "TB": 40,
+     "TB%": "46.5%",
+     "KOAvg": 63.5,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "BoswCh00"
+  },
+   {
+     "Rk": 3,
+     "Player": "Nick Folk",
+     "Tm": "NWE",
+     "Age": 37,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        9,
+        11,
+        11,
+        8,
+        39
+     ],
+     "FGM": [
+        null,
+        9,
+        11,
+        11,
+        5,
+        36
+     ],
+     "Lng": [
+        53,
+        null
+     ],
+     "FG%": "92.3%",
+     "XPA": 47,
+     "XPM": 42,
+     "XP%": "89.4%",
+     "KO": 12,
+     "KOYds": 725,
+     "TB": 3,
+     "TB%": "25.0%",
+     "KOAvg": 60.4,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "FolkNi20"
+  },
+   {
+     "Rk": 4,
+     "Player": "Greg Joseph",
+     "Tm": "MIN",
+     "Age": 27,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        8,
+        12,
+        9,
+        9,
+        38
+     ],
+     "FGM": [
+        null,
+        8,
+        11,
+        7,
+        7,
+        33
+     ],
+     "Lng": [
+        55,
+        null
+     ],
+     "FG%": "86.8%",
+     "XPA": 40,
+     "XPM": 36,
+     "XP%": "90.0%",
+     "KO": 94,
+     "KOYds": 6004,
+     "TB": 76,
+     "TB%": "80.9%",
+     "KOAvg": 63.9,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "JoseGr00"
+  },
+   {
+     "Rk": 5,
+     "Player": "Matt Prater",
+     "Tm": "ARI",
+     "Age": 37,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        11,
+        11,
+        5,
+        10,
+        37
+     ],
+     "FGM": [
+        null,
+        11,
+        9,
+        3,
+        7,
+        30
+     ],
+     "Lng": [
+        62,
+        null
+     ],
+     "FG%": "81.1%",
+     "XPA": 49,
+     "XPM": 47,
+     "XP%": "95.9%",
+     "KO": 97,
+     "KOYds": 6013,
+     "TB": 73,
+     "TB%": "75.3%",
+     "KOAvg": 62,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "PratMa20"
+  },
+   {
+     "Rk": 6,
+     "Player": "Justin Tucker*+",
+     "Tm": "BAL",
+     "Age": 32,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        7,
+        9,
+        15,
+        6,
+        37
+     ],
+     "FGM": [
+        null,
+        7,
+        9,
+        13,
+        6,
+        35
+     ],
+     "Lng": [
+        66,
+        null
+     ],
+     "FG%": "94.6%",
+     "XPA": 32,
+     "XPM": 32,
+     "XP%": "100.0%",
+     "KO": 90,
+     "KOYds": 5443,
+     "TB": 47,
+     "TB%": "52.2%",
+     "KOAvg": 60.5,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "TuckJu00"
+  },
+   {
+     "Rk": 7,
+     "Player": "Greg Zuerlein",
+     "Tm": "DAL",
+     "Age": 34,
+     "Pos": "",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        5,
+        16,
+        9,
+        5,
+        35
+     ],
+     "FGM": [
+        null,
+        5,
+        15,
+        7,
+        2,
+        29
+     ],
+     "Lng": [
+        56,
+        null
+     ],
+     "FG%": "82.9%",
+     "XPA": 48,
+     "XPM": 42,
+     "XP%": "87.5%",
+     "KO": 100,
+     "KOYds": 6421,
+     "TB": 80,
+     "TB%": "80.0%",
+     "KOAvg": 64.2,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "ZuerGr00"
+  },
+   {
+     "Rk": 8,
+     "Player": "Mason Crosby",
+     "Tm": "GNB",
+     "Age": 37,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        9,
+        13,
+        8,
+        4,
+        34
+     ],
+     "FGM": [
+        null,
+        9,
+        9,
+        4,
+        3,
+        25
+     ],
+     "Lng": [
+        54,
+        null
+     ],
+     "FG%": "73.5%",
+     "XPA": 51,
+     "XPM": 49,
+     "XP%": "96.1%",
+     "KO": 94,
+     "KOYds": 6030,
+     "TB": 43,
+     "TB%": "45.7%",
+     "KOAvg": 64.1,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "CrosMa20"
+  },
+   {
+     "Rk": 9,
+     "Player": "Matt Gay*",
+     "Tm": "LAR",
+     "Age": 27,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        6,
+        15,
+        8,
+        5,
+        34
+     ],
+     "FGM": [
+        null,
+        6,
+        15,
+        7,
+        4,
+        32
+     ],
+     "Lng": [
+        55,
+        null
+     ],
+     "FG%": "94.1%",
+     "XPA": 49,
+     "XPM": 48,
+     "XP%": "98.0%",
+     "KO": 102,
+     "KOYds": 6309,
+     "TB": 65,
+     "TB%": "63.7%",
+     "KOAvg": 61.9,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "GayxMa00"
+  },
+   {
+     "Rk": 10,
+     "Player": "Dustin Hopkins",
+     "Tm": "2TM",
+     "Age": 31,
+     "Pos": "",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        1,
+        8,
+        6,
+        14,
+        5,
+        34
+     ],
+     "FGM": [
+        1,
+        8,
+        6,
+        13,
+        2,
+        30
+     ],
+     "Lng": [
+        50,
+        null
+     ],
+     "FG%": "88.2%",
+     "XPA": 44,
+     "XPM": 40,
+     "XP%": "90.9%",
+     "KO": 100,
+     "KOYds": 6298,
+     "TB": 71,
+     "TB%": "71.0%",
+     "KOAvg": 63,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "HopkDu00"
+  },
+   {
+     "Rk": 11,
+     "Player": "Jake Elliott *",
+     "Tm": "PHI",
+     "Age": 26,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        7,
+        10,
+        13,
+        3,
+        33
+     ],
+     "FGM": [
+        null,
+        7,
+        10,
+        10,
+        3,
+        30
+     ],
+     "Lng": [
+        58,
+        null
+     ],
+     "FG%": "90.9%",
+     "XPA": 44,
+     "XPM": 44,
+     "XP%": "100.0%",
+     "KO": 96,
+     "KOYds": 6071,
+     "TB": 61,
+     "TB%": "63.5%",
+     "KOAvg": 63.2,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "ElliJa03"
+  },
+   {
+     "Rk": 12,
+     "Player": "Graham Gano",
+     "Tm": "NYG",
+     "Age": 34,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        5,
+        13,
+        5,
+        10,
+        33
+     ],
+     "FGM": [
+        null,
+        5,
+        12,
+        5,
+        7,
+        29
+     ],
+     "Lng": [
+        55,
+        null
+     ],
+     "FG%": "87.9%",
+     "XPA": 17,
+     "XPM": 17,
+     "XP%": "100.0%",
+     "KO": 63,
+     "KOYds": 3901,
+     "TB": 26,
+     "TB%": "41.3%",
+     "KOAvg": 61.9,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "GanoGr44"
+  },
+   {
+     "Rk": 13,
+     "Player": "Evan McPherson",
+     "Tm": "CIN",
+     "Age": 22,
+     "Pos": "k",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        5,
+        8,
+        9,
+        11,
+        33
+     ],
+     "FGM": [
+        null,
+        5,
+        8,
+        6,
+        9,
+        28
+     ],
+     "Lng": [
+        58,
+        null
+     ],
+     "FG%": "84.8%",
+     "XPA": 48,
+     "XPM": 46,
+     "XP%": "95.8%",
+     "KO": 91,
+     "KOYds": 5814,
+     "TB": 55,
+     "TB%": "60.4%",
+     "KOAvg": 63.9,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "McPhEv00"
+  },
+   {
+     "Rk": 14,
+     "Player": "Tyler Bass",
+     "Tm": "BUF",
+     "Age": 24,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        15,
+        8,
+        5,
+        4,
+        32
+     ],
+     "FGM": [
+        null,
+        15,
+        7,
+        4,
+        2,
+        28
+     ],
+     "Lng": [
+        57,
+        null
+     ],
+     "FG%": "87.5%",
+     "XPA": 51,
+     "XPM": 51,
+     "XP%": "100.0%",
+     "KO": 99,
+     "KOYds": 6213,
+     "TB": 56,
+     "TB%": "56.6%",
+     "KOAvg": 62.8,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "BassTy00"
+  },
+   {
+     "Rk": 15,
+     "Player": "Randy Bullock",
+     "Tm": "TEN",
+     "Age": 32,
+     "Pos": "k",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        5,
+        12,
+        13,
+        1,
+        31
+     ],
+     "FGM": [
+        null,
+        5,
+        12,
+        8,
+        1,
+        26
+     ],
+     "Lng": [
+        51,
+        null
+     ],
+     "FG%": "83.9%",
+     "XPA": 45,
+     "XPM": 42,
+     "XP%": "93.3%",
+     "KO": 89,
+     "KOYds": 5682,
+     "TB": 50,
+     "TB%": "56.2%",
+     "KOAvg": 63.8,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "BullRa00"
+  },
+   {
+     "Rk": 16,
+     "Player": "Brandon McManus",
+     "Tm": "DEN",
+     "Age": 30,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        8,
+        6,
+        8,
+        9,
+        31
+     ],
+     "FGM": [
+        null,
+        7,
+        6,
+        8,
+        5,
+        26
+     ],
+     "Lng": [
+        61,
+        null
+     ],
+     "FG%": "83.9%",
+     "XPA": 34,
+     "XPM": 33,
+     "XP%": "97.1%",
+     "KO": 78,
+     "KOYds": 4975,
+     "TB": 62,
+     "TB%": "79.5%",
+     "KOAvg": 63.8,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "McMaBr01"
+  },
+   {
+     "Rk": 17,
+     "Player": "Jason Sanders",
+     "Tm": "MIA",
+     "Age": 26,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        6,
+        9,
+        10,
+        6,
+        31
+     ],
+     "FGM": [
+        null,
+        6,
+        7,
+        8,
+        2,
+        23
+     ],
+     "Lng": [
+        51,
+        null
+     ],
+     "FG%": "74.2%",
+     "XPA": 35,
+     "XPM": 34,
+     "XP%": "97.1%",
+     "KO": 78,
+     "KOYds": 4969,
+     "TB": 56,
+     "TB%": "71.8%",
+     "KOAvg": 63.7,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "SandJa00"
+  },
+   {
+     "Rk": 18,
+     "Player": "Cairo Santos",
+     "Tm": "CHI",
+     "Age": 30,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        10,
+        5,
+        13,
+        2,
+        30
+     ],
+     "FGM": [
+        null,
+        10,
+        5,
+        11,
+        null,
+        26
+     ],
+     "Lng": [
+        47,
+        null
+     ],
+     "FG%": "86.7%",
+     "XPA": 28,
+     "XPM": 27,
+     "XP%": "96.4%",
+     "KO": 71,
+     "KOYds": 4443,
+     "TB": 34,
+     "TB%": "47.9%",
+     "KOAvg": 62.6,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "SantCa01"
+  },
+   {
+     "Rk": 19,
+     "Player": "Ryan Succop",
+     "Tm": "TAM",
+     "Age": 35,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        11,
+        8,
+        10,
+        1,
+        30
+     ],
+     "FGM": [
+        null,
+        11,
+        7,
+        7,
+        null,
+        25
+     ],
+     "Lng": [
+        48,
+        null
+     ],
+     "FG%": "83.3%",
+     "XPA": 59,
+     "XPM": 56,
+     "XP%": "94.9%",
+     "KO": 1,
+     "KOYds": 16,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 16,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "SuccRy44"
+  },
+   {
+     "Rk": 20,
+     "Player": "Younghoe Koo",
+     "Tm": "ATL",
+     "Age": 27,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        8,
+        9,
+        7,
+        5,
+        29
+     ],
+     "FGM": [
+        null,
+        8,
+        9,
+        6,
+        4,
+        27
+     ],
+     "Lng": [
+        54,
+        45
+     ],
+     "FG%": "93.1%",
+     "XPA": 30,
+     "XPM": 30,
+     "XP%": "100.0%",
+     "KO": 56,
+     "KOYds": 3508,
+     "TB": 29,
+     "TB%": "51.8%",
+     "KOAvg": 62.6,
+     "Pnt": 2,
+     "Yds": 70,
+     "Blck": 0,
+     "Y": {
+        "P": 35
+     },
+     "-9999": "KooxYo00"
+  },
+   {
+     "Rk": 21,
+     "Player": "Harrison Butker",
+     "Tm": "KAN",
+     "Age": 26,
+     "Pos": "k",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        3,
+        11,
+        5,
+        9,
+        28
+     ],
+     "FGM": [
+        null,
+        3,
+        11,
+        4,
+        7,
+        25
+     ],
+     "Lng": [
+        56,
+        31
+     ],
+     "FG%": "89.3%",
+     "XPA": 49,
+     "XPM": 47,
+     "XP%": "95.9%",
+     "KO": 93,
+     "KOYds": 5853,
+     "TB": 61,
+     "TB%": "65.6%",
+     "KOAvg": 62.9,
+     "Pnt": 1,
+     "Yds": 31,
+     "Blck": 0,
+     "Y": {
+        "P": 31
+     },
+     "-9999": "ButkHa00"
+  },
+   {
+     "Rk": 22,
+     "Player": "Joey Slye",
+     "Tm": "3TM",
+     "Age": 25,
+     "Pos": "",
+     "G": 12,
+     "GS": 0,
+     "FGA": [
+        null,
+        9,
+        5,
+        7,
+        4,
+        25
+     ],
+     "FGM": [
+        null,
+        9,
+        5,
+        5,
+        4,
+        23
+     ],
+     "Lng": [
+        56,
+        null
+     ],
+     "FG%": "92.0%",
+     "XPA": 22,
+     "XPM": 18,
+     "XP%": "81.8%",
+     "KO": 58,
+     "KOYds": 3690,
+     "TB": 37,
+     "TB%": "63.8%",
+     "KOAvg": 63.6,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "SlyeJo00"
+  },
+   {
+     "Rk": 23,
+     "Player": "Matthew Wright",
+     "Tm": "JAX",
+     "Age": 25,
+     "Pos": "k",
+     "G": 14,
+     "GS": 0,
+     "FGA": [
+        null,
+        7,
+        7,
+        4,
+        6,
+        24
+     ],
+     "FGM": [
+        null,
+        7,
+        7,
+        3,
+        4,
+        21
+     ],
+     "Lng": [
+        56,
+        null
+     ],
+     "FG%": "87.5%",
+     "XPA": 15,
+     "XPM": 13,
+     "XP%": "86.7%",
+     "KO": 31,
+     "KOYds": 1883,
+     "TB": 6,
+     "TB%": "19.4%",
+     "KOAvg": 60.7,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "WrigMa00"
+  },
+   {
+     "Rk": 24,
+     "Player": "Robbie Gould",
+     "Tm": "SFO",
+     "Age": 39,
+     "Pos": "k",
+     "G": 13,
+     "GS": 0,
+     "FGA": [
+        null,
+        6,
+        4,
+        9,
+        4,
+        23
+     ],
+     "FGM": [
+        null,
+        6,
+        4,
+        7,
+        3,
+        20
+     ],
+     "Lng": [
+        52,
+        47
+     ],
+     "FG%": "87.0%",
+     "XPA": 40,
+     "XPM": 39,
+     "XP%": "97.5%",
+     "KO": 19,
+     "KOYds": 1203,
+     "TB": 8,
+     "TB%": "42.1%",
+     "KOAvg": 63.3,
+     "Pnt": 2,
+     "Yds": 90,
+     "Blck": 0,
+     "Y": {
+        "P": 45
+     },
+     "-9999": "gouldrob01"
+  },
+   {
+     "Rk": 25,
+     "Player": "Jason Myers",
+     "Tm": "SEA",
+     "Age": 30,
+     "Pos": "k",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        2,
+        11,
+        5,
+        5,
+        23
+     ],
+     "FGM": [
+        null,
+        2,
+        9,
+        3,
+        3,
+        17
+     ],
+     "Lng": [
+        53,
+        null
+     ],
+     "FG%": "73.9%",
+     "XPA": 47,
+     "XPM": 44,
+     "XP%": "93.6%",
+     "KO": 83,
+     "KOYds": 5078,
+     "TB": 31,
+     "TB%": "37.3%",
+     "KOAvg": 61.2,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "MyerJa00"
+  },
+   {
+     "Rk": 26,
+     "Player": "Zane Gonzalez",
+     "Tm": "CAR",
+     "Age": 26,
+     "Pos": "k",
+     "G": 12,
+     "GS": 0,
+     "FGA": [
+        null,
+        6,
+        1,
+        10,
+        5,
+        22
+     ],
+     "FGM": [
+        null,
+        6,
+        1,
+        10,
+        3,
+        20
+     ],
+     "Lng": [
+        57,
+        40
+     ],
+     "FG%": "90.9%",
+     "XPA": 23,
+     "XPM": 22,
+     "XP%": "95.7%",
+     "KO": 55,
+     "KOYds": 3568,
+     "TB": 35,
+     "TB%": "63.6%",
+     "KOAvg": 64.9,
+     "Pnt": 1,
+     "Yds": 40,
+     "Blck": 0,
+     "Y": {
+        "P": 40
+     },
+     "-9999": "GonzZa00"
+  },
+   {
+     "Rk": 27,
+     "Player": "Michael Badgley",
+     "Tm": "2TM",
+     "Age": 26,
+     "Pos": "",
+     "G": 13,
+     "GS": 0,
+     "FGA": [
+        null,
+        4,
+        7,
+        10,
+        1,
+        22
+     ],
+     "FGM": [
+        null,
+        4,
+        6,
+        8,
+        null,
+        18
+     ],
+     "Lng": [
+        46,
+        null
+     ],
+     "FG%": "81.8%",
+     "XPA": 41,
+     "XPM": 40,
+     "XP%": "97.6%",
+     "KO": 5,
+     "KOYds": 270,
+     "TB": 3,
+     "TB%": "60.0%",
+     "KOAvg": 54,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "BadgMi00"
+  },
+   {
+     "Rk": 28,
+     "Player": "Chase McLaughlin",
+     "Tm": "CLE",
+     "Age": 25,
+     "Pos": "k",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        3,
+        4,
+        10,
+        4,
+        21
+     ],
+     "FGM": [
+        null,
+        3,
+        4,
+        4,
+        4,
+        15
+     ],
+     "Lng": [
+        57,
+        null
+     ],
+     "FG%": "71.4%",
+     "XPA": 37,
+     "XPM": 36,
+     "XP%": "97.3%",
+     "KO": 69,
+     "KOYds": 4347,
+     "TB": 31,
+     "TB%": "44.9%",
+     "KOAvg": 63,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "McLaCh00"
+  },
+   {
+     "Rk": 29,
+     "Player": "Matt Ammendola",
+     "Tm": "NYJ",
+     "Age": 25,
+     "Pos": "k",
+     "G": 11,
+     "GS": 0,
+     "FGA": [
+        null,
+        5,
+        6,
+        5,
+        3,
+        19
+     ],
+     "FGM": [
+        null,
+        5,
+        6,
+        2,
+        null,
+        13
+     ],
+     "Lng": [
+        49,
+        65
+     ],
+     "FG%": "68.4%",
+     "XPA": 15,
+     "XPM": 14,
+     "XP%": "93.3%",
+     "KO": 47,
+     "KOYds": 2762,
+     "TB": 27,
+     "TB%": "57.4%",
+     "KOAvg": 58.8,
+     "Pnt": 6,
+     "Yds": 291,
+     "Blck": 0,
+     "Y": {
+        "P": 48.5
+     },
+     "-9999": "AmmeMa00"
+  },
+   {
+     "Rk": 30,
+     "Player": "Ka'imi Fairbairn",
+     "Tm": "HOU",
+     "Age": 27,
+     "Pos": "k",
+     "G": 13,
+     "GS": 0,
+     "FGA": [
+        null,
+        4,
+        5,
+        4,
+        6,
+        19
+     ],
+     "FGM": [
+        null,
+        4,
+        5,
+        2,
+        4,
+        15
+     ],
+     "Lng": [
+        61,
+        null
+     ],
+     "FG%": "78.9%",
+     "XPA": 16,
+     "XPM": 13,
+     "XP%": "81.3%",
+     "KO": 44,
+     "KOYds": 2656,
+     "TB": 16,
+     "TB%": "36.4%",
+     "KOAvg": 60.4,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "FairKa01"
+  },
+   {
+     "Rk": 31,
+     "Player": "Brett Maher",
+     "Tm": "NOR",
+     "Age": 32,
+     "Pos": "",
+     "G": 8,
+     "GS": 0,
+     "FGA": [
+        null,
+        4,
+        9,
+        4,
+        1,
+        18
+     ],
+     "FGM": [
+        null,
+        4,
+        8,
+        4,
+        null,
+        16
+     ],
+     "Lng": [
+        42,
+        null
+     ],
+     "FG%": "88.9%",
+     "XPA": 12,
+     "XPM": 10,
+     "XP%": "83.3%",
+     "KO": 37,
+     "KOYds": 2245,
+     "TB": 18,
+     "TB%": "48.6%",
+     "KOAvg": 60.7,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "MaheBr01"
+  },
+   {
+     "Rk": 32,
+     "Player": "Rodrigo Blankenship",
+     "Tm": "IND",
+     "Age": 24,
+     "Pos": "k",
+     "G": 5,
+     "GS": 0,
+     "FGA": [
+        null,
+        3,
+        4,
+        6,
+        1,
+        14
+     ],
+     "FGM": [
+        null,
+        3,
+        3,
+        5,
+        null,
+        11
+     ],
+     "Lng": [
+        48,
+        null
+     ],
+     "FG%": "78.6%",
+     "XPA": 8,
+     "XPM": 7,
+     "XP%": "87.5%",
+     "KO": 4,
+     "KOYds": 208,
+     "TB": 2,
+     "TB%": "50.0%",
+     "KOAvg": 52,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "BlanRo03"
+  },
+   {
+     "Rk": 33,
+     "Player": "Riley Patterson",
+     "Tm": "DET",
+     "Age": 22,
+     "Pos": "k",
+     "G": 7,
+     "GS": 0,
+     "FGA": [
+        null,
+        3,
+        6,
+        4,
+        1,
+        14
+     ],
+     "FGM": [
+        null,
+        3,
+        6,
+        4,
+        null,
+        13
+     ],
+     "Lng": [
+        49,
+        null
+     ],
+     "FG%": "92.9%",
+     "XPA": 16,
+     "XPM": 16,
+     "XP%": "100.0%",
+     "KO": 2,
+     "KOYds": 14,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 7,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "PattRi01"
+  },
+   {
+     "Rk": 34,
+     "Player": "Austin Seibert",
+     "Tm": "DET",
+     "Age": 25,
+     "Pos": "k",
+     "G": 6,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        4,
+        6,
+        2,
+        12
+     ],
+     "FGM": [
+        null,
+        null,
+        4,
+        5,
+        1,
+        10
+     ],
+     "Lng": [
+        52,
+        null
+     ],
+     "FG%": "83.3%",
+     "XPA": 5,
+     "XPM": 5,
+     "XP%": "100.0%",
+     "KO": 26,
+     "KOYds": 1324,
+     "TB": 5,
+     "TB%": "19.2%",
+     "KOAvg": 50.9,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "SeibAu00"
+  },
+   {
+     "Rk": 35,
+     "Player": "Brian Johnson",
+     "Tm": "2TM",
+     "Age": 22,
+     "Pos": "",
+     "G": 7,
+     "GS": 0,
+     "FGA": [
+        null,
+        5,
+        3,
+        1,
+        1,
+        10
+     ],
+     "FGM": [
+        null,
+        5,
+        3,
+        1,
+        1,
+        10
+     ],
+     "Lng": [
+        52,
+        null
+     ],
+     "FG%": "100.0%",
+     "XPA": 13,
+     "XPM": 9,
+     "XP%": "69.2%",
+     "KO": 35,
+     "KOYds": 2143,
+     "TB": 16,
+     "TB%": "45.7%",
+     "KOAvg": 61.2,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "JohnBr05"
+  },
+   {
+     "Rk": 36,
+     "Player": "Eddy Pineiro",
+     "Tm": "NYJ",
+     "Age": 26,
+     "Pos": "k",
+     "G": 5,
+     "GS": 0,
+     "FGA": [
+        null,
+        2,
+        2,
+        3,
+        1,
+        8
+     ],
+     "FGM": [
+        null,
+        2,
+        2,
+        3,
+        1,
+        8
+     ],
+     "Lng": [
+        51,
+        null
+     ],
+     "FG%": "100.0%",
+     "XPA": 10,
+     "XPM": 9,
+     "XP%": "90.0%",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "PineEd00"
+  },
+   {
+     "Rk": 37,
+     "Player": "Tristan Vizcaino",
+     "Tm": "LAC",
+     "Age": 25,
+     "Pos": "",
+     "G": 6,
+     "GS": 0,
+     "FGA": [
+        null,
+        3,
+        2,
+        2,
+        null,
+        7
+     ],
+     "FGM": [
+        null,
+        3,
+        2,
+        1,
+        null,
+        6
+     ],
+     "Lng": [
+        46,
+        32
+     ],
+     "FG%": "85.7%",
+     "XPA": 15,
+     "XPM": 10,
+     "XP%": "66.7%",
+     "KO": 31,
+     "KOYds": 1996,
+     "TB": 13,
+     "TB%": "41.9%",
+     "KOAvg": 64.4,
+     "Pnt": 1,
+     "Yds": 32,
+     "Blck": 0,
+     "Y": {
+        "P": 32
+     },
+     "-9999": "VizcTr00"
+  },
+   {
+     "Rk": 38,
+     "Player": "Chris Blewitt",
+     "Tm": "WAS",
+     "Age": 26,
+     "Pos": "k",
+     "G": 2,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        4,
+        1,
+        5
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        1,
+        1,
+        2
+     ],
+     "Lng": [
+        52,
+        null
+     ],
+     "FG%": "40.0%",
+     "XPA": 2,
+     "XPM": 2,
+     "XP%": "100.0%",
+     "KO": 6,
+     "KOYds": 335,
+     "TB": 5,
+     "TB%": "83.3%",
+     "KOAvg": 55.8,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "BlewCh00"
+  },
+   {
+     "Rk": 39,
+     "Player": "Elliott Fry",
+     "Tm": "2TM",
+     "Age": 27,
+     "Pos": "",
+     "G": 2,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        4,
+        1,
+        null,
+        5
+     ],
+     "FGM": [
+        null,
+        null,
+        3,
+        1,
+        null,
+        4
+     ],
+     "Lng": [
+        44,
+        null
+     ],
+     "FG%": "80.0%",
+     "XPA": 5,
+     "XPM": 4,
+     "XP%": "80.0%",
+     "KO": 12,
+     "KOYds": 706,
+     "TB": 6,
+     "TB%": "50.0%",
+     "KOAvg": 58.8,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "FryxEl01"
+  },
+   {
+     "Rk": 40,
+     "Player": "Lirim Hajrullahu",
+     "Tm": "2TM",
+     "Age": 31,
+     "Pos": "",
+     "G": 4,
+     "GS": 0,
+     "FGA": [
+        null,
+        2,
+        2,
+        1,
+        null,
+        5
+     ],
+     "FGM": [
+        null,
+        2,
+        2,
+        null,
+        null,
+        4
+     ],
+     "Lng": [
+        35,
+        null
+     ],
+     "FG%": "80.0%",
+     "XPA": 8,
+     "XPM": 8,
+     "XP%": "100.0%",
+     "KO": 17,
+     "KOYds": 1100,
+     "TB": 12,
+     "TB%": "70.6%",
+     "KOAvg": 64.7,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "HajrLi00"
+  },
+   {
+     "Rk": 41,
+     "Player": "Aldrick Rosas",
+     "Tm": "2TM",
+     "Age": 27,
+     "Pos": "",
+     "G": 5,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        1,
+        2,
+        2,
+        5
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        2,
+        null,
+        2
+     ],
+     "Lng": [
+        44,
+        null
+     ],
+     "FG%": "40.0%",
+     "XPA": 14,
+     "XPM": 14,
+     "XP%": "100.0%",
+     "KO": 21,
+     "KOYds": 1357,
+     "TB": 17,
+     "TB%": "81.0%",
+     "KOAvg": 64.6,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "RosaAl00"
+  },
+   {
+     "Rk": 42,
+     "Player": "Ryan Santoso",
+     "Tm": "2TM",
+     "Age": 26,
+     "Pos": "",
+     "G": 4,
+     "GS": 0,
+     "FGA": [
+        null,
+        3,
+        1,
+        1,
+        null,
+        5
+     ],
+     "FGM": [
+        null,
+        3,
+        1,
+        null,
+        null,
+        4
+     ],
+     "Lng": [
+        35,
+        null
+     ],
+     "FG%": "80.0%",
+     "XPA": 8,
+     "XPM": 6,
+     "XP%": "75.0%",
+     "KO": 15,
+     "KOYds": 964,
+     "TB": 12,
+     "TB%": "80.0%",
+     "KOAvg": 64.3,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "SantRy00"
+  },
+   {
+     "Rk": 43,
+     "Player": "Dominik Eberle",
+     "Tm": "HOU",
+     "Age": 25,
+     "Pos": "k",
+     "G": 1,
+     "GS": 0,
+     "FGA": [
+        null,
+        1,
+        null,
+        null,
+        2,
+        3
+     ],
+     "FGM": [
+        null,
+        1,
+        null,
+        null,
+        1,
+        2
+     ],
+     "Lng": [
+        51,
+        null
+     ],
+     "FG%": "66.7%",
+     "XPA": 5,
+     "XPM": 5,
+     "XP%": "100.0%",
+     "KO": 8,
+     "KOYds": 504,
+     "TB": 3,
+     "TB%": "37.5%",
+     "KOAvg": 63,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "EberDo01"
+  },
+   {
+     "Rk": 44,
+     "Player": "Josh Lambo",
+     "Tm": "JAX",
+     "Age": 31,
+     "Pos": "",
+     "G": 3,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        1,
+        2,
+        3
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        null
+     ],
+     "FG%": "0.0%",
+     "XPA": 7,
+     "XPM": 5,
+     "XP%": "71.4%",
+     "KO": 10,
+     "KOYds": 595,
+     "TB": 7,
+     "TB%": "70.0%",
+     "KOAvg": 59.5,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "LambJo00"
+  },
+   {
+     "Rk": 45,
+     "Player": "Mitch Wishnowsky",
+     "Tm": "SFO",
+     "Age": 29,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        1,
+        null,
+        1
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        67
+     ],
+     "FG%": "0.0%",
+     "XPA": 2,
+     "XPM": 1,
+     "XP%": "50.0%",
+     "KO": 56,
+     "KOYds": 3487,
+     "TB": 21,
+     "TB%": "37.5%",
+     "KOAvg": 62.3,
+     "Pnt": 57,
+     "Yds": 2566,
+     "Blck": 0,
+     "Y": {
+        "P": 45
+     },
+     "-9999": "WishMi00"
+  },
+   {
+     "Rk": 46,
+     "Player": "Bradley Pinion",
+     "Tm": "TAM",
+     "Age": 27,
+     "Pos": "p",
+     "G": 15,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        1,
+        1
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        65
+     ],
+     "FG%": "0.0%",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 89,
+     "KOYds": 5756,
+     "TB": 71,
+     "TB%": "79.8%",
+     "KOAvg": 64.7,
+     "Pnt": 56,
+     "Yds": 2378,
+     "Blck": 0,
+     "Y": {
+        "P": 42.5
+     },
+     "-9999": "PiniBr00"
+  },
+   {
+     "Rk": 47,
+     "Player": "Chris Naggar",
+     "Tm": "CLE",
+     "Age": 24,
+     "Pos": "k",
+     "G": 1,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        1,
+        null,
+        null,
+        1
+     ],
+     "FGM": [
+        null,
+        null,
+        1,
+        null,
+        null,
+        1
+     ],
+     "Lng": [
+        37,
+        null
+     ],
+     "FG%": "100.0%",
+     "XPA": 2,
+     "XPM": 1,
+     "XP%": "50.0%",
+     "KO": 5,
+     "KOYds": 317,
+     "TB": 3,
+     "TB%": "60.0%",
+     "KOAvg": 63.4,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "NaggCh00"
+  },
+   {
+     "Rk": 48,
+     "Player": "Cameron Johnston",
+     "Tm": "HOU",
+     "Age": 29,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        69
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 88,
+     "Yds": 4108,
+     "Blck": 0,
+     "Y": {
+        "P": 46.7
+     },
+     "-9999": "JohnCa02"
+  },
+   {
+     "Rk": 49,
+     "Player": "Michael Dickson",
+     "Tm": "SEA",
+     "Age": 25,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        68
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 83,
+     "Yds": 3895,
+     "Blck": 0,
+     "Y": {
+        "P": 46.9
+     },
+     "-9999": "DickMi00"
+  },
+   {
+     "Rk": 50,
+     "Player": "Blake Gillikin",
+     "Tm": "NOR",
+     "Age": 23,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 2,
+     "KOYds": 130,
+     "TB": 2,
+     "TB%": "100.0%",
+     "KOAvg": 65,
+     "Pnt": 83,
+     "Yds": 3956,
+     "Blck": 0,
+     "Y": {
+        "P": 47.7
+     },
+     "-9999": "GillBl00"
+  },
+   {
+     "Rk": 51,
+     "Player": "Jordan Berry",
+     "Tm": "MIN",
+     "Age": 30,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        64
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 78,
+     "Yds": 3624,
+     "Blck": 0,
+     "Y": {
+        "P": 46.5
+     },
+     "-9999": "BerrJo00"
+  },
+   {
+     "Rk": 52,
+     "Player": "Michael Palardy",
+     "Tm": "MIA",
+     "Age": 29,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        65
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 1,
+     "KOYds": 58,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 58,
+     "Pnt": 78,
+     "Yds": 3489,
+     "Blck": 0,
+     "Y": {
+        "P": 44.7
+     },
+     "-9999": "PalaMi00"
+  },
+   {
+     "Rk": 53,
+     "Player": "Riley Dixon",
+     "Tm": "NYG",
+     "Age": 28,
+     "Pos": "",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 5,
+     "KOYds": 102,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 20.4,
+     "Pnt": 74,
+     "Yds": 3283,
+     "Blck": 0,
+     "Y": {
+        "P": 44.4
+     },
+     "-9999": "DixoRi00"
+  },
+   {
+     "Rk": 54,
+     "Player": "Sam Koch",
+     "Tm": "BAL",
+     "Age": 39,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        61
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 71,
+     "Yds": 3149,
+     "Blck": 0,
+     "Y": {
+        "P": 44.4
+     },
+     "-9999": "KochSa20"
+  },
+   {
+     "Rk": 55,
+     "Player": "Pressley Harvin III",
+     "Tm": "PIT",
+     "Age": 23,
+     "Pos": "p",
+     "G": 15,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        64
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 2,
+     "KOYds": 101,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 50.5,
+     "Pnt": 70,
+     "Yds": 2982,
+     "Blck": 0,
+     "Y": {
+        "P": 42.6
+     },
+     "-9999": "HarvPr00"
+  },
+   {
+     "Rk": 56,
+     "Player": "Sam Martin",
+     "Tm": "DEN",
+     "Age": 31,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        68
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 67,
+     "Yds": 3083,
+     "Blck": 0,
+     "Y": {
+        "P": 46
+     },
+     "-9999": "MartSa01"
+  },
+   {
+     "Rk": 57,
+     "Player": "Kevin Huber",
+     "Tm": "CIN",
+     "Age": 36,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        61
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 66,
+     "Yds": 3064,
+     "Blck": 0,
+     "Y": {
+        "P": 46.4
+     },
+     "-9999": "HubeKe20"
+  },
+   {
+     "Rk": 58,
+     "Player": "Bryan Anger*",
+     "Tm": "DAL",
+     "Age": 33,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 65,
+     "Yds": 3143,
+     "Blck": 0,
+     "Y": {
+        "P": 48.4
+     },
+     "-9999": "AngeBr00"
+  },
+   {
+     "Rk": 59,
+     "Player": "Jack Fox",
+     "Tm": "DET",
+     "Age": 25,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        70
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 35,
+     "KOYds": 2209,
+     "TB": 19,
+     "TB%": "54.3%",
+     "KOAvg": 63.1,
+     "Pnt": 65,
+     "Yds": 3198,
+     "Blck": 0,
+     "Y": {
+        "P": 49.2
+     },
+     "-9999": "FoxxJa01"
+  },
+   {
+     "Rk": 60,
+     "Player": "AJ Cole III*+",
+     "Tm": "LVR",
+     "Age": 26,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        71
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 64,
+     "Yds": 3202,
+     "Blck": 0,
+     "Y": {
+        "P": 50
+     },
+     "-9999": "ColeAJ01"
+  },
+   {
+     "Rk": 61,
+     "Player": "Logan Cooke",
+     "Tm": "JAX",
+     "Age": 26,
+     "Pos": "p",
+     "G": 15,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        68
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 21,
+     "KOYds": 1289,
+     "TB": 9,
+     "TB%": "42.9%",
+     "KOAvg": 61.4,
+     "Pnt": 64,
+     "Yds": 3026,
+     "Blck": 0,
+     "Y": {
+        "P": 47.3
+     },
+     "-9999": "CookLo00"
+  },
+   {
+     "Rk": 62,
+     "Player": "Pat O'Donnell",
+     "Tm": "CHI",
+     "Age": 30,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        72
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 62,
+     "Yds": 2865,
+     "Blck": 0,
+     "Y": {
+        "P": 46.2
+     },
+     "-9999": "ODonPa00"
+  },
+   {
+     "Rk": 63,
+     "Player": "Tress Way",
+     "Tm": "WAS",
+     "Age": 31,
+     "Pos": "p",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        66
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 2,
+     "KOYds": 124,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 62,
+     "Pnt": 60,
+     "Yds": 2901,
+     "Blck": 0,
+     "Y": {
+        "P": 48.4
+     },
+     "-9999": "WayxTr00"
+  },
+   {
+     "Rk": 64,
+     "Player": "Rigoberto Sanchez",
+     "Tm": "IND",
+     "Age": 27,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        79
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 89,
+     "KOYds": 5687,
+     "TB": 44,
+     "TB%": "49.4%",
+     "KOAvg": 63.9,
+     "Pnt": 59,
+     "Yds": 2627,
+     "Blck": 0,
+     "Y": {
+        "P": 44.5
+     },
+     "-9999": "SancRi00"
+  },
+   {
+     "Rk": 65,
+     "Player": "Arryn Siposs",
+     "Tm": "PHI",
+     "Age": 29,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        68
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 1,
+     "KOYds": 58,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 58,
+     "Pnt": 55,
+     "Yds": 2416,
+     "Blck": 0,
+     "Y": {
+        "P": 43.9
+     },
+     "-9999": "SipoAr01"
+  },
+   {
+     "Rk": 66,
+     "Player": "Corey Bojorquez",
+     "Tm": "GNB",
+     "Age": 25,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        82
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 53,
+     "Yds": 2467,
+     "Blck": 0,
+     "Y": {
+        "P": 46.5
+     },
+     "-9999": "BojoCo00"
+  },
+   {
+     "Rk": 67,
+     "Player": "Matt Haack",
+     "Tm": "BUF",
+     "Age": 27,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 1,
+     "KOYds": 53,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 53,
+     "Pnt": 52,
+     "Yds": 2230,
+     "Blck": 1,
+     "Y": {
+        "P": 42.9
+     },
+     "-9999": "HaacMa00"
+  },
+   {
+     "Rk": 68,
+     "Player": "Johnny Hekker",
+     "Tm": "LAR",
+     "Age": 31,
+     "Pos": "",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        59
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 51,
+     "Yds": 2252,
+     "Blck": 0,
+     "Y": {
+        "P": 44.2
+     },
+     "-9999": "HekkJo00"
+  },
+   {
+     "Rk": 69,
+     "Player": "Andy Lee",
+     "Tm": "ARI",
+     "Age": 39,
+     "Pos": "p",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        62
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 51,
+     "Yds": 2501,
+     "Blck": 0,
+     "Y": {
+        "P": 49
+     },
+     "-9999": "LeexAn20"
+  },
+   {
+     "Rk": 70,
+     "Player": "Jake Bailey",
+     "Tm": "NWE",
+     "Age": 24,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        71
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 90,
+     "KOYds": 5706,
+     "TB": 42,
+     "TB%": "46.7%",
+     "KOAvg": 63.4,
+     "Pnt": 49,
+     "Yds": 2316,
+     "Blck": 3,
+     "Y": {
+        "P": 47.3
+     },
+     "-9999": "BailJa00"
+  },
+   {
+     "Rk": 71,
+     "Player": "Dustin Colquitt",
+     "Tm": "2TM",
+     "Age": 39,
+     "Pos": "",
+     "G": 11,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        66
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 48,
+     "Yds": 2134,
+     "Blck": 1,
+     "Y": {
+        "P": 44.5
+     },
+     "-9999": "ColqDu20"
+  },
+   {
+     "Rk": 72,
+     "Player": "Brett Kern",
+     "Tm": "TEN",
+     "Age": 35,
+     "Pos": "p",
+     "G": 14,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        59
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 47,
+     "Yds": 2105,
+     "Blck": 0,
+     "Y": {
+        "P": 44.8
+     },
+     "-9999": "KernBr20"
+  },
+   {
+     "Rk": 73,
+     "Player": "Ty Long",
+     "Tm": "LAC",
+     "Age": 28,
+     "Pos": "p",
+     "G": 17,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        69
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 46,
+     "Yds": 2091,
+     "Blck": 1,
+     "Y": {
+        "P": 45.5
+     },
+     "-9999": "LongTy00"
+  },
+   {
+     "Rk": 74,
+     "Player": "Thomas Morstead",
+     "Tm": "2TM",
+     "Age": 35,
+     "Pos": "",
+     "G": 14,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        64
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 45,
+     "Yds": 2123,
+     "Blck": 0,
+     "Y": {
+        "P": 47.2
+     },
+     "-9999": "MorsTh00"
+  },
+   {
+     "Rk": 75,
+     "Player": "Jamie Gillan",
+     "Tm": "CLE",
+     "Age": 24,
+     "Pos": "p",
+     "G": 12,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        65
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 42,
+     "Yds": 1842,
+     "Blck": 0,
+     "Y": {
+        "P": 43.9
+     },
+     "-9999": "GillJa00"
+  },
+   {
+     "Rk": 76,
+     "Player": "Braden Mann",
+     "Tm": "NYJ",
+     "Age": 24,
+     "Pos": "p",
+     "G": 10,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 22,
+     "KOYds": 1426,
+     "TB": 20,
+     "TB%": "90.9%",
+     "KOAvg": 64.8,
+     "Pnt": 41,
+     "Yds": 1875,
+     "Blck": 1,
+     "Y": {
+        "P": 45.7
+     },
+     "-9999": "MannBr01"
+  },
+   {
+     "Rk": 77,
+     "Player": "Lac Edwards",
+     "Tm": "CAR",
+     "Age": 29,
+     "Pos": "p",
+     "G": 10,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        62
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 38,
+     "Yds": 1821,
+     "Blck": 1,
+     "Y": {
+        "P": 47.9
+     },
+     "-9999": "EdwaLa01"
+  },
+   {
+     "Rk": 78,
+     "Player": "Tommy Townsend",
+     "Tm": "KAN",
+     "Age": 25,
+     "Pos": "p",
+     "G": 16,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        68
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 37,
+     "Yds": 1746,
+     "Blck": 0,
+     "Y": {
+        "P": 47.2
+     },
+     "-9999": "TownTo01"
+  },
+   {
+     "Rk": 79,
+     "Player": "Joseph Charlton",
+     "Tm": "2TM",
+     "Age": 24,
+     "Pos": "",
+     "G": 6,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        57
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 24,
+     "Yds": 973,
+     "Blck": 0,
+     "Y": {
+        "P": 40.5
+     },
+     "-9999": "CharJo01"
+  },
+   {
+     "Rk": 80,
+     "Player": "Cameron Nizialek",
+     "Tm": "ATL",
+     "Age": 26,
+     "Pos": "p",
+     "G": 4,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        62
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 15,
+     "KOYds": 946,
+     "TB": 6,
+     "TB%": "40.0%",
+     "KOAvg": 63.1,
+     "Pnt": 18,
+     "Yds": 817,
+     "Blck": 0,
+     "Y": {
+        "P": 45.4
+     },
+     "-9999": "NiziCa00"
+  },
+   {
+     "Rk": 81,
+     "Player": "Ryan Winslow",
+     "Tm": "3TM",
+     "Age": 27,
+     "Pos": "",
+     "G": 4,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        46
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 2,
+     "KOYds": 130,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": 65,
+     "Pnt": 16,
+     "Yds": 625,
+     "Blck": 0,
+     "Y": {
+        "P": 39.1
+     },
+     "-9999": "WinsRy00"
+  },
+   {
+     "Rk": 82,
+     "Player": "Johnny Townsend",
+     "Tm": "2TM",
+     "Age": 26,
+     "Pos": "",
+     "G": 4,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 13,
+     "Yds": 556,
+     "Blck": 0,
+     "Y": {
+        "P": 42.8
+     },
+     "-9999": "TownJo01"
+  },
+   {
+     "Rk": 83,
+     "Player": "Corliss Waitman",
+     "Tm": "PIT",
+     "Age": 26,
+     "Pos": "p",
+     "G": 2,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        63
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 7,
+     "Yds": 365,
+     "Blck": 0,
+     "Y": {
+        "P": 52.1
+     },
+     "-9999": "WaitCo00"
+  },
+   {
+     "Rk": 84,
+     "Player": "Sterling Hofrichter",
+     "Tm": "TAM",
+     "Age": 25,
+     "Pos": "p",
+     "G": 2,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        45
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": 14,
+     "KOYds": 894,
+     "TB": 6,
+     "TB%": "42.9%",
+     "KOAvg": 63.9,
+     "Pnt": 6,
+     "Yds": 227,
+     "Blck": 0,
+     "Y": {
+        "P": 37.8
+     },
+     "-9999": "HofrSt00"
+  },
+   {
+     "Rk": 85,
+     "Player": "JK Scott",
+     "Tm": "JAX",
+     "Age": 26,
+     "Pos": "p",
+     "G": 1,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        47
+     ],
+     "FG%": "",
+     "XPA": null,
+     "XPM": null,
+     "XP%": "",
+     "KO": null,
+     "KOYds": null,
+     "TB": null,
+     "TB%": "",
+     "KOAvg": null,
+     "Pnt": 4,
+     "Yds": 159,
+     "Blck": 0,
+     "Y": {
+        "P": 39.8
+     },
+     "-9999": "ScotJK00"
+  },
+   {
+     "Rk": 86,
+     "Player": "Alex Kessman",
+     "Tm": "NYJ",
+     "Age": 23,
+     "Pos": "",
+     "G": 1,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        null
+     ],
+     "FG%": "",
+     "XPA": 2,
+     "XPM": null,
+     "XP%": "0.0%",
+     "KO": 4,
+     "KOYds": 246,
+     "TB": 1,
+     "TB%": "25.0%",
+     "KOAvg": 61.5,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "KessAl00"
+  },
+   {
+     "Rk": 87,
+     "Player": "Cody Parkey",
+     "Tm": "NOR",
+     "Age": 29,
+     "Pos": "",
+     "G": 1,
+     "GS": 0,
+     "FGA": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "FGM": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+     ],
+     "Lng": [
+        null,
+        null
+     ],
+     "FG%": "",
+     "XPA": 5,
+     "XPM": 3,
+     "XP%": "60.0%",
+     "KO": 3,
+     "KOYds": 195,
+     "TB": 1,
+     "TB%": "33.3%",
+     "KOAvg": 65,
+     "Pnt": null,
+     "Yds": null,
+     "Blck": null,
+     "Y": {
+        "P": null
+     },
+     "-9999": "ParkCo03"
+  }
+  ]
