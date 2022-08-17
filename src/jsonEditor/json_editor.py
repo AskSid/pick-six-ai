@@ -82,7 +82,6 @@ data = []
 
 def setupPlayers():
     for player in json_data:
-        obj = {}
         if player["FantPos"] == "k":
             player["Cmp"] = 0
             player["Att"] = [0,0]
@@ -94,6 +93,13 @@ def setupPlayers():
             player["Rec"] = 0
             player["Fmb"] = 0
             player["FantPt"] = 0
+        else:
+            player["FGA"] = [0,0,0,0,0,0]
+            player["FGM"] = [0,0,0,0,0,0]
+            player["Lng"] = [0,0]
+            player["FG%"] = 0
+            player["XPA"] = 0
+            player["XPM"] = 0
 
 def addExpectedPoints():
     for player in json_data:
@@ -110,7 +116,7 @@ def writeToJSONFile(path, fileName, data):
         json.dump(data, fp)
 
 # setupPlayers()
-addExpectedPoints()
+setupPlayers()
 data = json_data
 
 writeToJSONFile('src','players', data)
