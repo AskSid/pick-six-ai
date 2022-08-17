@@ -50,7 +50,7 @@ function Rankings(props) {
 
   const [scoring, setScoring] = useState("PPR");
 
-  const sortedPlayers = players.sort(GetSortOrder(scoring));
+  const sortedPlayers = players.sort(GetSortOrder("expectedPoints"));
 
   return (
     <div className={styles.body}>
