@@ -13,7 +13,7 @@ import {
   InputGroup,
   FormControl,
   Button,
-} from "react-bootstrap";
+} from "react-bootstrap"
 
 const MockDraft = () => {
   var allPlayers = JSON.parse(JSON.stringify(playersJson));
@@ -137,7 +137,7 @@ const MockDraft = () => {
   // Runs the user turn
   const userTurnHandler = async () => {
     setUserTurn(true);
-    await new Promise((r) => setTimeout(r, userTurnTime * 1000));
+    //await new Promise((r) => setTimeout(r, userTurnTime * 1000));
     setUserTurn(false);
     setCurrentPick(currentPick + 1);
     if (oddUserPick === true) {
