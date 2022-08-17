@@ -26,7 +26,8 @@
     "VBD": 187,
     "PosRank": 1,
     "OvRank": 1,
-    "-9999": "TaylJo02"
+    "-9999": "TaylJo02",
+    "expectedPoints": 373.8518981934
   },
   {
     "Rk": 2,
@@ -55,7 +56,8 @@
     "VBD": 173,
     "PosRank": 1,
     "OvRank": 2,
-    "-9999": "KuppCo00"
+    "-9999": "KuppCo00",
+    "expectedPoints": 385.8556213379
   },
   {
     "Rk": 3,
@@ -84,7 +86,8 @@
     "VBD": 140,
     "PosRank": 2,
     "OvRank": 3,
-    "-9999": "SamuDe00"
+    "-9999": "SamuDe00",
+    "expectedPoints": 284.3316650391
   },
   {
     "Rk": 4,
@@ -113,7 +116,8 @@
     "VBD": 134,
     "PosRank": 1,
     "OvRank": 4,
-    "-9999": "AlleJo02"
+    "-9999": "AlleJo02",
+    "expectedPoints": 306.6485595703
   },
   {
     "Rk": 5,
@@ -142,7 +146,8 @@
     "VBD": 128,
     "PosRank": 2,
     "OvRank": 5,
-    "-9999": "EkelAu00"
+    "-9999": "EkelAu00",
+    "expectedPoints": 306.5693054199
   },
   {
     "Rk": 6,
@@ -171,7 +176,8 @@
     "VBD": 112,
     "PosRank": 2,
     "OvRank": 6,
-    "-9999": "HerbJu00"
+    "-9999": "HerbJu00",
+    "expectedPoints": 267.3751525879
   },
   {
     "Rk": 7,
@@ -200,7 +206,8 @@
     "VBD": 106,
     "PosRank": 3,
     "OvRank": 7,
-    "-9999": "BradTo00"
+    "-9999": "BradTo00",
+    "expectedPoints": 279.498260498
   },
   {
     "Rk": 8,
@@ -229,7 +236,8 @@
     "VBD": 102,
     "PosRank": 1,
     "OvRank": 8,
-    "-9999": "AndrMa00"
+    "-9999": "AndrMa00",
+    "expectedPoints": 271.6752929688
   },
   {
     "Rk": 9,
@@ -258,7 +266,8 @@
     "VBD": 102,
     "PosRank": 3,
     "OvRank": 9,
-    "-9999": "ChasJa00"
+    "-9999": "ChasJa00",
+    "expectedPoints": 332.6188354492
   },
   {
     "Rk": 10,
@@ -287,7 +296,8 @@
     "VBD": 101,
     "PosRank": 4,
     "OvRank": 10,
-    "-9999": "JeffJu00"
+    "-9999": "JeffJu00",
+    "expectedPoints": 334.5628967285
   },
   {
     "Rk": 11,
@@ -316,7 +326,8 @@
     "VBD": 100,
     "PosRank": 3,
     "OvRank": 11,
-    "-9999": "MixoJo00"
+    "-9999": "MixoJo00",
+    "expectedPoints": 282.4927978516
   },
   {
     "Rk": 12,
@@ -345,7 +356,8 @@
     "VBD": 100,
     "PosRank": 5,
     "OvRank": 12,
-    "-9999": "AdamDa01"
+    "-9999": "AdamDa01",
+    "expectedPoints": 328.8264770508
   },
   {
     "Rk": 13,
@@ -374,7 +386,8 @@
     "VBD": 93,
     "PosRank": 4,
     "OvRank": 13,
-    "-9999": "MahoPa00"
+    "-9999": "MahoPa00",
+    "expectedPoints": 293.4569702148
   },
   {
     "Rk": 14,
@@ -403,7 +416,8 @@
     "VBD": 81,
     "PosRank": 4,
     "OvRank": 14,
-    "-9999": "HarrNa00"
+    "-9999": "HarrNa00",
+    "expectedPoints": 338.6131286621
   },
   {
     "Rk": 15,
@@ -432,7 +446,8 @@
     "VBD": 79,
     "PosRank": 2,
     "OvRank": 15,
-    "-9999": "KelcTr00"
+    "-9999": "KelcTr00",
+    "expectedPoints": 236.6397247314
   },
   {
     "Rk": 16,
@@ -461,7 +476,8 @@
     "VBD": 75,
     "PosRank": 5,
     "OvRank": 16,
-    "-9999": "ConnJa00"
+    "-9999": "ConnJa00",
+    "expectedPoints": 268.0918273926
   },
   {
     "Rk": 17,
@@ -490,7 +506,8 @@
     "VBD": 67,
     "PosRank": 6,
     "OvRank": 17,
-    "-9999": "EvanMi00"
+    "-9999": "EvanMi00",
+    "expectedPoints": 263.7859191895
   },
   {
     "Rk": 18,
@@ -519,7 +536,8 @@
     "VBD": 64,
     "PosRank": 5,
     "OvRank": 18,
-    "-9999": "RodgAa00"
+    "-9999": "RodgAa00",
+    "expectedPoints": 233.2454681396
   },
   {
     "Rk": 19,
@@ -548,7 +566,8 @@
     "VBD": 64,
     "PosRank": 7,
     "OvRank": 19,
-    "-9999": "HillTy00"
+    "-9999": "HillTy00",
+    "expectedPoints": 285.8040466309
   },
   {
     "Rk": 20,
@@ -577,7 +596,8 @@
     "VBD": 61,
     "PosRank": 6,
     "OvRank": 20,
-    "-9999": "StafMa00"
+    "-9999": "StafMa00",
+    "expectedPoints": 248.7991943359
   },
   {
     "Rk": 21,
@@ -606,7 +626,8 @@
     "VBD": 61,
     "PosRank": 8,
     "OvRank": 21,
-    "-9999": "DiggSt00"
+    "-9999": "DiggSt00",
+    "expectedPoints": 283.833984375
   },
   {
     "Rk": 22,
@@ -635,7 +656,8 @@
     "VBD": 59,
     "PosRank": 6,
     "OvRank": 22,
-    "-9999": "ElliEz00"
+    "-9999": "ElliEz00",
+    "expectedPoints": 247.7646942139
   },
   {
     "Rk": 23,
@@ -664,7 +686,8 @@
     "VBD": 52,
     "PosRank": 7,
     "OvRank": 23,
-    "-9999": "PresDa01"
+    "-9999": "PresDa01",
+    "expectedPoints": 290.6053161621
   },
   {
     "Rk": 24,
@@ -693,7 +716,8 @@
     "VBD": 49,
     "PosRank": 7,
     "OvRank": 24,
-    "-9999": "ChubNi00"
+    "-9999": "ChubNi00",
+    "expectedPoints": 220.8854217529
   },
   {
     "Rk": 25,
@@ -722,7 +746,8 @@
     "VBD": 49,
     "PosRank": 9,
     "OvRank": 25,
-    "-9999": "WillMi07"
+    "-9999": "WillMi07",
+    "expectedPoints": 250.4963378906
   },
   {
     "Rk": 26,
@@ -751,7 +776,8 @@
     "VBD": 48,
     "PosRank": 10,
     "OvRank": 26,
-    "-9999": "MetcDK00"
+    "-9999": "MetcDK00",
+    "expectedPoints": 268.9612426758
   },
   {
     "Rk": 27,
@@ -780,7 +806,8 @@
     "VBD": 47,
     "PosRank": 11,
     "OvRank": 27,
-    "-9999": "LockTy00"
+    "-9999": "LockTy00",
+    "expectedPoints": 247.1482696533
   },
   {
     "Rk": 28,
@@ -809,7 +836,8 @@
     "VBD": 46,
     "PosRank": 8,
     "OvRank": 28,
-    "-9999": "HarrDa06"
+    "-9999": "HarrDa06",
+    "expectedPoints": 233.765335083
   },
   {
     "Rk": 29,
@@ -838,7 +866,8 @@
     "VBD": 46,
     "PosRank": 8,
     "OvRank": 29,
-    "-9999": "BurrJo01"
+    "-9999": "BurrJo01",
+    "expectedPoints": 240.5647735596
   },
   {
     "Rk": 30,
@@ -867,7 +896,8 @@
     "VBD": 46,
     "PosRank": 12,
     "OvRank": 30,
-    "-9999": "JohnDi01"
+    "-9999": "JohnDi01",
+    "expectedPoints": 291.4540100098
   },
   {
     "Rk": 31,
@@ -896,7 +926,8 @@
     "VBD": 44,
     "PosRank": 9,
     "OvRank": 31,
-    "-9999": "HurtJa00"
+    "-9999": "HurtJa00",
+    "expectedPoints": 262.1845703125
   },
   {
     "Rk": 32,
@@ -925,7 +956,8 @@
     "VBD": 42,
     "PosRank": 9,
     "OvRank": 32,
-    "-9999": "KamaAl00"
+    "-9999": "KamaAl00",
+    "expectedPoints": 263.0903015137
   },
   {
     "Rk": 33,
@@ -954,7 +986,8 @@
     "VBD": 41,
     "PosRank": 10,
     "OvRank": 33,
-    "-9999": "GibsAn00"
+    "-9999": "GibsAn00",
+    "expectedPoints": 275.6229553223
   },
   {
     "Rk": 34,
@@ -983,7 +1016,8 @@
     "VBD": 41,
     "PosRank": 11,
     "OvRank": 34,
-    "-9999": "FourLe00"
+    "-9999": "FourLe00",
+    "expectedPoints": 274.4362182617
   },
   {
     "Rk": 35,
@@ -1012,7 +1046,8 @@
     "VBD": 39,
     "PosRank": 3,
     "OvRank": 35,
-    "-9999": "SchuDa00"
+    "-9999": "SchuDa00",
+    "expectedPoints": 190.0121612549
   },
   {
     "Rk": 36,
@@ -1041,7 +1076,8 @@
     "VBD": 37,
     "PosRank": 12,
     "OvRank": 36,
-    "-9999": "PattCo00"
+    "-9999": "PattCo00",
+    "expectedPoints": 206.5543365479
   },
   {
     "Rk": 37,
@@ -1070,7 +1106,8 @@
     "VBD": 35,
     "PosRank": 4,
     "OvRank": 37,
-    "-9999": "KittGe00"
+    "-9999": "KittGe00",
+    "expectedPoints": 211.1714172363
   },
   {
     "Rk": 38,
@@ -1099,7 +1136,8 @@
     "VBD": 35,
     "PosRank": 13,
     "OvRank": 38,
-    "-9999": "RenfHu00"
+    "-9999": "RenfHu00",
+    "expectedPoints": 304.9427185059
   },
   {
     "Rk": 39,
@@ -1128,7 +1166,8 @@
     "VBD": 32,
     "PosRank": 14,
     "OvRank": 39,
-    "-9999": "LambCe00"
+    "-9999": "LambCe00",
+    "expectedPoints": 243.6561737061
   },
   {
     "Rk": 40,
@@ -1157,7 +1196,8 @@
     "VBD": 32,
     "PosRank": 10,
     "OvRank": 40,
-    "-9999": "MurrKy00"
+    "-9999": "MurrKy00",
+    "expectedPoints": 250.6197509766
   },
   {
     "Rk": 41,
@@ -1186,7 +1226,8 @@
     "VBD": 32,
     "PosRank": 11,
     "OvRank": 41,
-    "-9999": "CousKi00"
+    "-9999": "CousKi00",
+    "expectedPoints": 237.564956665
   },
   {
     "Rk": 42,
@@ -1215,7 +1256,8 @@
     "VBD": 31,
     "PosRank": 13,
     "OvRank": 42,
-    "-9999": "JoneAa00"
+    "-9999": "JoneAa00",
+    "expectedPoints": 230.2100067139
   },
   {
     "Rk": 43,
@@ -1244,7 +1286,8 @@
     "VBD": 30,
     "PosRank": 15,
     "OvRank": 43,
-    "-9999": "AlleKe00"
+    "-9999": "AlleKe00",
+    "expectedPoints": 269.903717041
   },
   {
     "Rk": 44,
@@ -1273,7 +1316,8 @@
     "VBD": 29,
     "PosRank": 14,
     "OvRank": 44,
-    "-9999": "HenrDe00"
+    "-9999": "HenrDe00",
+    "expectedPoints": 192.9779815674
   },
   {
     "Rk": 45,
@@ -1302,7 +1346,8 @@
     "VBD": 29,
     "PosRank": 16,
     "OvRank": 45,
-    "-9999": "PittMi01"
+    "-9999": "PittMi01",
+    "expectedPoints": 254.7574157715
   },
   {
     "Rk": 46,
@@ -1331,7 +1376,8 @@
     "VBD": 26,
     "PosRank": 15,
     "OvRank": 46,
-    "-9999": "CookDa01"
+    "-9999": "CookDa01",
+    "expectedPoints": 231.6323547363
   },
   {
     "Rk": 47,
@@ -1360,7 +1406,8 @@
     "VBD": 26,
     "PosRank": 16,
     "OvRank": 47,
-    "-9999": "JacoJo01"
+    "-9999": "JacoJo01",
+    "expectedPoints": 274.7864379883
   },
   {
     "Rk": 48,
@@ -1389,7 +1436,8 @@
     "VBD": 25,
     "PosRank": 5,
     "OvRank": 48,
-    "-9999": "GronRo00"
+    "-9999": "GronRo00",
+    "expectedPoints": 182.4872283936
   },
   {
     "Rk": 49,
@@ -1418,7 +1466,8 @@
     "VBD": 24,
     "PosRank": 17,
     "OvRank": 49,
-    "-9999": "HiggTe00"
+    "-9999": "HiggTe00",
+    "expectedPoints": 257.8532714844
   },
   {
     "Rk": 50,
@@ -1447,7 +1496,8 @@
     "VBD": 23,
     "PosRank": 6,
     "OvRank": 50,
-    "-9999": "KnoxDa00"
+    "-9999": "KnoxDa00",
+    "expectedPoints": 168.8053741455
   },
   {
     "Rk": 51,
@@ -1476,7 +1526,8 @@
     "VBD": 23,
     "PosRank": 18,
     "OvRank": 51,
-    "-9999": "MoorD.00"
+    "-9999": "MoorD.00",
+    "expectedPoints": 253.6339111328
   },
   {
     "Rk": 52,
@@ -1505,7 +1556,8 @@
     "VBD": 23,
     "PosRank": 19,
     "OvRank": 52,
-    "-9999": "GodwCh00"
+    "-9999": "GodwCh00",
+    "expectedPoints": 264.8454589844
   },
   {
     "Rk": 53,
@@ -1534,7 +1586,8 @@
     "VBD": 23,
     "PosRank": 7,
     "OvRank": 53,
-    "-9999": "HenrHu00"
+    "-9999": "HenrHu00",
+    "expectedPoints": 161.6928863525
   },
   {
     "Rk": 54,
@@ -1563,7 +1616,8 @@
     "VBD": 21,
     "PosRank": 17,
     "OvRank": 54,
-    "-9999": "GordMe00"
+    "-9999": "GordMe00",
+    "expectedPoints": 191.0135345459
   },
   {
     "Rk": 55,
@@ -1592,7 +1646,8 @@
     "VBD": 20,
     "PosRank": 21,
     "OvRank": 55,
-    "-9999": "WaddJa00"
+    "-9999": "WaddJa00",
+    "expectedPoints": 279.7502746582
   },
   {
     "Rk": 56,
@@ -1621,7 +1676,8 @@
     "VBD": 20,
     "PosRank": 20,
     "OvRank": 56,
-    "-9999": "CookBr00"
+    "-9999": "CookBr00",
+    "expectedPoints": 250.9463195801
   },
   {
     "Rk": 57,
@@ -1650,7 +1706,8 @@
     "VBD": 17,
     "PosRank": 8,
     "OvRank": 57,
-    "-9999": "GoedDa00"
+    "-9999": "GoedDa00",
+    "expectedPoints": 188.8324127197
   },
   {
     "Rk": 58,
@@ -1679,7 +1736,8 @@
     "VBD": 17,
     "PosRank": 22,
     "OvRank": 58,
-    "-9999": "MoonDa00"
+    "-9999": "MoonDa00",
+    "expectedPoints": 250.9693603516
   },
   {
     "Rk": 59,
@@ -1708,7 +1766,8 @@
     "VBD": 17,
     "PosRank": 9,
     "OvRank": 59,
-    "-9999": "PittKy00"
+    "-9999": "PittKy00",
+    "expectedPoints": 219.3071746826
   },
   {
     "Rk": 60,
@@ -1737,7 +1796,8 @@
     "VBD": 16,
     "PosRank": 18,
     "OvRank": 60,
-    "-9999": "WillJa10"
+    "-9999": "WillJa10",
+    "expectedPoints": 289.9717712402
   },
   {
     "Rk": 61,
@@ -1766,7 +1826,8 @@
     "VBD": 16,
     "PosRank": 23,
     "OvRank": 61,
-    "-9999": "StxxAm00"
+    "-9999": "StxxAm00",
+    "expectedPoints": 229.3686523438
   },
   {
     "Rk": 62,
@@ -1795,7 +1856,8 @@
     "VBD": 15,
     "PosRank": 10,
     "OvRank": 62,
-    "-9999": "ErtzZa00"
+    "-9999": "ErtzZa00",
+    "expectedPoints": 172.8861083984
   },
   {
     "Rk": 63,
@@ -1824,7 +1886,8 @@
     "VBD": 15,
     "PosRank": 24,
     "OvRank": 63,
-    "-9999": "McLaTe00"
+    "-9999": "McLaTe00",
+    "expectedPoints": 249.5710754395
   },
   {
     "Rk": 64,
@@ -1853,7 +1916,8 @@
     "VBD": 14,
     "PosRank": 25,
     "OvRank": 64,
-    "-9999": "BrowMa04"
+    "-9999": "BrowMa04",
+    "expectedPoints": 266.216217041
   },
   {
     "Rk": 65,
@@ -1882,7 +1946,8 @@
     "VBD": 13,
     "PosRank": 26,
     "OvRank": 65,
-    "-9999": "CoopAm00"
+    "-9999": "CoopAm00",
+    "expectedPoints": 228.2318115234
   },
   {
     "Rk": 66,
@@ -1911,7 +1976,8 @@
     "VBD": 12,
     "PosRank": 19,
     "OvRank": 66,
-    "-9999": "SingDe00"
+    "-9999": "SingDe00",
+    "expectedPoints": 231.653213501
   },
   {
     "Rk": 67,
@@ -1940,7 +2006,8 @@
     "VBD": 11,
     "PosRank": 27,
     "OvRank": 67,
-    "-9999": "ThieAd00"
+    "-9999": "ThieAd00",
+    "expectedPoints": 231.0530853271
   },
   {
     "Rk": 68,
@@ -1969,7 +2036,8 @@
     "VBD": 9,
     "PosRank": 28,
     "OvRank": 68,
-    "-9999": "KirkCh01"
+    "-9999": "KirkCh01",
+    "expectedPoints": 227.4836730957
   },
   {
     "Rk": 69,
@@ -1998,7 +2066,8 @@
     "VBD": 7,
     "PosRank": 20,
     "OvRank": 69,
-    "-9999": "MontDa01"
+    "-9999": "MontDa01",
+    "expectedPoints": 237.9936828613
   },
   {
     "Rk": 70,
@@ -2027,7 +2096,8 @@
     "VBD": 6,
     "PosRank": 21,
     "OvRank": 70,
-    "-9999": "DillAJ00"
+    "-9999": "DillAJ00",
+    "expectedPoints": 250.9692687988
   },
   {
     "Rk": 71,
@@ -2056,7 +2126,8 @@
     "VBD": 4,
     "PosRank": 29,
     "OvRank": 71,
-    "-9999": "BourKe00"
+    "-9999": "BourKe00",
+    "expectedPoints": 198.6240997314
   },
   {
     "Rk": 72,
@@ -2085,7 +2156,8 @@
     "VBD": 3,
     "PosRank": 22,
     "OvRank": 72,
-    "-9999": "WillDa10"
+    "-9999": "WillDa10",
+    "expectedPoints": 238.7140045166
   },
   {
     "Rk": 73,
@@ -2114,7 +2186,8 @@
     "VBD": 1,
     "PosRank": 23,
     "OvRank": 73,
-    "-9999": "SwifDA00"
+    "-9999": "SwifDA00",
+    "expectedPoints": 293.8296508789
   },
   {
     "Rk": 74,
@@ -2143,7 +2216,8 @@
     "VBD": null,
     "PosRank": 11,
     "OvRank": 74,
-    "-9999": "GesiMi00"
+    "-9999": "GesiMi00",
+    "expectedPoints": 168.649887085
   },
   {
     "Rk": 75,
@@ -2172,7 +2246,8 @@
     "VBD": null,
     "PosRank": 2,
     "OvRank": 75,
-    "-9999": "RalsNi00"
+    "-9999": "RalsNi00",
+    "expectedPoints": 0
   },
   {
     "Rk": 76,
@@ -2201,7 +2276,8 @@
     "VBD": null,
     "PosRank": 24,
     "OvRank": 76,
-    "-9999": "MitcEl00"
+    "-9999": "MitcEl00",
+    "expectedPoints": 221.6741027832
   },
   {
     "Rk": 77,
@@ -2230,7 +2306,8 @@
     "VBD": null,
     "PosRank": 1,
     "OvRank": 77,
-    "-9999": "CartTo01"
+    "-9999": "CartTo01",
+    "expectedPoints": 0
   },
   {
     "Rk": 78,
@@ -2259,7 +2336,8 @@
     "VBD": null,
     "PosRank": 12,
     "OvRank": 78,
-    "-9999": "TannRy00"
+    "-9999": "TannRy00",
+    "expectedPoints": 231.7773284912
   },
   {
     "Rk": 79,
@@ -2288,7 +2366,8 @@
     "VBD": null,
     "PosRank": 13,
     "OvRank": null,
-    "-9999": "WentCa00"
+    "-9999": "WentCa00",
+    "expectedPoints": 235.4391021729
   },
   {
     "Rk": 80,
@@ -2317,7 +2396,8 @@
     "VBD": null,
     "PosRank": 14,
     "OvRank": null,
-    "-9999": "CarrDe02"
+    "-9999": "CarrDe02",
+    "expectedPoints": 261.1308288574
   },
   {
     "Rk": 81,
@@ -2346,7 +2426,8 @@
     "VBD": null,
     "PosRank": 15,
     "OvRank": null,
-    "-9999": "WilsRu00"
+    "-9999": "WilsRu00",
+    "expectedPoints": 190.8994445801
   },
   {
     "Rk": 82,
@@ -2375,7 +2456,8 @@
     "VBD": null,
     "PosRank": 16,
     "OvRank": null,
-    "-9999": "JackLa00"
+    "-9999": "JackLa00",
+    "expectedPoints": 248.9171905518
   },
   {
     "Rk": 83,
@@ -2404,7 +2486,8 @@
     "VBD": null,
     "PosRank": 17,
     "OvRank": null,
-    "-9999": "GaroJi00"
+    "-9999": "GaroJi00",
+    "expectedPoints": 199.816192627
   },
   {
     "Rk": 84,
@@ -2433,7 +2516,8 @@
     "VBD": null,
     "PosRank": 18,
     "OvRank": null,
-    "-9999": "JoneMa05"
+    "-9999": "JoneMa05",
+    "expectedPoints": 224.8043518066
   },
   {
     "Rk": 85,
@@ -2462,7 +2546,8 @@
     "VBD": null,
     "PosRank": 19,
     "OvRank": null,
-    "-9999": "RyanMa00"
+    "-9999": "RyanMa00",
+    "expectedPoints": 225.1236114502
   },
   {
     "Rk": 86,
@@ -2491,7 +2576,8 @@
     "VBD": null,
     "PosRank": 20,
     "OvRank": null,
-    "-9999": "HeinTa00"
+    "-9999": "HeinTa00",
+    "expectedPoints": 220.3657989502
   },
   {
     "Rk": 87,
@@ -2520,7 +2606,8 @@
     "VBD": null,
     "PosRank": 21,
     "OvRank": null,
-    "-9999": "RoetBe00"
+    "-9999": "RoetBe00",
+    "expectedPoints": 218.4024353027
   },
   {
     "Rk": 88,
@@ -2549,7 +2636,8 @@
     "VBD": null,
     "PosRank": 22,
     "OvRank": null,
-    "-9999": "BridTe00"
+    "-9999": "BridTe00",
+    "expectedPoints": 194.1067657471
   },
   {
     "Rk": 89,
@@ -2578,7 +2666,8 @@
     "VBD": null,
     "PosRank": 23,
     "OvRank": null,
-    "-9999": "LawrTr00"
+    "-9999": "LawrTr00",
+    "expectedPoints": 244.7928314209
   },
   {
     "Rk": 90,
@@ -2607,7 +2696,8 @@
     "VBD": null,
     "PosRank": 24,
     "OvRank": null,
-    "-9999": "GoffJa00"
+    "-9999": "GoffJa00",
+    "expectedPoints": 215.7346191406
   },
   {
     "Rk": 91,
@@ -2636,7 +2726,8 @@
     "VBD": null,
     "PosRank": 26,
     "OvRank": null,
-    "-9999": "MayfBa00"
+    "-9999": "MayfBa00",
+    "expectedPoints": 186.0782775879
   },
   {
     "Rk": 92,
@@ -2665,7 +2756,8 @@
     "VBD": null,
     "PosRank": 25,
     "OvRank": null,
-    "-9999": "TagoTu00"
+    "-9999": "TagoTu00",
+    "expectedPoints": 199.6721954346
   },
   {
     "Rk": 93,
@@ -2694,7 +2786,8 @@
     "VBD": null,
     "PosRank": 27,
     "OvRank": null,
-    "-9999": "JoneDa05"
+    "-9999": "JoneDa05",
+    "expectedPoints": 201.5661315918
   },
   {
     "Rk": 94,
@@ -2723,7 +2816,8 @@
     "VBD": null,
     "PosRank": 28,
     "OvRank": null,
-    "-9999": "DarnSa00"
+    "-9999": "DarnSa00",
+    "expectedPoints": 203.0877532959
   },
   {
     "Rk": 95,
@@ -2752,7 +2846,8 @@
     "VBD": null,
     "PosRank": 29,
     "OvRank": null,
-    "-9999": "MillDa02"
+    "-9999": "MillDa02",
+    "expectedPoints": 196.534362793
   },
   {
     "Rk": 96,
@@ -2781,7 +2876,8 @@
     "VBD": null,
     "PosRank": 30,
     "OvRank": null,
-    "-9999": "WilsZa00"
+    "-9999": "WilsZa00",
+    "expectedPoints": 173.6186676025
   },
   {
     "Rk": 97,
@@ -2810,7 +2906,8 @@
     "VBD": null,
     "PosRank": 25,
     "OvRank": null,
-    "-9999": "RobiJa00"
+    "-9999": "RobiJa00",
+    "expectedPoints": 228.0150299072
   },
   {
     "Rk": 98,
@@ -2839,7 +2936,8 @@
     "VBD": null,
     "PosRank": 26,
     "OvRank": null,
-    "-9999": "HendDa00"
+    "-9999": "HendDa00",
+    "expectedPoints": 209.4495391846
   },
   {
     "Rk": 99,
@@ -2868,7 +2966,8 @@
     "VBD": null,
     "PosRank": 31,
     "OvRank": null,
-    "-9999": "FielJu00"
+    "-9999": "FielJu00",
+    "expectedPoints": 194.7497253418
   },
   {
     "Rk": 100,
@@ -2897,7 +2996,8 @@
     "VBD": null,
     "PosRank": 28,
     "OvRank": null,
-    "-9999": "GaskMy00"
+    "-9999": "GaskMy00",
+    "expectedPoints": 220.7649841309
   },
   {
     "Rk": 101,
@@ -2926,7 +3026,8 @@
     "VBD": null,
     "PosRank": 27,
     "OvRank": null,
-    "-9999": "MichSo00"
+    "-9999": "MichSo00",
+    "expectedPoints": 183.1676940918
   },
   {
     "Rk": 102,
@@ -2955,7 +3056,8 @@
     "VBD": null,
     "PosRank": 29,
     "OvRank": null,
-    "-9999": "PollTo00"
+    "-9999": "PollTo00",
+    "expectedPoints": 219.524887085
   },
   {
     "Rk": 103,
@@ -2984,7 +3086,8 @@
     "VBD": null,
     "PosRank": 30,
     "OvRank": null,
-    "-9999": "SmitDe07"
+    "-9999": "SmitDe07",
+    "expectedPoints": 240.9551849365
   },
   {
     "Rk": 104,
@@ -3013,7 +3116,8 @@
     "VBD": null,
     "PosRank": 32,
     "OvRank": null,
-    "-9999": "BrowAJ00"
+    "-9999": "BrowAJ00",
+    "expectedPoints": 222.8694152832
   },
   {
     "Rk": 105,
@@ -3042,7 +3146,8 @@
     "VBD": null,
     "PosRank": 30,
     "OvRank": null,
-    "-9999": "CartMi03"
+    "-9999": "CartMi03",
+    "expectedPoints": 221.1213684082
   },
   {
     "Rk": 106,
@@ -3071,7 +3176,8 @@
     "VBD": null,
     "PosRank": 32,
     "OvRank": null,
-    "-9999": "HillTa00"
+    "-9999": "HillTa00",
+    "expectedPoints": 153.1041717529
   },
   {
     "Rk": 107,
@@ -3100,7 +3206,8 @@
     "VBD": null,
     "PosRank": 31,
     "OvRank": null,
-    "-9999": "JeffVa00"
+    "-9999": "JeffVa00",
+    "expectedPoints": 213.4284667969
   },
   {
     "Rk": 108,
@@ -3129,7 +3236,8 @@
     "VBD": null,
     "PosRank": 33,
     "OvRank": null,
-    "-9999": "BoydTy00"
+    "-9999": "BoydTy00",
+    "expectedPoints": 208.0485839844
   },
   {
     "Rk": 109,
@@ -3158,7 +3266,8 @@
     "VBD": null,
     "PosRank": 33,
     "OvRank": null,
-    "-9999": "WinsJa00"
+    "-9999": "WinsJa00",
+    "expectedPoints": 160.3453063965
   },
   {
     "Rk": 110,
@@ -3187,7 +3296,8 @@
     "VBD": null,
     "PosRank": 31,
     "OvRank": null,
-    "-9999": "PennRa00"
+    "-9999": "PennRa00",
+    "expectedPoints": 169.1365814209
   },
   {
     "Rk": 111,
@@ -3216,7 +3326,8 @@
     "VBD": null,
     "PosRank": 34,
     "OvRank": null,
-    "-9999": "AiyuBr00"
+    "-9999": "AiyuBr00",
+    "expectedPoints": 226.7542266846
   },
   {
     "Rk": 112,
@@ -3245,7 +3356,8 @@
     "VBD": null,
     "PosRank": 32,
     "OvRank": null,
-    "-9999": "FreeDe00"
+    "-9999": "FreeDe00",
+    "expectedPoints": 163.2125396729
   },
   {
     "Rk": 113,
@@ -3274,7 +3386,8 @@
     "VBD": null,
     "PosRank": 33,
     "OvRank": null,
-    "-9999": "HubbCh01"
+    "-9999": "HubbCh01",
+    "expectedPoints": 203.9310455322
   },
   {
     "Rk": 114,
@@ -3303,7 +3416,8 @@
     "VBD": null,
     "PosRank": 35,
     "OvRank": null,
-    "-9999": "OsboKJ00"
+    "-9999": "OsboKJ00",
+    "expectedPoints": 194.3762359619
   },
   {
     "Rk": 115,
@@ -3332,7 +3446,8 @@
     "VBD": null,
     "PosRank": 34,
     "OvRank": null,
-    "-9999": "BarkSa00"
+    "-9999": "BarkSa00",
+    "expectedPoints": 190.8203582764
   },
   {
     "Rk": 116,
@@ -3361,7 +3476,8 @@
     "VBD": null,
     "PosRank": 36,
     "OvRank": null,
-    "-9999": "ClayCh01"
+    "-9999": "ClayCh01",
+    "expectedPoints": 210.085144043
   },
   {
     "Rk": 117,
@@ -3390,7 +3506,8 @@
     "VBD": null,
     "PosRank": 37,
     "OvRank": null,
-    "-9999": "JoneMa02"
+    "-9999": "JoneMa02",
+    "expectedPoints": 213.9769287109
   },
   {
     "Rk": 118,
@@ -3419,7 +3536,8 @@
     "VBD": null,
     "PosRank": 38,
     "OvRank": null,
-    "-9999": "CallMa01"
+    "-9999": "CallMa01",
+    "expectedPoints": 204.1467285156
   },
   {
     "Rk": 119,
@@ -3448,7 +3566,8 @@
     "VBD": null,
     "PosRank": 39,
     "OvRank": null,
-    "-9999": "HopkDe00"
+    "-9999": "HopkDe00",
+    "expectedPoints": 188.2570495605
   },
   {
     "Rk": 120,
@@ -3477,7 +3596,8 @@
     "VBD": null,
     "PosRank": 35,
     "OvRank": null,
-    "-9999": "BookDe00"
+    "-9999": "BookDe00",
+    "expectedPoints": 179.6751708984
   },
   {
     "Rk": 121,
@@ -3506,7 +3626,8 @@
     "VBD": null,
     "PosRank": 43,
     "OvRank": null,
-    "-9999": "GreeA.00"
+    "-9999": "GreeA.00",
+    "expectedPoints": 188.0595550537
   },
   {
     "Rk": 122,
@@ -3535,7 +3656,8 @@
     "VBD": null,
     "PosRank": 44,
     "OvRank": null,
-    "-9999": "LazaAl00"
+    "-9999": "LazaAl00",
+    "expectedPoints": 183.5523681641
   },
   {
     "Rk": 123,
@@ -3564,7 +3686,8 @@
     "VBD": null,
     "PosRank": 41,
     "OvRank": null,
-    "-9999": "MeyeJa01"
+    "-9999": "MeyeJa01",
+    "expectedPoints": 230.5889282227
   },
   {
     "Rk": 124,
@@ -3593,7 +3716,8 @@
     "VBD": null,
     "PosRank": 40,
     "OvRank": null,
-    "-9999": "PatrTi00"
+    "-9999": "PatrTi00",
+    "expectedPoints": 197.1117248535
   },
   {
     "Rk": 125,
@@ -3622,7 +3746,8 @@
     "VBD": null,
     "PosRank": 42,
     "OvRank": null,
-    "-9999": "WilsCe01"
+    "-9999": "WilsCe01",
+    "expectedPoints": 215.3088378906
   },
   {
     "Rk": 126,
@@ -3651,7 +3776,8 @@
     "VBD": null,
     "PosRank": 36,
     "OvRank": null,
-    "-9999": "StevRh00"
+    "-9999": "StevRh00",
+    "expectedPoints": 179.094909668
   },
   {
     "Rk": 127,
@@ -3680,7 +3806,8 @@
     "VBD": null,
     "PosRank": 37,
     "OvRank": null,
-    "-9999": "EdmoCh00"
+    "-9999": "EdmoCh00",
+    "expectedPoints": 189.7908172607
   },
   {
     "Rk": 128,
@@ -3709,7 +3836,8 @@
     "VBD": null,
     "PosRank": 38,
     "OvRank": null,
-    "-9999": "EdwaCl00"
+    "-9999": "EdwaCl00",
+    "expectedPoints": 180.8823242188
   },
   {
     "Rk": 129,
@@ -3738,7 +3866,8 @@
     "VBD": null,
     "PosRank": 45,
     "OvRank": null,
-    "-9999": "GageRu00"
+    "-9999": "GageRu00",
+    "expectedPoints": 217.3643188477
   },
   {
     "Rk": 130,
@@ -3767,7 +3896,8 @@
     "VBD": null,
     "PosRank": 46,
     "OvRank": null,
-    "-9999": "MoorEl00"
+    "-9999": "MoorEl00",
+    "expectedPoints": 190.6309204102
   },
   {
     "Rk": 131,
@@ -3796,7 +3926,8 @@
     "VBD": null,
     "PosRank": 39,
     "OvRank": null,
-    "-9999": "DaviMi01"
+    "-9999": "DaviMi01",
+    "expectedPoints": 160.1870269775
   },
   {
     "Rk": 132,
@@ -3825,7 +3956,8 @@
     "VBD": null,
     "PosRank": 40,
     "OvRank": null,
-    "-9999": "MattAl01"
+    "-9999": "MattAl01",
+    "expectedPoints": 204.1530914307
   },
   {
     "Rk": 133,
@@ -3854,7 +3986,8 @@
     "VBD": null,
     "PosRank": 42,
     "OvRank": null,
-    "-9999": "MurrLa00"
+    "-9999": "MurrLa00",
+    "expectedPoints": 124.1657485962
   },
   {
     "Rk": 134,
@@ -3883,7 +4016,8 @@
     "VBD": null,
     "PosRank": 41,
     "OvRank": null,
-    "-9999": "WillJa06"
+    "-9999": "WillJa06",
+    "expectedPoints": 156.3720855713
   },
   {
     "Rk": 135,
@@ -3912,7 +4046,8 @@
     "VBD": null,
     "PosRank": 12,
     "OvRank": null,
-    "-9999": "FreiPa00"
+    "-9999": "FreiPa00",
+    "expectedPoints": 146.3701477051
   },
   {
     "Rk": 136,
@@ -3941,7 +4076,8 @@
     "VBD": null,
     "PosRank": 47,
     "OvRank": null,
-    "-9999": "SuttCo00"
+    "-9999": "SuttCo00",
+    "expectedPoints": 219.4273376465
   },
   {
     "Rk": 137,
@@ -3970,7 +4106,8 @@
     "VBD": null,
     "PosRank": 48,
     "OvRank": null,
-    "-9999": "WoodRo02"
+    "-9999": "WoodRo02",
+    "expectedPoints": 138.6233062744
   },
   {
     "Rk": 138,
@@ -3999,7 +4136,8 @@
     "VBD": null,
     "PosRank": 49,
     "OvRank": null,
-    "-9999": "DaviGa01"
+    "-9999": "DaviGa01",
+    "expectedPoints": 190.8838806152
   },
   {
     "Rk": 139,
@@ -4028,7 +4166,8 @@
     "VBD": null,
     "PosRank": 13,
     "OvRank": null,
-    "-9999": "FantNo00"
+    "-9999": "FantNo00",
+    "expectedPoints": 161.1809234619
   },
   {
     "Rk": 140,
@@ -4057,7 +4196,8 @@
     "VBD": null,
     "PosRank": 44,
     "OvRank": null,
-    "-9999": "McCaCh01"
+    "-9999": "McCaCh01",
+    "expectedPoints": 177.756362915
   },
   {
     "Rk": 141,
@@ -4086,7 +4226,8 @@
     "VBD": null,
     "PosRank": 43,
     "OvRank": null,
-    "-9999": "SandMi01"
+    "-9999": "SandMi01",
+    "expectedPoints": 187.0417327881
   },
   {
     "Rk": 142,
@@ -4115,7 +4256,8 @@
     "VBD": null,
     "PosRank": 45,
     "OvRank": null,
-    "-9999": "GainKe00"
+    "-9999": "GainKe00",
+    "expectedPoints": 209.9425811768
   },
   {
     "Rk": 143,
@@ -4144,7 +4286,8 @@
     "VBD": null,
     "PosRank": 50,
     "OvRank": null,
-    "-9999": "SandEm00"
+    "-9999": "SandEm00",
+    "expectedPoints": 173.2303924561
   },
   {
     "Rk": 144,
@@ -4173,7 +4316,8 @@
     "VBD": null,
     "PosRank": 34,
     "OvRank": null,
-    "-9999": "SiemTr00"
+    "-9999": "SiemTr00",
+    "expectedPoints": 153.6982574463
   },
   {
     "Rk": 145,
@@ -4202,7 +4346,8 @@
     "VBD": null,
     "PosRank": 46,
     "OvRank": null,
-    "-9999": "HuntKa00"
+    "-9999": "HuntKa00",
+    "expectedPoints": 167.9070281982
   },
   {
     "Rk": 146,
@@ -4231,7 +4376,8 @@
     "VBD": null,
     "PosRank": 51,
     "OvRank": null,
-    "-9999": "AndeRo04"
+    "-9999": "AndeRo04",
+    "expectedPoints": 177.8258972168
   },
   {
     "Rk": 147,
@@ -4260,7 +4406,8 @@
     "VBD": null,
     "PosRank": 14,
     "OvRank": null,
-    "-9999": "HigbTy00"
+    "-9999": "HigbTy00",
+    "expectedPoints": 157.1868743896
   },
   {
     "Rk": 148,
@@ -4289,7 +4436,8 @@
     "VBD": null,
     "PosRank": 35,
     "OvRank": null,
-    "-9999": "NewtCa00"
+    "-9999": "NewtCa00",
+    "expectedPoints": 150.5880279541
   },
   {
     "Rk": 149,
@@ -4318,7 +4466,8 @@
     "VBD": null,
     "PosRank": 47,
     "OvRank": null,
-    "-9999": "ScotBo02"
+    "-9999": "ScotBo02",
+    "expectedPoints": 144.0579376221
   },
   {
     "Rk": 150,
@@ -4347,7 +4496,8 @@
     "VBD": null,
     "PosRank": 52,
     "OvRank": null,
-    "-9999": "BeckOd00"
+    "-9999": "BeckOd00",
+    "expectedPoints": 167.3906707764
   },
   {
     "Rk": 151,
@@ -4376,7 +4526,8 @@
     "VBD": null,
     "PosRank": 49,
     "OvRank": null,
-    "-9999": "ForeDO00"
+    "-9999": "ForeDO00",
+    "expectedPoints": 145.5992126465
   },
   {
     "Rk": 152,
@@ -4405,7 +4556,8 @@
     "VBD": null,
     "PosRank": 48,
     "OvRank": null,
-    "-9999": "JohnDE04"
+    "-9999": "JohnDE04",
+    "expectedPoints": 155.8860778809
   },
   {
     "Rk": 153,
@@ -4434,7 +4586,8 @@
     "VBD": null,
     "PosRank": 50,
     "OvRank": null,
-    "-9999": "McKiJ.00"
+    "-9999": "McKiJ.00",
+    "expectedPoints": 182.9602813721
   },
   {
     "Rk": 154,
@@ -4463,7 +4616,8 @@
     "VBD": null,
     "PosRank": 53,
     "OvRank": null,
-    "-9999": "PrinBy00"
+    "-9999": "PrinBy00",
+    "expectedPoints": 185.8478088379
   },
   {
     "Rk": 155,
@@ -4492,7 +4646,8 @@
     "VBD": null,
     "PosRank": 15,
     "OvRank": null,
-    "-9999": "CookJa02"
+    "-9999": "CookJa02",
+    "expectedPoints": 154.0535583496
   },
   {
     "Rk": 156,
@@ -4521,7 +4676,8 @@
     "VBD": null,
     "PosRank": 36,
     "OvRank": null,
-    "-9999": "DaltAn00"
+    "-9999": "DaltAn00",
+    "expectedPoints": 144.385635376
   },
   {
     "Rk": 157,
@@ -4550,7 +4706,8 @@
     "VBD": null,
     "PosRank": 16,
     "OvRank": null,
-    "-9999": "HockTJ00"
+    "-9999": "HockTJ00",
+    "expectedPoints": 148.955947876
   },
   {
     "Rk": 158,
@@ -4579,7 +4736,8 @@
     "VBD": null,
     "PosRank": 54,
     "OvRank": null,
-    "-9999": "RaymKa00"
+    "-9999": "RaymKa00",
+    "expectedPoints": 176.4527893066
   },
   {
     "Rk": 159,
@@ -4608,7 +4766,8 @@
     "VBD": null,
     "PosRank": 51,
     "OvRank": null,
-    "-9999": "BoldBr00"
+    "-9999": "BoldBr00",
+    "expectedPoints": 161.6773834229
   },
   {
     "Rk": 160,
@@ -4637,7 +4796,8 @@
     "VBD": null,
     "PosRank": 37,
     "OvRank": null,
-    "-9999": "HuntTy01"
+    "-9999": "HuntTy01",
+    "expectedPoints": 193.9233093262
   },
   {
     "Rk": 161,
@@ -4666,7 +4826,8 @@
     "VBD": null,
     "PosRank": 52,
     "OvRank": null,
-    "-9999": "JohnTy02"
+    "-9999": "JohnTy02",
+    "expectedPoints": 188.9147186279
   },
   {
     "Rk": 162,
@@ -4695,7 +4856,8 @@
     "VBD": null,
     "PosRank": 55,
     "OvRank": null,
-    "-9999": "HardMe00"
+    "-9999": "HardMe00",
+    "expectedPoints": 186.3866424561
   },
   {
     "Rk": 163,
@@ -4724,7 +4886,8 @@
     "VBD": null,
     "PosRank": 54,
     "OvRank": null,
-    "-9999": "IngrMa01"
+    "-9999": "IngrMa01",
+    "expectedPoints": 150.1317596436
   },
   {
     "Rk": 164,
@@ -4753,7 +4916,8 @@
     "VBD": null,
     "PosRank": 53,
     "OvRank": null,
-    "-9999": "MossZa00"
+    "-9999": "MossZa00",
+    "expectedPoints": 176.9090118408
   },
   {
     "Rk": 165,
@@ -4782,7 +4946,8 @@
     "VBD": null,
     "PosRank": 38,
     "OvRank": null,
-    "-9999": "TaylTy00"
+    "-9999": "TaylTy00",
+    "expectedPoints": 136.7868041992
   },
   {
     "Rk": 166,
@@ -4811,7 +4976,8 @@
     "VBD": null,
     "PosRank": 56,
     "OvRank": null,
-    "-9999": "LandJa00"
+    "-9999": "LandJa00",
+    "expectedPoints": 190.3033752441
   },
   {
     "Rk": 167,
@@ -4840,7 +5006,8 @@
     "VBD": null,
     "PosRank": 57,
     "OvRank": null,
-    "-9999": "BrowAn04"
+    "-9999": "BrowAn04",
+    "expectedPoints": 170.1453399658
   },
   {
     "Rk": 168,
@@ -4869,7 +5036,8 @@
     "VBD": null,
     "PosRank": 55,
     "OvRank": null,
-    "-9999": "BurkRe00"
+    "-9999": "BurkRe00",
+    "expectedPoints": 128.1900024414
   },
   {
     "Rk": 169,
@@ -4898,7 +5066,8 @@
     "VBD": null,
     "PosRank": 17,
     "OvRank": null,
-    "-9999": "UzomC.00"
+    "-9999": "UzomC.00",
+    "expectedPoints": 135.2546081543
   },
   {
     "Rk": 170,
@@ -4927,7 +5096,8 @@
     "VBD": null,
     "PosRank": 18,
     "OvRank": null,
-    "-9999": "WallDa01"
+    "-9999": "WallDa01",
+    "expectedPoints": 153.6197509766
   },
   {
     "Rk": 171,
@@ -4956,7 +5126,8 @@
     "VBD": null,
     "PosRank": 58,
     "OvRank": null,
-    "-9999": "BeasCo00"
+    "-9999": "BeasCo00",
+    "expectedPoints": 209.801651001
   },
   {
     "Rk": 172,
@@ -4985,7 +5156,8 @@
     "VBD": null,
     "PosRank": 19,
     "OvRank": null,
-    "-9999": "ConkTy00"
+    "-9999": "ConkTy00",
+    "expectedPoints": 156.486038208
   },
   {
     "Rk": 173,
@@ -5014,7 +5186,8 @@
     "VBD": null,
     "PosRank": 59,
     "OvRank": null,
-    "-9999": "HarrDe07"
+    "-9999": "HarrDe07",
+    "expectedPoints": 163.5412139893
   },
   {
     "Rk": 174,
@@ -5043,7 +5216,8 @@
     "VBD": null,
     "PosRank": 60,
     "OvRank": null,
-    "-9999": "PeopDo00"
+    "-9999": "PeopDo00",
+    "expectedPoints": 198.4064025879
   },
   {
     "Rk": 175,
@@ -5072,7 +5246,8 @@
     "VBD": null,
     "PosRank": 61,
     "OvRank": null,
-    "-9999": "BerrBr00"
+    "-9999": "BerrBr00",
+    "expectedPoints": 155.1055908203
   },
   {
     "Rk": 176,
@@ -5101,7 +5276,8 @@
     "VBD": null,
     "PosRank": 62,
     "OvRank": null,
-    "-9999": "EdwaBr01"
+    "-9999": "EdwaBr01",
+    "expectedPoints": 188.3759155273
   },
   {
     "Rk": 177,
@@ -5130,7 +5306,8 @@
     "VBD": null,
     "PosRank": 57,
     "OvRank": null,
-    "-9999": "DrakKe00"
+    "-9999": "DrakKe00",
+    "expectedPoints": 158.2604827881
   },
   {
     "Rk": 178,
@@ -5159,7 +5336,8 @@
     "VBD": null,
     "PosRank": 56,
     "OvRank": null,
-    "-9999": "HineNy00"
+    "-9999": "HineNy00",
+    "expectedPoints": 182.2644500732
   },
   {
     "Rk": 179,
@@ -5188,7 +5366,8 @@
     "VBD": null,
     "PosRank": 63,
     "OvRank": null,
-    "-9999": "WatkQu00"
+    "-9999": "WatkQu00",
+    "expectedPoints": 203.7187805176
   },
   {
     "Rk": 180,
@@ -5217,7 +5396,8 @@
     "VBD": null,
     "PosRank": 39,
     "OvRank": null,
-    "-9999": "BrisJa00"
+    "-9999": "BrisJa00",
+    "expectedPoints": 155.1303100586
   },
   {
     "Rk": 181,
@@ -5246,7 +5426,8 @@
     "VBD": null,
     "PosRank": 20,
     "OvRank": null,
-    "-9999": "NjokDa00"
+    "-9999": "NjokDa00",
+    "expectedPoints": 137.4226989746
   },
   {
     "Rk": 182,
@@ -5275,7 +5456,8 @@
     "VBD": null,
     "PosRank": 64,
     "OvRank": null,
-    "-9999": "DaviCo03"
+    "-9999": "DaviCo03",
+    "expectedPoints": 175.6758575439
   },
   {
     "Rk": 183,
@@ -5304,7 +5486,8 @@
     "VBD": null,
     "PosRank": 21,
     "OvRank": null,
-    "-9999": "EverGe00"
+    "-9999": "EverGe00",
+    "expectedPoints": 137.3625946045
   },
   {
     "Rk": 184,
@@ -5333,7 +5516,8 @@
     "VBD": null,
     "PosRank": 65,
     "OvRank": null,
-    "-9999": "WestNi00"
+    "-9999": "WestNi00",
+    "expectedPoints": 177.6429443359
   },
   {
     "Rk": 185,
@@ -5362,7 +5546,8 @@
     "VBD": null,
     "PosRank": 58,
     "OvRank": null,
-    "-9999": "JoneRo01"
+    "-9999": "JoneRo01",
+    "expectedPoints": 144.7632598877
   },
   {
     "Rk": 186,
@@ -5391,7 +5576,8 @@
     "VBD": null,
     "PosRank": 66,
     "OvRank": null,
-    "-9999": "AghoNe00"
+    "-9999": "AghoNe00",
+    "expectedPoints": 159.4056243896
   },
   {
     "Rk": 187,
@@ -5420,7 +5606,8 @@
     "VBD": null,
     "PosRank": 68,
     "OvRank": null,
-    "-9999": "CobbRa00"
+    "-9999": "CobbRa00",
+    "expectedPoints": 145.6886901855
   },
   {
     "Rk": 188,
@@ -5449,7 +5636,8 @@
     "VBD": null,
     "PosRank": 67,
     "OvRank": null,
-    "-9999": "GuytJa01"
+    "-9999": "GuytJa01",
+    "expectedPoints": 162.143661499
   },
   {
     "Rk": 189,
@@ -5478,7 +5666,8 @@
     "VBD": null,
     "PosRank": 59,
     "OvRank": null,
-    "-9999": "HerbKh00"
+    "-9999": "HerbKh00",
+    "expectedPoints": 155.3204803467
   },
   {
     "Rk": 190,
@@ -5507,7 +5696,8 @@
     "VBD": null,
     "PosRank": 40,
     "OvRank": null,
-    "-9999": "LancTr00"
+    "-9999": "LancTr00",
+    "expectedPoints": 172.6425933838
   },
   {
     "Rk": 191,
@@ -5536,7 +5726,8 @@
     "VBD": null,
     "PosRank": 60,
     "OvRank": null,
-    "-9999": "JackJu01"
+    "-9999": "JackJu01",
+    "expectedPoints": 155.6204528809
   },
   {
     "Rk": 192,
@@ -5565,7 +5756,8 @@
     "VBD": null,
     "PosRank": 70,
     "OvRank": null,
-    "-9999": "ParkDe01"
+    "-9999": "ParkDe01",
+    "expectedPoints": 158.8415527344
   },
   {
     "Rk": 193,
@@ -5594,7 +5786,8 @@
     "VBD": null,
     "PosRank": 69,
     "OvRank": null,
-    "-9999": "ShenLa00"
+    "-9999": "ShenLa00",
+    "expectedPoints": 193.668838501
   },
   {
     "Rk": 194,
@@ -5623,7 +5816,8 @@
     "VBD": null,
     "PosRank": 71,
     "OvRank": null,
-    "-9999": "CartDe02"
+    "-9999": "CartDe02",
+    "expectedPoints": 134.2900085449
   },
   {
     "Rk": 195,
@@ -5652,7 +5846,8 @@
     "VBD": null,
     "PosRank": 72,
     "OvRank": null,
-    "-9999": "SwaiFr00"
+    "-9999": "SwaiFr00",
+    "expectedPoints": 171.725982666
   },
   {
     "Rk": 196,
@@ -5681,7 +5876,8 @@
     "VBD": null,
     "PosRank": 61,
     "OvRank": null,
-    "-9999": "HowaJo00"
+    "-9999": "HowaJo00",
+    "expectedPoints": 125.2460479736
   },
   {
     "Rk": 197,
@@ -5710,7 +5906,8 @@
     "VBD": null,
     "PosRank": 22,
     "OvRank": null,
-    "-9999": "KmetCo00"
+    "-9999": "KmetCo00",
+    "expectedPoints": 158.8967132568
   },
   {
     "Rk": 198,
@@ -5739,7 +5936,8 @@
     "VBD": null,
     "PosRank": 74,
     "OvRank": null,
-    "-9999": "RuggHe00"
+    "-9999": "RuggHe00",
+    "expectedPoints": 167.8493347168
   },
   {
     "Rk": 199,
@@ -5768,7 +5966,8 @@
     "VBD": null,
     "PosRank": 73,
     "OvRank": null,
-    "-9999": "ValdMa00"
+    "-9999": "ValdMa00",
+    "expectedPoints": 155.4032897949
   },
   {
     "Rk": 200,
@@ -5797,7 +5996,8 @@
     "VBD": null,
     "PosRank": 62,
     "OvRank": null,
-    "-9999": "CollAl00"
+    "-9999": "CollAl00",
+    "expectedPoints": 124.9471130371
   },
   {
     "Rk": 201,
@@ -5826,7 +6026,8 @@
     "VBD": null,
     "PosRank": 75,
     "OvRank": null,
-    "-9999": "PalmJo00"
+    "-9999": "PalmJo00",
+    "expectedPoints": 173.0023803711
   },
   {
     "Rk": 202,
@@ -5855,7 +6056,8 @@
     "VBD": null,
     "PosRank": 78,
     "OvRank": null,
-    "-9999": "CrowJa00"
+    "-9999": "CrowJa00",
+    "expectedPoints": 162.2178192139
   },
   {
     "Rk": 203,
@@ -5884,7 +6086,8 @@
     "VBD": null,
     "PosRank": 76,
     "OvRank": null,
-    "-9999": "JoneZa00"
+    "-9999": "JoneZa00",
+    "expectedPoints": 170.8653717041
   },
   {
     "Rk": 204,
@@ -5913,7 +6116,8 @@
     "VBD": null,
     "PosRank": 77,
     "OvRank": null,
-    "-9999": "ZaccOl01"
+    "-9999": "ZaccOl01",
+    "expectedPoints": 167.443939209
   },
   {
     "Rk": 205,
@@ -5942,7 +6146,8 @@
     "VBD": null,
     "PosRank": 80,
     "OvRank": null,
-    "-9999": "BateRa00"
+    "-9999": "BateRa00",
+    "expectedPoints": 181.5699157715
   },
   {
     "Rk": 206,
@@ -5971,7 +6176,8 @@
     "VBD": null,
     "PosRank": 79,
     "OvRank": null,
-    "-9999": "JennJa00"
+    "-9999": "JennJa00",
+    "expectedPoints": 182.2260437012
   },
   {
     "Rk": 207,
@@ -6000,7 +6206,8 @@
     "VBD": null,
     "PosRank": 23,
     "OvRank": null,
-    "-9999": "EngrEv00"
+    "-9999": "EngrEv00",
+    "expectedPoints": 118.1377334595
   },
   {
     "Rk": 208,
@@ -6029,7 +6236,8 @@
     "VBD": null,
     "PosRank": 81,
     "OvRank": null,
-    "-9999": "GallMi00"
+    "-9999": "GallMi00",
+    "expectedPoints": 166.4151000977
   },
   {
     "Rk": 209,
@@ -6058,7 +6266,8 @@
     "VBD": null,
     "PosRank": 82,
     "OvRank": null,
-    "-9999": "PascZa00"
+    "-9999": "PascZa00",
+    "expectedPoints": 164.0041809082
   },
   {
     "Rk": 210,
@@ -6087,7 +6296,8 @@
     "VBD": null,
     "PosRank": 24,
     "OvRank": null,
-    "-9999": "AlieMo00"
+    "-9999": "AlieMo00",
+    "expectedPoints": 108.4580764771
   },
   {
     "Rk": 211,
@@ -6116,7 +6326,8 @@
     "VBD": null,
     "PosRank": 83,
     "OvRank": null,
-    "-9999": "JackDe00"
+    "-9999": "JackDe00",
+    "expectedPoints": 141.5958557129
   },
   {
     "Rk": 212,
@@ -6145,7 +6356,8 @@
     "VBD": null,
     "PosRank": 63,
     "OvRank": null,
-    "-9999": "PeriSa00"
+    "-9999": "PeriSa00",
+    "expectedPoints": 158.2146453857
   },
   {
     "Rk": 213,
@@ -6174,7 +6386,8 @@
     "VBD": null,
     "PosRank": 84,
     "OvRank": null,
-    "-9999": "SmitTr03"
+    "-9999": "SmitTr03",
+    "expectedPoints": 174.7316436768
   },
   {
     "Rk": 214,
@@ -6203,7 +6416,8 @@
     "VBD": null,
     "PosRank": 26,
     "OvRank": null,
-    "-9999": "HoopAu00"
+    "-9999": "HoopAu00",
+    "expectedPoints": 110.8393630981
   },
   {
     "Rk": 215,
@@ -6232,7 +6446,8 @@
     "VBD": null,
     "PosRank": 64,
     "OvRank": null,
-    "-9999": "JohnDu00"
+    "-9999": "JohnDu00",
+    "expectedPoints": 115.3680038452
   },
   {
     "Rk": 216,
@@ -6261,7 +6476,8 @@
     "VBD": null,
     "PosRank": 85,
     "OvRank": null,
-    "-9999": "MoorRo02"
+    "-9999": "MoorRo02",
+    "expectedPoints": 174.0514221191
   },
   {
     "Rk": 217,
@@ -6290,7 +6506,8 @@
     "VBD": null,
     "PosRank": 25,
     "OvRank": null,
-    "-9999": "MoreFo00"
+    "-9999": "MoreFo00",
+    "expectedPoints": 124.5044021606
   },
   {
     "Rk": 218,
@@ -6319,7 +6536,8 @@
     "VBD": null,
     "PosRank": 65,
     "OvRank": null,
-    "-9999": "HillDo00"
+    "-9999": "HillDo00",
+    "expectedPoints": 128.2031097412
   },
   {
     "Rk": 219,
@@ -6348,7 +6566,8 @@
     "VBD": null,
     "PosRank": 41,
     "OvRank": null,
-    "-9999": "SmitGe00"
+    "-9999": "SmitGe00",
+    "expectedPoints": 144.1617279053
   },
   {
     "Rk": 220,
@@ -6377,7 +6596,8 @@
     "VBD": null,
     "PosRank": 66,
     "OvRank": null,
-    "-9999": "AbduAm00"
+    "-9999": "AbduAm00",
+    "expectedPoints": 159.866394043
   },
   {
     "Rk": 221,
@@ -6406,7 +6626,8 @@
     "VBD": null,
     "PosRank": 87,
     "OvRank": null,
-    "-9999": "AgneJa00"
+    "-9999": "AgneJa00",
+    "expectedPoints": 136.6553649902
   },
   {
     "Rk": 222,
@@ -6435,7 +6656,8 @@
     "VBD": null,
     "PosRank": 86,
     "OvRank": null,
-    "-9999": "GollKe00"
+    "-9999": "GollKe00",
+    "expectedPoints": 173.0783081055
   },
   {
     "Rk": 223,
@@ -6464,7 +6686,8 @@
     "VBD": null,
     "PosRank": 88,
     "OvRank": null,
-    "-9999": "ReynJo00"
+    "-9999": "ReynJo00",
+    "expectedPoints": 156.7469024658
   },
   {
     "Rk": 224,
@@ -6493,7 +6716,8 @@
     "VBD": null,
     "PosRank": 90,
     "OvRank": null,
-    "-9999": "ColeKe00"
+    "-9999": "ColeKe00",
+    "expectedPoints": 154.5167541504
   },
   {
     "Rk": 225,
@@ -6522,7 +6746,8 @@
     "VBD": null,
     "PosRank": 91,
     "OvRank": null,
-    "-9999": "CollNi00"
+    "-9999": "CollNi00",
+    "expectedPoints": 177.324798584
   },
   {
     "Rk": 226,
@@ -6551,7 +6776,8 @@
     "VBD": null,
     "PosRank": 89,
     "OvRank": null,
-    "-9999": "HiltT.00"
+    "-9999": "HiltT.00",
+    "expectedPoints": 147.6848907471
   },
   {
     "Rk": 227,
@@ -6580,7 +6806,8 @@
     "VBD": null,
     "PosRank": 42,
     "OvRank": null,
-    "-9999": "LockDr00"
+    "-9999": "LockDr00",
+    "expectedPoints": 157.7210693359
   },
   {
     "Rk": 228,
@@ -6609,7 +6836,8 @@
     "VBD": null,
     "PosRank": 27,
     "OvRank": null,
-    "-9999": "DoylJa00"
+    "-9999": "DoylJa00",
+    "expectedPoints": 121.0365829468
   },
   {
     "Rk": 229,
@@ -6638,7 +6866,8 @@
     "VBD": null,
     "PosRank": 92,
     "OvRank": null,
-    "-9999": "DuveDe00"
+    "-9999": "DuveDe00",
+    "expectedPoints": 162.7511901855
   },
   {
     "Rk": 230,
@@ -6667,7 +6896,8 @@
     "VBD": null,
     "PosRank": 28,
     "OvRank": null,
-    "-9999": "BratCa00"
+    "-9999": "BratCa00",
+    "expectedPoints": 95.5083770752
   },
   {
     "Rk": 231,
@@ -6696,7 +6926,8 @@
     "VBD": null,
     "PosRank": 67,
     "OvRank": null,
-    "-9999": "JohnDa08"
+    "-9999": "JohnDa08",
+    "expectedPoints": 140.1423492432
   },
   {
     "Rk": 232,
@@ -6725,7 +6956,8 @@
     "VBD": null,
     "PosRank": 93,
     "OvRank": null,
-    "-9999": "JoneJu02"
+    "-9999": "JoneJu02",
+    "expectedPoints": 153.7406921387
   },
   {
     "Rk": 233,
@@ -6754,7 +6986,8 @@
     "VBD": null,
     "PosRank": 95,
     "OvRank": null,
-    "-9999": "RobiAl02"
+    "-9999": "RobiAl02",
+    "expectedPoints": 159.1131439209
   },
   {
     "Rk": 234,
@@ -6783,7 +7016,8 @@
     "VBD": null,
     "PosRank": 94,
     "OvRank": null,
-    "-9999": "TreaLa00"
+    "-9999": "TreaLa00",
+    "expectedPoints": 158.0326843262
   },
   {
     "Rk": 235,
@@ -6812,7 +7046,8 @@
     "VBD": null,
     "PosRank": 68,
     "OvRank": null,
-    "-9999": "GoreDe00"
+    "-9999": "GoreDe00",
+    "expectedPoints": 124.2294082642
   },
   {
     "Rk": 236,
@@ -6841,7 +7076,8 @@
     "VBD": null,
     "PosRank": 96,
     "OvRank": null,
-    "-9999": "JeudJe00"
+    "-9999": "JeudJe00",
+    "expectedPoints": 178.6012573242
   },
   {
     "Rk": 237,
@@ -6870,7 +7106,8 @@
     "VBD": null,
     "PosRank": 97,
     "OvRank": null,
-    "-9999": "HollMa00"
+    "-9999": "HollMa00",
+    "expectedPoints": 145.2422637939
   },
   {
     "Rk": 238,
@@ -6899,7 +7136,8 @@
     "VBD": null,
     "PosRank": 70,
     "OvRank": null,
-    "-9999": "HomeTr00"
+    "-9999": "HomeTr00",
+    "expectedPoints": 156.5043334961
   },
   {
     "Rk": 239,
@@ -6928,7 +7166,8 @@
     "VBD": null,
     "PosRank": 43,
     "OvRank": null,
-    "-9999": "JohnJo05"
+    "-9999": "JohnJo05",
+    "expectedPoints": 136.4978179932
   },
   {
     "Rk": 240,
@@ -6957,7 +7196,8 @@
     "VBD": null,
     "PosRank": 71,
     "OvRank": null,
-    "-9999": "McNiJe00"
+    "-9999": "McNiJe00",
+    "expectedPoints": 156.4244537354
   },
   {
     "Rk": 241,
@@ -6986,7 +7226,8 @@
     "VBD": null,
     "PosRank": 69,
     "OvRank": null,
-    "-9999": "PattJa01"
+    "-9999": "PattJa01",
+    "expectedPoints": 147.1652374268
   },
   {
     "Rk": 242,
@@ -7015,7 +7256,8 @@
     "VBD": null,
     "PosRank": 99,
     "OvRank": null,
-    "-9999": "AmenDa00"
+    "-9999": "AmenDa00",
+    "expectedPoints": 167.3744812012
   },
   {
     "Rk": 243,
@@ -7044,7 +7286,8 @@
     "VBD": null,
     "PosRank": 29,
     "OvRank": null,
-    "-9999": "FirkAn00"
+    "-9999": "FirkAn00",
+    "expectedPoints": 115.4205856323
   },
   {
     "Rk": 244,
@@ -7073,7 +7316,8 @@
     "VBD": null,
     "PosRank": 98,
     "OvRank": null,
-    "-9999": "ReagJa00"
+    "-9999": "ReagJa00",
+    "expectedPoints": 174.8235473633
   },
   {
     "Rk": 245,
@@ -7102,7 +7346,8 @@
     "VBD": null,
     "PosRank": 72,
     "OvRank": null,
-    "-9999": "WillDa05"
+    "-9999": "WillDa05",
+    "expectedPoints": 120.677154541
   },
   {
     "Rk": 246,
@@ -7131,7 +7376,8 @@
     "VBD": null,
     "PosRank": 73,
     "OvRank": null,
-    "-9999": "WilsJe01"
+    "-9999": "WilsJe01",
+    "expectedPoints": 112.6036300659
   },
   {
     "Rk": 247,
@@ -7160,7 +7406,8 @@
     "VBD": null,
     "PosRank": 74,
     "OvRank": null,
-    "-9999": "JuszKy00"
+    "-9999": "JuszKy00",
+    "expectedPoints": 127.0199813843
   },
   {
     "Rk": 248,
@@ -7189,7 +7436,8 @@
     "VBD": null,
     "PosRank": 100,
     "OvRank": null,
-    "-9999": "RobiDe01"
+    "-9999": "RobiDe01",
+    "expectedPoints": 153.308380127
   },
   {
     "Rk": 249,
@@ -7218,7 +7466,8 @@
     "VBD": null,
     "PosRank": 44,
     "OvRank": null,
-    "-9999": "WhitMi01"
+    "-9999": "WhitMi01",
+    "expectedPoints": 154.2574920654
   },
   {
     "Rk": 250,
@@ -7247,7 +7496,8 @@
     "VBD": null,
     "PosRank": 103,
     "OvRank": null,
-    "-9999": "ConlCh00"
+    "-9999": "ConlCh00",
+    "expectedPoints": 130.0104827881
   },
   {
     "Rk": 251,
@@ -7276,7 +7526,8 @@
     "VBD": null,
     "PosRank": 30,
     "OvRank": null,
-    "-9999": "OkwuAl00"
+    "-9999": "OkwuAl00",
+    "expectedPoints": 136.1916503906
   },
   {
     "Rk": 252,
@@ -7305,7 +7556,8 @@
     "VBD": null,
     "PosRank": 104,
     "OvRank": null,
-    "-9999": "SlayDa01"
+    "-9999": "SlayDa01",
+    "expectedPoints": 166.686340332
   },
   {
     "Rk": 253,
@@ -7334,7 +7586,8 @@
     "VBD": null,
     "PosRank": 102,
     "OvRank": null,
-    "-9999": "ToneKa00"
+    "-9999": "ToneKa00",
+    "expectedPoints": 165.2850646973
   },
   {
     "Rk": 254,
@@ -7363,7 +7616,8 @@
     "VBD": null,
     "PosRank": 101,
     "OvRank": null,
-    "-9999": "WatkSa00"
+    "-9999": "WatkSa00",
+    "expectedPoints": 140.8312683105
   },
   {
     "Rk": 255,
@@ -7392,7 +7646,8 @@
     "VBD": null,
     "PosRank": 75,
     "OvRank": null,
-    "-9999": "CarsCh00"
+    "-9999": "CarsCh00",
+    "expectedPoints": 108.3824615479
   },
   {
     "Rk": 256,
@@ -7421,7 +7676,8 @@
     "VBD": null,
     "PosRank": 106,
     "OvRank": null,
-    "-9999": "ShepSt00"
+    "-9999": "ShepSt00",
+    "expectedPoints": 147.4292602539
   },
   {
     "Rk": 257,
@@ -7450,7 +7706,8 @@
     "VBD": null,
     "PosRank": 105,
     "OvRank": null,
-    "-9999": "WashJa00"
+    "-9999": "WashJa00",
+    "expectedPoints": 150.1012115479
   },
   {
     "Rk": 258,
@@ -7479,7 +7736,8 @@
     "VBD": null,
     "PosRank": 32,
     "OvRank": null,
-    "-9999": "ArnoDa00"
+    "-9999": "ArnoDa00",
+    "expectedPoints": 127.6969680786
   },
   {
     "Rk": 259,
@@ -7508,7 +7766,8 @@
     "VBD": null,
     "PosRank": 31,
     "OvRank": null,
-    "-9999": "BryaHa00"
+    "-9999": "BryaHa00",
+    "expectedPoints": 115.9415359497
   },
   {
     "Rk": 260,
@@ -7537,7 +7796,8 @@
     "VBD": null,
     "PosRank": 77,
     "OvRank": null,
-    "-9999": "ColeTe01"
+    "-9999": "ColeTe01",
+    "expectedPoints": 125.5920791626
   },
   {
     "Rk": 261,
@@ -7566,7 +7826,8 @@
     "VBD": null,
     "PosRank": 76,
     "OvRank": null,
-    "-9999": "LindPh00"
+    "-9999": "LindPh00",
+    "expectedPoints": 120.7022399902
   },
   {
     "Rk": 262,
@@ -7595,7 +7856,8 @@
     "VBD": null,
     "PosRank": 45,
     "OvRank": null,
-    "-9999": "McCoCo00"
+    "-9999": "McCoCo00",
+    "expectedPoints": 134.8419342041
   },
   {
     "Rk": 263,
@@ -7624,7 +7886,8 @@
     "VBD": null,
     "PosRank": 78,
     "OvRank": null,
-    "-9999": "BarbPe01"
+    "-9999": "BarbPe01",
+    "expectedPoints": 121.575088501
   },
   {
     "Rk": 264,
@@ -7653,7 +7916,8 @@
     "VBD": null,
     "PosRank": 33,
     "OvRank": null,
-    "-9999": "JohnJu02"
+    "-9999": "JohnJu02",
+    "expectedPoints": 99.7835693359
   },
   {
     "Rk": 265,
@@ -7682,7 +7946,8 @@
     "VBD": null,
     "PosRank": 107,
     "OvRank": null,
-    "-9999": "RidlCa00"
+    "-9999": "RidlCa00",
+    "expectedPoints": 151.1206359863
   },
   {
     "Rk": 266,
@@ -7711,7 +7976,8 @@
     "VBD": null,
     "PosRank": 108,
     "OvRank": null,
-    "-9999": "ByrdDa00"
+    "-9999": "ByrdDa00",
+    "expectedPoints": 127.0419769287
   },
   {
     "Rk": 267,
@@ -7740,7 +8006,8 @@
     "VBD": null,
     "PosRank": 79,
     "OvRank": null,
-    "-9999": "DallDe00"
+    "-9999": "DallDe00",
+    "expectedPoints": 155.1898040771
   },
   {
     "Rk": 268,
@@ -7769,7 +8036,8 @@
     "VBD": null,
     "PosRank": 110,
     "OvRank": null,
-    "-9999": "DuliAs00"
+    "-9999": "DuliAs00",
+    "expectedPoints": 147.467956543
   },
   {
     "Rk": 269,
@@ -7798,7 +8066,8 @@
     "VBD": null,
     "PosRank": 36,
     "OvRank": null,
-    "-9999": "ParhDo00"
+    "-9999": "ParhDo00",
+    "expectedPoints": 103.7511444092
   },
   {
     "Rk": 270,
@@ -7827,7 +8096,8 @@
     "VBD": null,
     "PosRank": 35,
     "OvRank": null,
-    "-9999": "SealRi00"
+    "-9999": "SealRi00",
+    "expectedPoints": 106.3852920532
   },
   {
     "Rk": 271,
@@ -7856,7 +8126,8 @@
     "VBD": null,
     "PosRank": 34,
     "OvRank": null,
-    "-9999": "SmitJo01"
+    "-9999": "SmitJo01",
+    "expectedPoints": 103.6909713745
   },
   {
     "Rk": 272,
@@ -7885,7 +8156,8 @@
     "VBD": null,
     "PosRank": 37,
     "OvRank": null,
-    "-9999": "SwaiGe00"
+    "-9999": "SwaiGe00",
+    "expectedPoints": 99.3485107422
   },
   {
     "Rk": 273,
@@ -7914,7 +8186,8 @@
     "VBD": null,
     "PosRank": 109,
     "OvRank": null,
-    "-9999": "WeslAn01"
+    "-9999": "WeslAn01",
+    "expectedPoints": 157.4325256348
   },
   {
     "Rk": 274,
@@ -7943,7 +8216,8 @@
     "VBD": null,
     "PosRank": 38,
     "OvRank": null,
-    "-9999": "GrifRy00"
+    "-9999": "GrifRy00",
+    "expectedPoints": 111.424079895
   },
   {
     "Rk": 275,
@@ -7972,7 +8246,8 @@
     "VBD": null,
     "PosRank": 111,
     "OvRank": null,
-    "-9999": "HumpAd00"
+    "-9999": "HumpAd00",
+    "expectedPoints": 161.9746551514
   },
   {
     "Rk": 276,
@@ -8001,7 +8276,8 @@
     "VBD": null,
     "PosRank": 39,
     "OvRank": null,
-    "-9999": "HursHa00"
+    "-9999": "HursHa00",
+    "expectedPoints": 107.3941421509
   },
   {
     "Rk": 277,
@@ -8030,7 +8306,8 @@
     "VBD": null,
     "PosRank": 41,
     "OvRank": null,
-    "-9999": "DeguJo00"
+    "-9999": "DeguJo00",
+    "expectedPoints": 116.9526672363
   },
   {
     "Rk": 278,
@@ -8059,7 +8336,8 @@
     "VBD": null,
     "PosRank": 112,
     "OvRank": null,
-    "-9999": "GoodMa00"
+    "-9999": "GoodMa00",
+    "expectedPoints": 132.6858825684
   },
   {
     "Rk": 279,
@@ -8088,7 +8366,8 @@
     "VBD": null,
     "PosRank": 40,
     "OvRank": null,
-    "-9999": "GrahJi00"
+    "-9999": "GrahJi00",
+    "expectedPoints": 112.2543640137
   },
   {
     "Rk": 280,
@@ -8117,7 +8396,8 @@
     "VBD": null,
     "PosRank": 113,
     "OvRank": null,
-    "-9999": "HumpLi01"
+    "-9999": "HumpLi01",
+    "expectedPoints": 156.8086547852
   },
   {
     "Rk": 281,
@@ -8146,7 +8426,8 @@
     "VBD": null,
     "PosRank": 80,
     "OvRank": null,
-    "-9999": "OgunDa00"
+    "-9999": "OgunDa00",
+    "expectedPoints": 123.128112793
   },
   {
     "Rk": 282,
@@ -8175,7 +8456,8 @@
     "VBD": null,
     "PosRank": 81,
     "OvRank": null,
-    "-9999": "BernGi00"
+    "-9999": "BernGi00",
+    "expectedPoints": 129.5662231445
   },
   {
     "Rk": 283,
@@ -8204,7 +8486,8 @@
     "VBD": null,
     "PosRank": 82,
     "OvRank": null,
-    "-9999": "BreiMa00"
+    "-9999": "BreiMa00",
+    "expectedPoints": 126.234046936
   },
   {
     "Rk": 284,
@@ -8233,7 +8516,8 @@
     "VBD": null,
     "PosRank": 114,
     "OvRank": null,
-    "-9999": "JohnTy00"
+    "-9999": "JohnTy00",
+    "expectedPoints": 165.6760253906
   },
   {
     "Rk": 285,
@@ -8262,7 +8546,8 @@
     "VBD": null,
     "PosRank": 44,
     "OvRank": null,
-    "-9999": "JordBr00"
+    "-9999": "JordBr00",
+    "expectedPoints": 131.3033905029
   },
   {
     "Rk": 286,
@@ -8291,7 +8576,8 @@
     "VBD": null,
     "PosRank": 43,
     "OvRank": null,
-    "-9999": "SmytDu00"
+    "-9999": "SmytDu00",
+    "expectedPoints": 117.5918579102
   },
   {
     "Rk": 287,
@@ -8320,7 +8606,8 @@
     "VBD": null,
     "PosRank": 45,
     "OvRank": null,
-    "-9999": "ThomLo00"
+    "-9999": "ThomLo00",
+    "expectedPoints": 75.5268478394
   },
   {
     "Rk": 288,
@@ -8349,7 +8636,8 @@
     "VBD": null,
     "PosRank": 42,
     "OvRank": null,
-    "-9999": "TrauAd00"
+    "-9999": "TrauAd00",
+    "expectedPoints": 119.8518066406
   },
   {
     "Rk": 289,
@@ -8378,7 +8666,8 @@
     "VBD": null,
     "PosRank": 83,
     "OvRank": null,
-    "-9999": "EvanCh02"
+    "-9999": "EvanCh02",
+    "expectedPoints": 140.0690002441
   },
   {
     "Rk": 290,
@@ -8407,7 +8696,8 @@
     "VBD": null,
     "PosRank": 117,
     "OvRank": null,
-    "-9999": "GrayCy01"
+    "-9999": "GrayCy01",
+    "expectedPoints": 136.4164428711
   },
   {
     "Rk": 291,
@@ -8436,7 +8726,8 @@
     "VBD": null,
     "PosRank": 116,
     "OvRank": null,
-    "-9999": "MoorCh00"
+    "-9999": "MoorCh00",
+    "expectedPoints": 142.8412628174
   },
   {
     "Rk": 292,
@@ -8465,7 +8756,8 @@
     "VBD": null,
     "PosRank": 46,
     "OvRank": null,
-    "-9999": "PruiMy00"
+    "-9999": "PruiMy00",
+    "expectedPoints": 85.1193695068
   },
   {
     "Rk": 293,
@@ -8494,7 +8786,8 @@
     "VBD": null,
     "PosRank": 115,
     "OvRank": null,
-    "-9999": "RogeCh02"
+    "-9999": "RogeCh02",
+    "expectedPoints": 135.4057922363
   },
   {
     "Rk": 294,
@@ -8523,7 +8816,8 @@
     "VBD": null,
     "PosRank": 118,
     "OvRank": null,
-    "-9999": "CephQu00"
+    "-9999": "CephQu00",
+    "expectedPoints": 158.3807983398
   },
   {
     "Rk": 295,
@@ -8552,7 +8846,8 @@
     "VBD": null,
     "PosRank": 120,
     "OvRank": null,
-    "-9999": "HiggRa00"
+    "-9999": "HiggRa00",
+    "expectedPoints": 144.2288970947
   },
   {
     "Rk": 296,
@@ -8581,7 +8876,8 @@
     "VBD": null,
     "PosRank": 84,
     "OvRank": null,
-    "-9999": "HydeCa00"
+    "-9999": "HydeCa00",
+    "expectedPoints": 128.5785064697
   },
   {
     "Rk": 297,
@@ -8610,7 +8906,8 @@
     "VBD": null,
     "PosRank": 46,
     "OvRank": null,
-    "-9999": "MinsGa00"
+    "-9999": "MinsGa00",
+    "expectedPoints": 151.9276580811
   },
   {
     "Rk": 298,
@@ -8639,7 +8936,8 @@
     "VBD": null,
     "PosRank": 47,
     "OvRank": null,
-    "-9999": "RudoKy00"
+    "-9999": "RudoKy00",
+    "expectedPoints": 118.3561630249
   },
   {
     "Rk": 299,
@@ -8668,7 +8966,8 @@
     "VBD": null,
     "PosRank": 119,
     "OvRank": null,
-    "-9999": "SimsCa00"
+    "-9999": "SimsCa00",
+    "expectedPoints": 146.366394043
   },
   {
     "Rk": 300,
@@ -8697,7 +8996,8 @@
     "VBD": null,
     "PosRank": 85,
     "OvRank": null,
-    "-9999": "BellLe00"
+    "-9999": "BellLe00",
+    "expectedPoints": 115.0021286011
   },
   {
     "Rk": 301,
@@ -8726,7 +9026,8 @@
     "VBD": null,
     "PosRank": 88,
     "OvRank": null,
-    "-9999": "FeltDe00"
+    "-9999": "FeltDe00",
+    "expectedPoints": 155.7693328857
   },
   {
     "Rk": 302,
@@ -8755,7 +9056,8 @@
     "VBD": null,
     "PosRank": 122,
     "OvRank": null,
-    "-9999": "McKeIs00"
+    "-9999": "McKeIs00",
+    "expectedPoints": 116.1770324707
   },
   {
     "Rk": 303,
@@ -8784,7 +9086,8 @@
     "VBD": null,
     "PosRank": 48,
     "OvRank": null,
-    "-9999": "TremTo00"
+    "-9999": "TremTo00",
+    "expectedPoints": 111.131187439
   },
   {
     "Rk": 304,
@@ -8813,7 +9116,8 @@
     "VBD": null,
     "PosRank": 121,
     "OvRank": null,
-    "-9999": "TurnMa00"
+    "-9999": "TurnMa00",
+    "expectedPoints": 153.3839416504
   },
   {
     "Rk": 305,
@@ -8842,7 +9146,8 @@
     "VBD": null,
     "PosRank": 87,
     "OvRank": null,
-    "-9999": "VaugKe00"
+    "-9999": "VaugKe00",
+    "expectedPoints": 125.6067733765
   },
   {
     "Rk": 306,
@@ -8871,7 +9176,8 @@
     "VBD": null,
     "PosRank": 86,
     "OvRank": null,
-    "-9999": "WillTy01"
+    "-9999": "WillTy01",
+    "expectedPoints": 114.2178192139
   },
   {
     "Rk": 307,
@@ -8900,7 +9206,8 @@
     "VBD": null,
     "PosRank": 49,
     "OvRank": null,
-    "-9999": "TonyRo00"
+    "-9999": "TonyRo00",
+    "expectedPoints": 95.6876678467
   },
   {
     "Rk": 308,
@@ -8929,7 +9236,8 @@
     "VBD": null,
     "PosRank": 50,
     "OvRank": null,
-    "-9999": "BateJo00"
+    "-9999": "BateJo00",
+    "expectedPoints": 103.6231384277
   },
   {
     "Rk": 309,
@@ -8958,7 +9266,8 @@
     "VBD": null,
     "PosRank": 47,
     "OvRank": null,
-    "-9999": "GlenMi00"
+    "-9999": "GlenMi00",
+    "expectedPoints": 126.0043182373
   },
   {
     "Rk": 310,
@@ -8987,7 +9296,8 @@
     "VBD": null,
     "PosRank": 123,
     "OvRank": null,
-    "-9999": "ZylsBr00"
+    "-9999": "ZylsBr00",
+    "expectedPoints": 140.9099578857
   },
   {
     "Rk": 311,
@@ -9016,7 +9326,8 @@
     "VBD": null,
     "PosRank": 124,
     "OvRank": null,
-    "-9999": "RossJo00"
+    "-9999": "RossJo00",
+    "expectedPoints": 133.4665374756
   },
   {
     "Rk": 312,
@@ -9045,7 +9356,8 @@
     "VBD": null,
     "PosRank": 51,
     "OvRank": null,
-    "-9999": "DissWi00"
+    "-9999": "DissWi00",
+    "expectedPoints": 104.5362854004
   },
   {
     "Rk": 313,
@@ -9074,7 +9386,8 @@
     "VBD": null,
     "PosRank": 125,
     "OvRank": null,
-    "-9999": "GranJa00"
+    "-9999": "GranJa00",
+    "expectedPoints": 132.1731719971
   },
   {
     "Rk": 314,
@@ -9103,7 +9416,8 @@
     "VBD": null,
     "PosRank": 48,
     "OvRank": null,
-    "-9999": "KeenCa00"
+    "-9999": "KeenCa00",
+    "expectedPoints": 132.9174346924
   },
   {
     "Rk": 315,
@@ -9132,7 +9446,8 @@
     "VBD": null,
     "PosRank": 126,
     "OvRank": null,
-    "-9999": "FordIs00"
+    "-9999": "FordIs00",
+    "expectedPoints": 145.4672088623
   },
   {
     "Rk": 316,
@@ -9161,7 +9476,8 @@
     "VBD": null,
     "PosRank": 89,
     "OvRank": null,
-    "-9999": "ReynCr00"
+    "-9999": "ReynCr00",
+    "expectedPoints": 126.5450363159
   },
   {
     "Rk": 317,
@@ -9190,7 +9506,8 @@
     "VBD": null,
     "PosRank": 127,
     "OvRank": null,
-    "-9999": "WardGr02"
+    "-9999": "WardGr02",
+    "expectedPoints": 145.9870147705
   },
   {
     "Rk": 318,
@@ -9219,7 +9536,8 @@
     "VBD": null,
     "PosRank": 91,
     "OvRank": null,
-    "-9999": "AhmeSa01"
+    "-9999": "AhmeSa01",
+    "expectedPoints": 142.3752441406
   },
   {
     "Rk": 319,
@@ -9248,7 +9566,8 @@
     "VBD": null,
     "PosRank": 128,
     "OvRank": null,
-    "-9999": "AustTa00"
+    "-9999": "AustTa00",
+    "expectedPoints": 124.4678726196
   },
   {
     "Rk": 320,
@@ -9277,7 +9596,8 @@
     "VBD": null,
     "PosRank": 129,
     "OvRank": null,
-    "-9999": "CharDJ00"
+    "-9999": "CharDJ00",
+    "expectedPoints": 143.4284057617
   },
   {
     "Rk": 321,
@@ -9306,7 +9626,8 @@
     "VBD": null,
     "PosRank": 92,
     "OvRank": null,
-    "-9999": "HastJa02"
+    "-9999": "HastJa02",
+    "expectedPoints": 139.5382385254
   },
   {
     "Rk": 322,
@@ -9335,7 +9656,8 @@
     "VBD": null,
     "PosRank": 130,
     "OvRank": null,
-    "-9999": "McClRa00"
+    "-9999": "McClRa00",
+    "expectedPoints": 142.1762695312
   },
   {
     "Rk": 323,
@@ -9364,7 +9686,8 @@
     "VBD": null,
     "PosRank": 90,
     "OvRank": null,
-    "-9999": "PennEl00"
+    "-9999": "PennEl00",
+    "expectedPoints": 116.3783569336
   },
   {
     "Rk": 324,
@@ -9393,7 +9716,8 @@
     "VBD": null,
     "PosRank": 52,
     "OvRank": null,
-    "-9999": "O'ShJa00"
+    "-9999": "O'ShJa00",
+    "expectedPoints": 93.5938491821
   },
   {
     "Rk": 325,
@@ -9422,7 +9746,8 @@
     "VBD": null,
     "PosRank": 94,
     "OvRank": null,
-    "-9999": "FreeRo00"
+    "-9999": "FreeRo00",
+    "expectedPoints": 125.9842910767
   },
   {
     "Rk": 326,
@@ -9451,7 +9776,8 @@
     "VBD": null,
     "PosRank": 93,
     "OvRank": null,
-    "-9999": "SermTr00"
+    "-9999": "SermTr00",
+    "expectedPoints": 134.5199584961
   },
   {
     "Rk": 327,
@@ -9480,7 +9806,8 @@
     "VBD": null,
     "PosRank": 53,
     "OvRank": null,
-    "-9999": "WillMa04"
+    "-9999": "WillMa04",
+    "expectedPoints": 93.8424224854
   },
   {
     "Rk": 328,
@@ -9509,7 +9836,8 @@
     "VBD": null,
     "PosRank": 49,
     "OvRank": null,
-    "-9999": "BoylTi00"
+    "-9999": "BoylTi00",
+    "expectedPoints": 135.2185821533
   },
   {
     "Rk": 329,
@@ -9538,7 +9866,8 @@
     "VBD": null,
     "PosRank": 51,
     "OvRank": null,
-    "-9999": "FlacJo00"
+    "-9999": "FlacJo00",
+    "expectedPoints": 131.1760101318
   },
   {
     "Rk": 330,
@@ -9567,7 +9896,8 @@
     "VBD": null,
     "PosRank": 132,
     "OvRank": null,
-    "-9999": "HintKe00"
+    "-9999": "HintKe00",
+    "expectedPoints": 150.7994842529
   },
   {
     "Rk": 331,
@@ -9596,7 +9926,8 @@
     "VBD": null,
     "PosRank": 50,
     "OvRank": null,
-    "-9999": "RushCo00"
+    "-9999": "RushCo00",
+    "expectedPoints": 141.8112640381
   },
   {
     "Rk": 332,
@@ -9625,7 +9956,8 @@
     "VBD": null,
     "PosRank": 131,
     "OvRank": null,
-    "-9999": "SmitIh00"
+    "-9999": "SmitIh00",
+    "expectedPoints": 165.56690979
   },
   {
     "Rk": 333,
@@ -9654,7 +9986,8 @@
     "VBD": null,
     "PosRank": 54,
     "OvRank": null,
-    "-9999": "WrigBr01"
+    "-9999": "WrigBr01",
+    "expectedPoints": 105.8725967407
   },
   {
     "Rk": 334,
@@ -9683,7 +10016,8 @@
     "VBD": null,
     "PosRank": 56,
     "OvRank": null,
-    "-9999": "AndeSt01"
+    "-9999": "AndeSt01",
+    "expectedPoints": 87.949432373
   },
   {
     "Rk": 335,
@@ -9712,7 +10046,8 @@
     "VBD": null,
     "PosRank": 95,
     "OvRank": null,
-    "-9999": "ClemCo00"
+    "-9999": "ClemCo00",
+    "expectedPoints": 118.3510055542
   },
   {
     "Rk": 336,
@@ -9741,7 +10076,8 @@
     "VBD": null,
     "PosRank": 55,
     "OvRank": null,
-    "-9999": "KrofTy00"
+    "-9999": "KrofTy00",
+    "expectedPoints": 86.1586761475
   },
   {
     "Rk": 337,
@@ -9770,7 +10106,8 @@
     "VBD": null,
     "PosRank": 96,
     "OvRank": null,
-    "-9999": "McKiJe00"
+    "-9999": "McKiJe00",
+    "expectedPoints": 121.9103393555
   },
   {
     "Rk": 338,
@@ -9799,7 +10136,8 @@
     "VBD": null,
     "PosRank": 97,
     "OvRank": null,
-    "-9999": "PeteAd01"
+    "-9999": "PeteAd01",
+    "expectedPoints": 128.7333221436
   },
   {
     "Rk": 339,
@@ -9828,7 +10166,8 @@
     "VBD": null,
     "PosRank": 133,
     "OvRank": null,
-    "-9999": "SchwAn00"
+    "-9999": "SchwAn00",
+    "expectedPoints": 150.0123596191
   },
   {
     "Rk": 340,
@@ -9857,7 +10196,8 @@
     "VBD": null,
     "PosRank": 134,
     "OvRank": null,
-    "-9999": "SharTa00"
+    "-9999": "SharTa00",
+    "expectedPoints": 144.1474609375
   },
   {
     "Rk": 341,
@@ -9886,7 +10226,8 @@
     "VBD": null,
     "PosRank": 135,
     "OvRank": null,
-    "-9999": "WilsAl02"
+    "-9999": "WilsAl02",
+    "expectedPoints": 136.7238311768
   },
   {
     "Rk": 342,
@@ -9915,7 +10256,8 @@
     "VBD": null,
     "PosRank": 98,
     "OvRank": null,
-    "-9999": "BenjEn00"
+    "-9999": "BenjEn00",
+    "expectedPoints": 136.9240722656
   },
   {
     "Rk": 343,
@@ -9944,7 +10286,8 @@
     "VBD": null,
     "PosRank": 137,
     "OvRank": null,
-    "-9999": "CampPa00"
+    "-9999": "CampPa00",
+    "expectedPoints": 146.2643585205
   },
   {
     "Rk": 344,
@@ -9973,7 +10316,8 @@
     "VBD": null,
     "PosRank": 57,
     "OvRank": null,
-    "-9999": "JarwBl00"
+    "-9999": "JarwBl00",
+    "expectedPoints": 80.6135635376
   },
   {
     "Rk": 345,
@@ -10002,7 +10346,8 @@
     "VBD": null,
     "PosRank": 99,
     "OvRank": null,
-    "-9999": "JeffJe00"
+    "-9999": "JeffJe00",
+    "expectedPoints": 142.597442627
   },
   {
     "Rk": 346,
@@ -10031,7 +10376,8 @@
     "VBD": null,
     "PosRank": 136,
     "OvRank": null,
-    "-9999": "PerrBr02"
+    "-9999": "PerrBr02",
+    "expectedPoints": 129.4214935303
   },
   {
     "Rk": 347,
@@ -10060,7 +10406,8 @@
     "VBD": null,
     "PosRank": 59,
     "OvRank": null,
-    "-9999": "EbroEr00"
+    "-9999": "EbroEr00",
+    "expectedPoints": 82.7301864624
   },
   {
     "Rk": 348,
@@ -10089,7 +10436,8 @@
     "VBD": null,
     "PosRank": 58,
     "OvRank": null,
-    "-9999": "LewiMa00"
+    "-9999": "LewiMa00",
+    "expectedPoints": 143.9772033691
   },
   {
     "Rk": 349,
@@ -10118,7 +10466,8 @@
     "VBD": null,
     "PosRank": 52,
     "OvRank": null,
-    "-9999": "LoveJo03"
+    "-9999": "LoveJo03",
+    "expectedPoints": 149.4028015137
   },
   {
     "Rk": 350,
@@ -10147,7 +10496,8 @@
     "VBD": null,
     "PosRank": 101,
     "OvRank": null,
-    "-9999": "BrowMa03"
+    "-9999": "BrowMa03",
+    "expectedPoints": 106.1226806641
   },
   {
     "Rk": 351,
@@ -10176,7 +10526,8 @@
     "VBD": null,
     "PosRank": 60,
     "OvRank": null,
-    "-9999": "HowaO.00"
+    "-9999": "HowaO.00",
+    "expectedPoints": 85.6149291992
   },
   {
     "Rk": 352,
@@ -10205,7 +10556,8 @@
     "VBD": null,
     "PosRank": 100,
     "OvRank": null,
-    "-9999": "IgweGo00"
+    "-9999": "IgweGo00",
+    "expectedPoints": 116.0033493042
   },
   {
     "Rk": 353,
@@ -10234,7 +10586,8 @@
     "VBD": null,
     "PosRank": 138,
     "OvRank": null,
-    "-9999": "ProcJa00"
+    "-9999": "ProcJa00",
+    "expectedPoints": 142.1587371826
   },
   {
     "Rk": 354,
@@ -10263,7 +10616,8 @@
     "VBD": null,
     "PosRank": 139,
     "OvRank": null,
-    "-9999": "SmitJu00"
+    "-9999": "SmitJu00",
+    "expectedPoints": 128.2063140869
   },
   {
     "Rk": 355,
@@ -10292,7 +10646,8 @@
     "VBD": null,
     "PosRank": 103,
     "OvRank": null,
-    "-9999": "NwanKe00"
+    "-9999": "NwanKe00",
+    "expectedPoints": 121.7341842651
   },
   {
     "Rk": 356,
@@ -10321,7 +10676,8 @@
     "VBD": null,
     "PosRank": 62,
     "OvRank": null,
-    "-9999": "ThomIa00"
+    "-9999": "ThomIa00",
+    "expectedPoints": 99.3085403442
   },
   {
     "Rk": 357,
@@ -10350,7 +10706,8 @@
     "VBD": null,
     "PosRank": 61,
     "OvRank": null,
-    "-9999": "VannNi00"
+    "-9999": "VannNi00",
+    "expectedPoints": 92.7110443115
   },
   {
     "Rk": 358,
@@ -10379,7 +10736,8 @@
     "VBD": null,
     "PosRank": 102,
     "OvRank": null,
-    "-9999": "WhitJa02"
+    "-9999": "WhitJa02",
+    "expectedPoints": 114.9743728638
   },
   {
     "Rk": 359,
@@ -10408,7 +10766,8 @@
     "VBD": null,
     "PosRank": 63,
     "OvRank": null,
-    "-9999": "AkinJo00"
+    "-9999": "AkinJo00",
+    "expectedPoints": 122.0375595093
   },
   {
     "Rk": 360,
@@ -10437,7 +10796,8 @@
     "VBD": null,
     "PosRank": 140,
     "OvRank": null,
-    "-9999": "BrowNo00"
+    "-9999": "BrowNo00",
+    "expectedPoints": 142.1856231689
   },
   {
     "Rk": 361,
@@ -10466,7 +10826,8 @@
     "VBD": null,
     "PosRank": 141,
     "OvRank": null,
-    "-9999": "EskrDW00"
+    "-9999": "EskrDW00",
+    "expectedPoints": 149.7934112549
   },
   {
     "Rk": 362,
@@ -10495,7 +10856,8 @@
     "VBD": null,
     "PosRank": 142,
     "OvRank": null,
-    "-9999": "HodgKh00"
+    "-9999": "HodgKh00",
+    "expectedPoints": 134.9603271484
   },
   {
     "Rk": 363,
@@ -10524,7 +10886,8 @@
     "VBD": null,
     "PosRank": 53,
     "OvRank": null,
-    "-9999": "RudoMa00"
+    "-9999": "RudoMa00",
+    "expectedPoints": 148.0860748291
   },
   {
     "Rk": 364,
@@ -10553,7 +10916,8 @@
     "VBD": null,
     "PosRank": 143,
     "OvRank": null,
-    "-9999": "SanuMo00"
+    "-9999": "SanuMo00",
+    "expectedPoints": 136.9971313477
   },
   {
     "Rk": 365,
@@ -10582,7 +10946,8 @@
     "VBD": null,
     "PosRank": 54,
     "OvRank": null,
-    "-9999": "FoleNi00"
+    "-9999": "FoleNi00",
+    "expectedPoints": 133.640914917
   },
   {
     "Rk": 366,
@@ -10611,7 +10976,8 @@
     "VBD": null,
     "PosRank": 64,
     "OvRank": null,
-    "-9999": "FortJo01"
+    "-9999": "FortJo01",
+    "expectedPoints": 97.8220825195
   },
   {
     "Rk": 367,
@@ -10640,7 +11006,8 @@
     "VBD": null,
     "PosRank": 65,
     "OvRank": null,
-    "-9999": "GentZa00"
+    "-9999": "GentZa00",
+    "expectedPoints": 95.7694015503
   },
   {
     "Rk": 368,
@@ -10669,7 +11036,8 @@
     "VBD": null,
     "PosRank": 104,
     "OvRank": null,
-    "-9999": "JoneTo04"
+    "-9999": "JoneTo04",
+    "expectedPoints": 122.3647003174
   },
   {
     "Rk": 369,
@@ -10698,7 +11066,8 @@
     "VBD": null,
     "PosRank": 105,
     "OvRank": null,
-    "-9999": "WaltAu00"
+    "-9999": "WaltAu00",
+    "expectedPoints": 113.1325531006
   },
   {
     "Rk": 370,
@@ -10727,7 +11096,8 @@
     "VBD": null,
     "PosRank": 106,
     "OvRank": null,
-    "-9999": "WillJo07"
+    "-9999": "WillJo07",
+    "expectedPoints": 106.8856658936
   },
   {
     "Rk": 371,
@@ -10756,7 +11126,8 @@
     "VBD": null,
     "PosRank": 146,
     "OvRank": null,
-    "-9999": "BrowDy00"
+    "-9999": "BrowDy00",
+    "expectedPoints": 150.7823181152
   },
   {
     "Rk": 372,
@@ -10785,7 +11156,8 @@
     "VBD": null,
     "PosRank": 107,
     "OvRank": null,
-    "-9999": "HamxC.00"
+    "-9999": "HamxC.00",
+    "expectedPoints": 110.8148651123
   },
   {
     "Rk": 373,
@@ -10814,7 +11186,8 @@
     "VBD": null,
     "PosRank": 144,
     "OvRank": null,
-    "-9999": "HarrNK00"
+    "-9999": "HarrNK00",
+    "expectedPoints": 141.0313262939
   },
   {
     "Rk": 374,
@@ -10843,7 +11216,8 @@
     "VBD": null,
     "PosRank": 147,
     "OvRank": null,
-    "-9999": "JohnMa07"
+    "-9999": "JohnMa07",
+    "expectedPoints": 127.1169128418
   },
   {
     "Rk": 375,
@@ -10872,7 +11246,8 @@
     "VBD": null,
     "PosRank": 148,
     "OvRank": null,
-    "-9999": "MarsTe00"
+    "-9999": "MarsTe00",
+    "expectedPoints": 165.1203613281
   },
   {
     "Rk": 376,
@@ -10901,7 +11276,8 @@
     "VBD": null,
     "PosRank": 108,
     "OvRank": null,
-    "-9999": "OlliQa00"
+    "-9999": "OlliQa00",
+    "expectedPoints": 111.0451507568
   },
   {
     "Rk": 377,
@@ -10930,7 +11306,8 @@
     "VBD": null,
     "PosRank": 145,
     "OvRank": null,
-    "-9999": "WilkKr00"
+    "-9999": "WilkKr00",
+    "expectedPoints": 151.9258728027
   },
   {
     "Rk": 378,
@@ -10959,7 +11336,8 @@
     "VBD": null,
     "PosRank": 66,
     "OvRank": null,
-    "-9999": "BrowPh01"
+    "-9999": "BrowPh01",
+    "expectedPoints": 94.7756271362
   },
   {
     "Rk": 379,
@@ -10988,7 +11366,8 @@
     "VBD": null,
     "PosRank": 110,
     "OvRank": null,
-    "-9999": "IngoAl01"
+    "-9999": "IngoAl01",
+    "expectedPoints": 118.885383606
   },
   {
     "Rk": 380,
@@ -11017,7 +11396,8 @@
     "VBD": null,
     "PosRank": 55,
     "OvRank": null,
-    "-9999": "MariMa01"
+    "-9999": "MariMa01",
+    "expectedPoints": 142.4106445312
   },
   {
     "Rk": 381,
@@ -11046,7 +11426,8 @@
     "VBD": null,
     "PosRank": 149,
     "OvRank": null,
-    "-9999": "PettDa00"
+    "-9999": "PettDa00",
+    "expectedPoints": 138.363571167
   },
   {
     "Rk": 382,
@@ -11075,7 +11456,8 @@
     "VBD": null,
     "PosRank": 111,
     "OvRank": null,
-    "-9999": "RounLa00"
+    "-9999": "RounLa00",
+    "expectedPoints": 126.6758804321
   },
   {
     "Rk": 383,
@@ -11104,7 +11486,8 @@
     "VBD": null,
     "PosRank": 150,
     "OvRank": null,
-    "-9999": "SherTr00"
+    "-9999": "SherTr00",
+    "expectedPoints": 141.0273132324
   },
   {
     "Rk": 384,
@@ -11133,7 +11516,8 @@
     "VBD": null,
     "PosRank": 112,
     "OvRank": null,
-    "-9999": "TaylJJ01"
+    "-9999": "TaylJJ01",
+    "expectedPoints": 122.8441848755
   },
   {
     "Rk": 385,
@@ -11162,7 +11546,8 @@
     "VBD": null,
     "PosRank": 109,
     "OvRank": null,
-    "-9999": "TaylPa01"
+    "-9999": "TaylPa01",
+    "expectedPoints": 122.5016479492
   },
   {
     "Rk": 386,
@@ -11191,7 +11576,8 @@
     "VBD": null,
     "PosRank": 56,
     "OvRank": null,
-    "-9999": "AlleBr00"
+    "-9999": "AlleBr00",
+    "expectedPoints": 137.208694458
   },
   {
     "Rk": 387,
@@ -11220,7 +11606,8 @@
     "VBD": null,
     "PosRank": 67,
     "OvRank": null,
-    "-9999": "HorsJe00"
+    "-9999": "HorsJe00",
+    "expectedPoints": 107.8968658447
   },
   {
     "Rk": 388,
@@ -11249,7 +11636,8 @@
     "VBD": null,
     "PosRank": 151,
     "OvRank": null,
-    "-9999": "MillSc01"
+    "-9999": "MillSc01",
+    "expectedPoints": 123.4125900269
   },
   {
     "Rk": 389,
@@ -11278,7 +11666,8 @@
     "VBD": null,
     "PosRank": 152,
     "OvRank": null,
-    "-9999": "MontTy01"
+    "-9999": "MontTy01",
+    "expectedPoints": 117.5094146729
   },
   {
     "Rk": 390,
@@ -11307,7 +11696,8 @@
     "VBD": null,
     "PosRank": 57,
     "OvRank": null,
-    "-9999": "WalkPh00"
+    "-9999": "WalkPh00",
+    "expectedPoints": 137.1119232178
   },
   {
     "Rk": 391,
@@ -11336,7 +11726,8 @@
     "VBD": null,
     "PosRank": 114,
     "OvRank": null,
-    "-9999": "GallWa00"
+    "-9999": "GallWa00",
+    "expectedPoints": 107.5127105713
   },
   {
     "Rk": 392,
@@ -11365,7 +11756,8 @@
     "VBD": null,
     "PosRank": 68,
     "OvRank": null,
-    "-9999": "ManhCh00"
+    "-9999": "ManhCh00",
+    "expectedPoints": 84.4264755249
   },
   {
     "Rk": 393,
@@ -11394,7 +11786,8 @@
     "VBD": null,
     "PosRank": 58,
     "OvRank": null,
-    "-9999": "MannSe00"
+    "-9999": "MannSe00",
+    "expectedPoints": 138.8607177734
   },
   {
     "Rk": 394,
@@ -11423,7 +11816,8 @@
     "VBD": null,
     "PosRank": 153,
     "OvRank": null,
-    "-9999": "MimsDe00"
+    "-9999": "MimsDe00",
+    "expectedPoints": 141.8590087891
   },
   {
     "Rk": 395,
@@ -11452,7 +11846,8 @@
     "VBD": null,
     "PosRank": 113,
     "OvRank": null,
-    "-9999": "RicaPa00"
+    "-9999": "RicaPa00",
+    "expectedPoints": 116.3721923828
   },
   {
     "Rk": 396,
@@ -11481,7 +11876,8 @@
     "VBD": null,
     "PosRank": 154,
     "OvRank": null,
-    "-9999": "SkowBe00"
+    "-9999": "SkowBe00",
+    "expectedPoints": 145.8331604004
   },
   {
     "Rk": 397,
@@ -11510,7 +11906,8 @@
     "VBD": null,
     "PosRank": 69,
     "OvRank": null,
-    "-9999": "SmitLe00"
+    "-9999": "SmitLe00",
+    "expectedPoints": 99.5766830444
   },
   {
     "Rk": 398,
@@ -11539,7 +11936,8 @@
     "VBD": null,
     "PosRank": 155,
     "OvRank": null,
-    "-9999": "StilKe00"
+    "-9999": "StilKe00",
+    "expectedPoints": 132.2088623047
   },
   {
     "Rk": 399,
@@ -11568,7 +11966,8 @@
     "VBD": null,
     "PosRank": 116,
     "OvRank": null,
-    "-9999": "BurtMi00"
+    "-9999": "BurtMi00",
+    "expectedPoints": 110.6560058594
   },
   {
     "Rk": 400,
@@ -11597,7 +11996,8 @@
     "VBD": null,
     "PosRank": 71,
     "OvRank": null,
-    "-9999": "HollJa03"
+    "-9999": "HollJa03",
+    "expectedPoints": 84.6078414917
   },
   {
     "Rk": 401,
@@ -11626,7 +12026,8 @@
     "VBD": null,
     "PosRank": 59,
     "OvRank": null,
-    "-9999": "HoyeBr00"
+    "-9999": "HoyeBr00",
+    "expectedPoints": 140.3728179932
   },
   {
     "Rk": 402,
@@ -11655,7 +12056,8 @@
     "VBD": null,
     "PosRank": 70,
     "OvRank": null,
-    "-9999": "JameJe00"
+    "-9999": "JameJe00",
+    "expectedPoints": 77.9067840576
   },
   {
     "Rk": 403,
@@ -11684,7 +12086,8 @@
     "VBD": null,
     "PosRank": 115,
     "OvRank": null,
-    "-9999": "KellJo01"
+    "-9999": "KellJo01",
+    "expectedPoints": 115.4170684814
   },
   {
     "Rk": 404,
@@ -11713,7 +12116,8 @@
     "VBD": null,
     "PosRank": 156,
     "OvRank": null,
-    "-9999": "KennTo01"
+    "-9999": "KennTo01",
+    "expectedPoints": 131.8993988037
   },
   {
     "Rk": 405,
@@ -11742,7 +12146,8 @@
     "VBD": null,
     "PosRank": 74,
     "OvRank": null,
-    "-9999": "AuclAn00"
+    "-9999": "AuclAn00",
+    "expectedPoints": 85.8973770142
   },
   {
     "Rk": 406,
@@ -11771,7 +12176,8 @@
     "VBD": null,
     "PosRank": 159,
     "OvRank": null,
-    "-9999": "DorsPh00"
+    "-9999": "DorsPh00",
+    "expectedPoints": 127.3918457031
   },
   {
     "Rk": 407,
@@ -11800,7 +12206,8 @@
     "VBD": null,
     "PosRank": 72,
     "OvRank": null,
-    "-9999": "DwelRo00"
+    "-9999": "DwelRo00",
+    "expectedPoints": 96.3419799805
   },
   {
     "Rk": 408,
@@ -11829,7 +12236,8 @@
     "VBD": null,
     "PosRank": 160,
     "OvRank": null,
-    "-9999": "FitzDe00"
+    "-9999": "FitzDe00",
+    "expectedPoints": 146.7280578613
   },
   {
     "Rk": 409,
@@ -11858,7 +12266,8 @@
     "VBD": null,
     "PosRank": 60,
     "OvRank": null,
-    "-9999": "FromJa00"
+    "-9999": "FromJa00",
+    "expectedPoints": 142.18019104
   },
   {
     "Rk": 410,
@@ -11887,7 +12296,8 @@
     "VBD": null,
     "PosRank": 76,
     "OvRank": null,
-    "-9999": "GranKy00"
+    "-9999": "GranKy00",
+    "expectedPoints": 126.9128646851
   },
   {
     "Rk": 411,
@@ -11916,7 +12326,8 @@
     "VBD": null,
     "PosRank": 161,
     "OvRank": null,
-    "-9999": "JohnCo01"
+    "-9999": "JohnCo01",
+    "expectedPoints": 145.938659668
   },
   {
     "Rk": 412,
@@ -11945,7 +12356,8 @@
     "VBD": null,
     "PosRank": 119,
     "OvRank": null,
-    "-9999": "MackMa00"
+    "-9999": "MackMa00",
+    "expectedPoints": 113.0445022583
   },
   {
     "Rk": 413,
@@ -11974,7 +12386,8 @@
     "VBD": null,
     "PosRank": 117,
     "OvRank": null,
-    "-9999": "RichJa01"
+    "-9999": "RichJa01",
+    "expectedPoints": 112.0761642456
   },
   {
     "Rk": 414,
@@ -12003,7 +12416,8 @@
     "VBD": null,
     "PosRank": 75,
     "OvRank": null,
-    "-9999": "SaubEr00"
+    "-9999": "SaubEr00",
+    "expectedPoints": 81.8762664795
   },
   {
     "Rk": 415,
@@ -12032,7 +12446,8 @@
     "VBD": null,
     "PosRank": 73,
     "OvRank": null,
-    "-9999": "ShahAd00"
+    "-9999": "ShahAd00",
+    "expectedPoints": 81.4726638794
   },
   {
     "Rk": 416,
@@ -12061,7 +12476,8 @@
     "VBD": null,
     "PosRank": 157,
     "OvRank": null,
-    "-9999": "SmitJe03"
+    "-9999": "SmitJe03",
+    "expectedPoints": 139.1278076172
   },
   {
     "Rk": 417,
@@ -12090,7 +12506,8 @@
     "VBD": null,
     "PosRank": 118,
     "OvRank": null,
-    "-9999": "SnelBe00"
+    "-9999": "SnelBe00",
+    "expectedPoints": 123.4860534668
   },
   {
     "Rk": 418,
@@ -12119,7 +12536,8 @@
     "VBD": null,
     "PosRank": 158,
     "OvRank": null,
-    "-9999": "St.BEq00"
+    "-9999": "St.BEq00",
+    "expectedPoints": 128.0070800781
   },
   {
     "Rk": 419,
@@ -12148,7 +12566,8 @@
     "VBD": null,
     "PosRank": 121,
     "OvRank": null,
-    "-9999": "ArmsRy00"
+    "-9999": "ArmsRy00",
+    "expectedPoints": 112.47605896
   },
   {
     "Rk": 420,
@@ -12177,7 +12596,8 @@
     "VBD": null,
     "PosRank": 79,
     "OvRank": null,
-    "-9999": "BellBl00"
+    "-9999": "BellBl00",
+    "expectedPoints": 86.3129882812
   },
   {
     "Rk": 421,
@@ -12206,7 +12626,8 @@
     "VBD": null,
     "PosRank": 162,
     "OvRank": null,
-    "-9999": "BensTr00"
+    "-9999": "BensTr00",
+    "expectedPoints": 144.111618042
   },
   {
     "Rk": 422,
@@ -12235,7 +12656,8 @@
     "VBD": null,
     "PosRank": 120,
     "OvRank": null,
-    "-9999": "CabiJa00"
+    "-9999": "CabiJa00",
+    "expectedPoints": 114.2799224854
   },
   {
     "Rk": 423,
@@ -12264,7 +12686,8 @@
     "VBD": null,
     "PosRank": 80,
     "OvRank": null,
-    "-9999": "GrayNo00"
+    "-9999": "GrayNo00",
+    "expectedPoints": 118.8422775269
   },
   {
     "Rk": 424,
@@ -12293,7 +12716,8 @@
     "VBD": null,
     "PosRank": 78,
     "OvRank": null,
-    "-9999": "HernCh00"
+    "-9999": "HernCh00",
+    "expectedPoints": 89.2107620239
   },
   {
     "Rk": 425,
@@ -12322,7 +12746,8 @@
     "VBD": null,
     "PosRank": 163,
     "OvRank": null,
-    "-9999": "HogaCh00"
+    "-9999": "HogaCh00",
+    "expectedPoints": 136.9530029297
   },
   {
     "Rk": 426,
@@ -12351,7 +12776,8 @@
     "VBD": null,
     "PosRank": 61,
     "OvRank": null,
-    "-9999": "MullNi00"
+    "-9999": "MullNi00",
+    "expectedPoints": 143.6667022705
   },
   {
     "Rk": 427,
@@ -12380,7 +12806,8 @@
     "VBD": null,
     "PosRank": 164,
     "OvRank": null,
-    "-9999": "SmitSh03"
+    "-9999": "SmitSh03",
+    "expectedPoints": 150.0559082031
   },
   {
     "Rk": 428,
@@ -12409,7 +12836,8 @@
     "VBD": null,
     "PosRank": 77,
     "OvRank": null,
-    "-9999": "SweeTo00"
+    "-9999": "SweeTo00",
+    "expectedPoints": 74.4605484009
   },
   {
     "Rk": 429,
@@ -12438,7 +12866,8 @@
     "VBD": null,
     "PosRank": 165,
     "OvRank": null,
-    "-9999": "TateAu00"
+    "-9999": "TateAu00",
+    "expectedPoints": 144.8077545166
   },
   {
     "Rk": 430,
@@ -12467,7 +12896,8 @@
     "VBD": null,
     "PosRank": 167,
     "OvRank": null,
-    "-9999": "BatsCa00"
+    "-9999": "BatsCa00",
+    "expectedPoints": 131.7863769531
   },
   {
     "Rk": 431,
@@ -12496,7 +12926,8 @@
     "VBD": null,
     "PosRank": 166,
     "OvRank": null,
-    "-9999": "GordJo02"
+    "-9999": "GordJo02",
+    "expectedPoints": 136.4642944336
   },
   {
     "Rk": 432,
@@ -12525,7 +12956,8 @@
     "VBD": null,
     "PosRank": 123,
     "OvRank": null,
-    "-9999": "HardJa01"
+    "-9999": "HardJa01",
+    "expectedPoints": 112.7708358765
   },
   {
     "Rk": 433,
@@ -12554,7 +12986,8 @@
     "VBD": null,
     "PosRank": 122,
     "OvRank": null,
-    "-9999": "JackDe02"
+    "-9999": "JackDe02",
+    "expectedPoints": 123.7075958252
   },
   {
     "Rk": 434,
@@ -12583,7 +13016,8 @@
     "VBD": null,
     "PosRank": 124,
     "OvRank": null,
-    "-9999": "JanoAn00"
+    "-9999": "JanoAn00",
+    "expectedPoints": 105.6706924438
   },
   {
     "Rk": 435,
@@ -12612,7 +13046,8 @@
     "VBD": null,
     "PosRank": 81,
     "OvRank": null,
-    "-9999": "McKeSe01"
+    "-9999": "McKeSe01",
+    "expectedPoints": 103.9923095703
   },
   {
     "Rk": 436,
@@ -12641,7 +13076,8 @@
     "VBD": null,
     "PosRank": 168,
     "OvRank": null,
-    "-9999": "MillAn02"
+    "-9999": "MillAn02",
+    "expectedPoints": 131.2781066895
   },
   {
     "Rk": 437,
@@ -12670,7 +13106,8 @@
     "VBD": null,
     "PosRank": 125,
     "OvRank": null,
-    "-9999": "SmitKe03"
+    "-9999": "SmitKe03",
+    "expectedPoints": 111.3514099121
   },
   {
     "Rk": 438,
@@ -12699,7 +13136,8 @@
     "VBD": null,
     "PosRank": 63,
     "OvRank": null,
-    "-9999": "AlleKy00"
+    "-9999": "AlleKy00",
+    "expectedPoints": 146.4435272217
   },
   {
     "Rk": 439,
@@ -12728,7 +13166,8 @@
     "VBD": null,
     "PosRank": 126,
     "OvRank": null,
-    "-9999": "ArmaAl00"
+    "-9999": "ArmaAl00",
+    "expectedPoints": 113.7203826904
   },
   {
     "Rk": 440,
@@ -12757,7 +13196,8 @@
     "VBD": null,
     "PosRank": 64,
     "OvRank": null,
-    "-9999": "GilbGa01"
+    "-9999": "GilbGa01",
+    "expectedPoints": 133.5609130859
   },
   {
     "Rk": 441,
@@ -12786,7 +13226,8 @@
     "VBD": null,
     "PosRank": 82,
     "OvRank": null,
-    "-9999": "JackTy01"
+    "-9999": "JackTy01",
+    "expectedPoints": 100.1873245239
   },
   {
     "Rk": 442,
@@ -12815,7 +13256,8 @@
     "VBD": null,
     "PosRank": 84,
     "OvRank": null,
-    "-9999": "MyarCh00"
+    "-9999": "MyarCh00",
+    "expectedPoints": 89.5242767334
   },
   {
     "Rk": 443,
@@ -12844,7 +13286,8 @@
     "VBD": null,
     "PosRank": 169,
     "OvRank": null,
-    "-9999": "PatmDe00"
+    "-9999": "PatmDe00",
+    "expectedPoints": 153.1087036133
   },
   {
     "Rk": 444,
@@ -12873,7 +13316,8 @@
     "VBD": null,
     "PosRank": 83,
     "OvRank": null,
-    "-9999": "SampDr00"
+    "-9999": "SampDr00",
+    "expectedPoints": 88.6101150513
   },
   {
     "Rk": 445,
@@ -12902,7 +13346,8 @@
     "VBD": null,
     "PosRank": 62,
     "OvRank": null,
-    "-9999": "TrubMi00"
+    "-9999": "TrubMi00",
+    "expectedPoints": 143.5546875
   },
   {
     "Rk": 446,
@@ -12931,7 +13376,8 @@
     "VBD": null,
     "PosRank": 170,
     "OvRank": null,
-    "-9999": "WillPr01"
+    "-9999": "WillPr01",
+    "expectedPoints": 136.2412719727
   },
   {
     "Rk": 447,
@@ -12960,7 +13406,8 @@
     "VBD": null,
     "PosRank": 171,
     "OvRank": null,
-    "-9999": "HamlKJ00"
+    "-9999": "HamlKJ00",
+    "expectedPoints": 156.3862304688
   },
   {
     "Rk": 448,
@@ -12989,7 +13436,8 @@
     "VBD": null,
     "PosRank": 85,
     "OvRank": null,
-    "-9999": "OlivJo00"
+    "-9999": "OlivJo00",
+    "expectedPoints": 99.3398132324
   },
   {
     "Rk": 449,
@@ -13018,7 +13466,8 @@
     "VBD": null,
     "PosRank": 172,
     "OvRank": null,
-    "-9999": "RobeAn00"
+    "-9999": "RobeAn00",
+    "expectedPoints": 115.4389038086
   },
   {
     "Rk": 450,
@@ -13047,7 +13496,8 @@
     "VBD": null,
     "PosRank": 127,
     "OvRank": null,
-    "-9999": "StanJo02"
+    "-9999": "StanJo02",
+    "expectedPoints": 114.379524231
   },
   {
     "Rk": 451,
@@ -13076,7 +13526,8 @@
     "VBD": null,
     "PosRank": 128,
     "OvRank": null,
-    "-9999": "WardJo00"
+    "-9999": "WardJo00",
+    "expectedPoints": 115.1842880249
   },
   {
     "Rk": 452,
@@ -13105,7 +13556,8 @@
     "VBD": null,
     "PosRank": 173,
     "OvRank": null,
-    "-9999": "WestDe00"
+    "-9999": "WestDe00",
+    "expectedPoints": 124.741897583
   },
   {
     "Rk": 453,
@@ -13134,7 +13586,8 @@
     "VBD": null,
     "PosRank": 178,
     "OvRank": null,
-    "-9999": "BoarC.00"
+    "-9999": "BoarC.00",
+    "expectedPoints": 128.893661499
   },
   {
     "Rk": 454,
@@ -13163,7 +13616,8 @@
     "VBD": null,
     "PosRank": 130,
     "OvRank": null,
-    "-9999": "BoonMi00"
+    "-9999": "BoonMi00",
+    "expectedPoints": 106.8006668091
   },
   {
     "Rk": 455,
@@ -13192,7 +13646,8 @@
     "VBD": null,
     "PosRank": 174,
     "OvRank": null,
-    "-9999": "BradJa01"
+    "-9999": "BradJa01",
+    "expectedPoints": 130.6944732666
   },
   {
     "Rk": 456,
@@ -13221,7 +13676,8 @@
     "VBD": null,
     "PosRank": 181,
     "OvRank": null,
-    "-9999": "EricAl01"
+    "-9999": "EricAl01",
+    "expectedPoints": 129.5712890625
   },
   {
     "Rk": 457,
@@ -13250,7 +13706,8 @@
     "VBD": null,
     "PosRank": 86,
     "OvRank": null,
-    "-9999": "FarrLu00"
+    "-9999": "FarrLu00",
+    "expectedPoints": 89.022354126
   },
   {
     "Rk": 458,
@@ -13279,7 +13736,8 @@
     "VBD": null,
     "PosRank": 177,
     "OvRank": null,
-    "-9999": "HartPe01"
+    "-9999": "HartPe01",
+    "expectedPoints": 132.789932251
   },
   {
     "Rk": 459,
@@ -13308,7 +13766,8 @@
     "VBD": null,
     "PosRank": 175,
     "OvRank": null,
-    "-9999": "MilnDa00"
+    "-9999": "MilnDa00",
+    "expectedPoints": 154.5636749268
   },
   {
     "Rk": 460,
@@ -13337,7 +13796,8 @@
     "VBD": null,
     "PosRank": 179,
     "OvRank": null,
-    "-9999": "MoorJa02"
+    "-9999": "MoorJa02",
+    "expectedPoints": 127.3013763428
   },
   {
     "Rk": 461,
@@ -13366,7 +13826,8 @@
     "VBD": null,
     "PosRank": 176,
     "OvRank": null,
-    "-9999": "PoweBr00"
+    "-9999": "PoweBr00",
+    "expectedPoints": 0
   },
   {
     "Rk": 462,
@@ -13395,7 +13856,8 @@
     "VBD": null,
     "PosRank": 180,
     "OvRank": null,
-    "-9999": "RodgAm00"
+    "-9999": "RodgAm00",
+    "expectedPoints": 152.75831604
   },
   {
     "Rk": 463,
@@ -13424,7 +13886,8 @@
     "VBD": null,
     "PosRank": 129,
     "OvRank": null,
-    "-9999": "SmitIt00"
+    "-9999": "SmitIt00",
+    "expectedPoints": 106.4387435913
   },
   {
     "Rk": 464,
@@ -13453,7 +13916,8 @@
     "VBD": null,
     "PosRank": 131,
     "OvRank": null,
-    "-9999": "WillTr06"
+    "-9999": "WillTr06",
+    "expectedPoints": 113.8591842651
   },
   {
     "Rk": 465,
@@ -13482,7 +13946,8 @@
     "VBD": null,
     "PosRank": 182,
     "OvRank": null,
-    "-9999": "DardJa00"
+    "-9999": "DardJa00",
+    "expectedPoints": 154.3797607422
   },
   {
     "Rk": 466,
@@ -13511,7 +13976,8 @@
     "VBD": null,
     "PosRank": 184,
     "OvRank": null,
-    "-9999": "FullWi01"
+    "-9999": "FullWi01",
+    "expectedPoints": 129.2000427246
   },
   {
     "Rk": 467,
@@ -13540,7 +14006,8 @@
     "VBD": null,
     "PosRank": 132,
     "OvRank": null,
-    "-9999": "HuntJa01"
+    "-9999": "HuntJa01",
+    "expectedPoints": 118.270362854
   },
   {
     "Rk": 468,
@@ -13569,7 +14036,8 @@
     "VBD": null,
     "PosRank": 88,
     "OvRank": null,
-    "-9999": "McKiTr00"
+    "-9999": "McKiTr00",
+    "expectedPoints": 113.0083770752
   },
   {
     "Rk": 469,
@@ -13598,7 +14066,8 @@
     "VBD": null,
     "PosRank": 134,
     "OvRank": null,
-    "-9999": "SmalWe00"
+    "-9999": "SmalWe00",
+    "expectedPoints": 106.9680328369
   },
   {
     "Rk": 470,
@@ -13627,7 +14096,8 @@
     "VBD": null,
     "PosRank": 133,
     "OvRank": null,
-    "-9999": "SmitRo08"
+    "-9999": "SmitRo08",
+    "expectedPoints": 111.4387207031
   },
   {
     "Rk": 471,
@@ -13656,7 +14126,8 @@
     "VBD": null,
     "PosRank": 183,
     "OvRank": null,
-    "-9999": "ThomMi04"
+    "-9999": "ThomMi04",
+    "expectedPoints": 128.2849884033
   },
   {
     "Rk": 472,
@@ -13685,7 +14156,8 @@
     "VBD": null,
     "PosRank": 87,
     "OvRank": null,
-    "-9999": "WoerCh00"
+    "-9999": "WoerCh00",
+    "expectedPoints": 107.5781555176
   },
   {
     "Rk": 473,
@@ -13714,7 +14186,8 @@
     "VBD": null,
     "PosRank": 192,
     "OvRank": null,
-    "-9999": "ArceJJ00"
+    "-9999": "ArceJJ00",
+    "expectedPoints": 127.9733428955
   },
   {
     "Rk": 474,
@@ -13743,7 +14216,8 @@
     "VBD": null,
     "PosRank": 135,
     "OvRank": null,
-    "-9999": "BallKa00"
+    "-9999": "BallKa00",
+    "expectedPoints": 105.9788284302
   },
   {
     "Rk": 475,
@@ -13772,7 +14246,8 @@
     "VBD": null,
     "PosRank": 92,
     "OvRank": null,
-    "-9999": "BlanKe01"
+    "-9999": "BlanKe01",
+    "expectedPoints": 84.502784729
   },
   {
     "Rk": 476,
@@ -13801,7 +14276,8 @@
     "VBD": null,
     "PosRank": 193,
     "OvRank": null,
-    "-9999": "CoopPh00"
+    "-9999": "CoopPh00",
+    "expectedPoints": 128.645401001
   },
   {
     "Rk": 477,
@@ -13830,7 +14306,8 @@
     "VBD": null,
     "PosRank": 94,
     "OvRank": null,
-    "-9999": "DaviTy02"
+    "-9999": "DaviTy02",
+    "expectedPoints": 117.2735595703
   },
   {
     "Rk": 478,
@@ -13859,7 +14336,8 @@
     "VBD": null,
     "PosRank": 187,
     "OvRank": null,
-    "-9999": "DortGr01"
+    "-9999": "DortGr01",
+    "expectedPoints": 141.9830169678
   },
   {
     "Rk": 479,
@@ -13888,7 +14366,8 @@
     "VBD": null,
     "PosRank": 89,
     "OvRank": null,
-    "-9999": "FellDa01"
+    "-9999": "FellDa01",
+    "expectedPoints": 105.5104217529
   },
   {
     "Rk": 480,
@@ -13917,7 +14396,8 @@
     "VBD": null,
     "PosRank": 91,
     "OvRank": null,
-    "-9999": "GrifGa00"
+    "-9999": "GrifGa00",
+    "expectedPoints": 65.7811813354
   },
   {
     "Rk": 481,
@@ -13946,7 +14426,8 @@
     "VBD": null,
     "PosRank": 90,
     "OvRank": null,
-    "-9999": "HessPa00"
+    "-9999": "HessPa00",
+    "expectedPoints": 103.8730697632
   },
   {
     "Rk": 482,
@@ -13975,7 +14456,8 @@
     "VBD": null,
     "PosRank": 136,
     "OvRank": null,
-    "-9999": "JohnJa12"
+    "-9999": "JohnJa12",
+    "expectedPoints": 106.2927780151
   },
   {
     "Rk": 483,
@@ -14004,7 +14486,8 @@
     "VBD": null,
     "PosRank": 194,
     "OvRank": null,
-    "-9999": "MontDJ01"
+    "-9999": "MontDJ01",
+    "expectedPoints": 131.2981567383
   },
   {
     "Rk": 484,
@@ -14033,7 +14516,8 @@
     "VBD": null,
     "PosRank": 186,
     "OvRank": null,
-    "-9999": "OlszGu00"
+    "-9999": "OlszGu00",
+    "expectedPoints": 134.1719512939
   },
   {
     "Rk": 485,
@@ -14062,7 +14546,8 @@
     "VBD": null,
     "PosRank": 188,
     "OvRank": null,
-    "-9999": "SamuCu00"
+    "-9999": "SamuCu00",
+    "expectedPoints": 125.5876617432
   },
   {
     "Rk": 486,
@@ -14091,7 +14576,8 @@
     "VBD": null,
     "PosRank": 189,
     "OvRank": null,
-    "-9999": "SneaWi00"
+    "-9999": "SneaWi00",
+    "expectedPoints": 130.3952941895
   },
   {
     "Rk": 487,
@@ -14120,7 +14606,8 @@
     "VBD": null,
     "PosRank": 185,
     "OvRank": null,
-    "-9999": "TaylTr02"
+    "-9999": "TaylTr02",
+    "expectedPoints": 127.8598098755
   },
   {
     "Rk": 488,
@@ -14149,7 +14636,8 @@
     "VBD": null,
     "PosRank": 95,
     "OvRank": null,
-    "-9999": "WescTr00"
+    "-9999": "WescTr00",
+    "expectedPoints": 81.7238693237
   },
   {
     "Rk": 489,
@@ -14178,7 +14666,8 @@
     "VBD": null,
     "PosRank": 190,
     "OvRank": null,
-    "-9999": "WhitKe00"
+    "-9999": "WhitKe00",
+    "expectedPoints": 129.0610809326
   },
   {
     "Rk": 490,
@@ -14207,7 +14696,8 @@
     "VBD": null,
     "PosRank": 191,
     "OvRank": null,
-    "-9999": "WinfJu00"
+    "-9999": "WinfJu00",
+    "expectedPoints": 133.4230804443
   },
   {
     "Rk": 491,
@@ -14236,7 +14726,8 @@
     "VBD": null,
     "PosRank": 93,
     "OvRank": null,
-    "-9999": "YeboKe00"
+    "-9999": "YeboKe00",
+    "expectedPoints": 123.2516708374
   },
   {
     "Rk": 492,
@@ -14265,7 +14756,8 @@
     "VBD": null,
     "PosRank": 203,
     "OvRank": null,
-    "-9999": "BlakCh00"
+    "-9999": "BlakCh00",
+    "expectedPoints": 132.0912780762
   },
   {
     "Rk": 493,
@@ -14294,7 +14786,8 @@
     "VBD": null,
     "PosRank": 200,
     "OvRank": null,
-    "-9999": "BrowDa04"
+    "-9999": "BrowDa04",
+    "expectedPoints": 129.4203796387
   },
   {
     "Rk": 494,
@@ -14323,7 +14816,8 @@
     "VBD": null,
     "PosRank": 96,
     "OvRank": null,
-    "-9999": "DafnDo00"
+    "-9999": "DafnDo00",
+    "expectedPoints": 110.5985794067
   },
   {
     "Rk": 495,
@@ -14352,7 +14846,8 @@
     "VBD": null,
     "PosRank": 140,
     "OvRank": null,
-    "-9999": "GillRe00"
+    "-9999": "GillRe00",
+    "expectedPoints": 110.4389953613
   },
   {
     "Rk": 496,
@@ -14381,7 +14876,8 @@
     "VBD": null,
     "PosRank": 65,
     "OvRank": null,
-    "-9999": "HennCh01"
+    "-9999": "HennCh01",
+    "expectedPoints": 136.4150848389
   },
   {
     "Rk": 497,
@@ -14410,7 +14906,8 @@
     "VBD": null,
     "PosRank": 199,
     "OvRank": null,
-    "-9999": "HillKJ00"
+    "-9999": "HillKJ00",
+    "expectedPoints": 138.1175842285
   },
   {
     "Rk": 498,
@@ -14439,7 +14936,8 @@
     "VBD": null,
     "PosRank": 138,
     "OvRank": null,
-    "-9999": "HillKy00"
+    "-9999": "HillKy00",
+    "expectedPoints": 117.1608810425
   },
   {
     "Rk": 499,
@@ -14468,7 +14966,8 @@
     "VBD": null,
     "PosRank": 197,
     "OvRank": null,
-    "-9999": "HollCo00"
+    "-9999": "HollCo00",
+    "expectedPoints": 129.4187774658
   },
   {
     "Rk": 500,
@@ -14497,7 +14996,8 @@
     "VBD": null,
     "PosRank": 100,
     "OvRank": null,
-    "-9999": "HudsTo00"
+    "-9999": "HudsTo00",
+    "expectedPoints": 117.2592163086
   },
   {
     "Rk": 501,
@@ -14526,7 +15026,8 @@
     "VBD": null,
     "PosRank": 195,
     "OvRank": null,
-    "-9999": "IrwiTr00"
+    "-9999": "IrwiTr00",
+    "expectedPoints": 129.5397949219
   },
   {
     "Rk": 502,
@@ -14555,7 +15056,8 @@
     "VBD": null,
     "PosRank": 201,
     "OvRank": null,
-    "-9999": "KumeJa00"
+    "-9999": "KumeJa00",
+    "expectedPoints": 130.115020752
   },
   {
     "Rk": 503,
@@ -14584,7 +15086,8 @@
     "VBD": null,
     "PosRank": 141,
     "OvRank": null,
-    "-9999": "NabeGa00"
+    "-9999": "NabeGa00",
+    "expectedPoints": 112.1406097412
   },
   {
     "Rk": 504,
@@ -14613,7 +15116,8 @@
     "VBD": null,
     "PosRank": 98,
     "OvRank": null,
-    "-9999": "ParkCo02"
+    "-9999": "ParkCo02",
+    "expectedPoints": 123.1214370728
   },
   {
     "Rk": 505,
@@ -14642,7 +15146,8 @@
     "VBD": null,
     "PosRank": 137,
     "OvRank": null,
-    "-9999": "PeriLa00"
+    "-9999": "PeriLa00",
+    "expectedPoints": 116.8297653198
   },
   {
     "Rk": 506,
@@ -14671,7 +15176,8 @@
     "VBD": null,
     "PosRank": 99,
     "OvRank": null,
-    "-9999": "SmitKa00"
+    "-9999": "SmitKa00",
+    "expectedPoints": 102.7199859619
   },
   {
     "Rk": 507,
@@ -14700,7 +15206,8 @@
     "VBD": null,
     "PosRank": 101,
     "OvRank": null,
-    "-9999": "SpriJe00"
+    "-9999": "SpriJe00",
+    "expectedPoints": 87.2967758179
   },
   {
     "Rk": 508,
@@ -14729,7 +15236,8 @@
     "VBD": null,
     "PosRank": 202,
     "OvRank": null,
-    "-9999": "StraMi03"
+    "-9999": "StraMi03",
+    "expectedPoints": 137.1812744141
   },
   {
     "Rk": 509,
@@ -14758,7 +15266,8 @@
     "VBD": null,
     "PosRank": 139,
     "OvRank": null,
-    "-9999": "WashDw00"
+    "-9999": "WashDw00",
+    "expectedPoints": 106.0470504761
   },
   {
     "Rk": 510,
@@ -14787,7 +15296,8 @@
     "VBD": null,
     "PosRank": 198,
     "OvRank": null,
-    "-9999": "WhitCo05"
+    "-9999": "WhitCo05",
+    "expectedPoints": 149.4421081543
   },
   {
     "Rk": 511,
@@ -14816,7 +15326,8 @@
     "VBD": null,
     "PosRank": 196,
     "OvRank": null,
-    "-9999": "WillSe00"
+    "-9999": "WillSe00",
+    "expectedPoints": 163.6917572021
   },
   {
     "Rk": 512,
@@ -14845,7 +15356,8 @@
     "VBD": null,
     "PosRank": 97,
     "OvRank": null,
-    "-9999": "ZylsSh00"
+    "-9999": "ZylsSh00",
+    "expectedPoints": 112.4990615845
   },
   {
     "Rk": 513,
@@ -14874,7 +15386,8 @@
     "VBD": null,
     "PosRank": 146,
     "OvRank": null,
-    "-9999": "BawdNi00"
+    "-9999": "BawdNi00",
+    "expectedPoints": 107.832572937
   },
   {
     "Rk": 514,
@@ -14903,7 +15416,8 @@
     "VBD": null,
     "PosRank": 69,
     "OvRank": null,
-    "-9999": "BeatC.00"
+    "-9999": "BeatC.00",
+    "expectedPoints": 138.0729217529
   },
   {
     "Rk": 515,
@@ -14932,7 +15446,8 @@
     "VBD": null,
     "PosRank": 149,
     "OvRank": null,
-    "-9999": "BonnRe00"
+    "-9999": "BonnRe00",
+    "expectedPoints": 107.9354782104
   },
   {
     "Rk": 516,
@@ -14961,7 +15476,8 @@
     "VBD": null,
     "PosRank": 67,
     "OvRank": null,
-    "-9999": "BookIa00"
+    "-9999": "BookIa00",
+    "expectedPoints": 146.3472747803
   },
   {
     "Rk": 517,
@@ -14990,7 +15506,8 @@
     "VBD": null,
     "PosRank": 103,
     "OvRank": null,
-    "-9999": "CartCe00"
+    "-9999": "CartCe00",
+    "expectedPoints": 102.2717514038
   },
   {
     "Rk": 518,
@@ -15019,7 +15536,8 @@
     "VBD": null,
     "PosRank": 207,
     "OvRank": null,
-    "-9999": "DaviDa03"
+    "-9999": "DaviDa03",
+    "expectedPoints": 129.6607513428
   },
   {
     "Rk": 519,
@@ -15048,7 +15566,8 @@
     "VBD": null,
     "PosRank": 148,
     "OvRank": null,
-    "-9999": "EvanDa02"
+    "-9999": "EvanDa02",
+    "expectedPoints": 116.9272842407
   },
   {
     "Rk": 520,
@@ -15077,7 +15596,8 @@
     "VBD": null,
     "PosRank": 68,
     "OvRank": null,
-    "-9999": "GabbBl00"
+    "-9999": "GabbBl00",
+    "expectedPoints": 136.8845977783
   },
   {
     "Rk": 521,
@@ -15106,7 +15626,8 @@
     "VBD": null,
     "PosRank": 210,
     "OvRank": null,
-    "-9999": "JohnTy03"
+    "-9999": "JohnTy03",
+    "expectedPoints": 131.6925048828
   },
   {
     "Rk": 522,
@@ -15135,7 +15656,8 @@
     "VBD": null,
     "PosRank": 204,
     "OvRank": null,
-    "-9999": "KempMa00"
+    "-9999": "KempMa00",
+    "expectedPoints": 129.9695129395
   },
   {
     "Rk": 523,
@@ -15164,7 +15686,8 @@
     "VBD": null,
     "PosRank": 208,
     "OvRank": null,
-    "-9999": "KirkKe00"
+    "-9999": "KirkKe00",
+    "expectedPoints": 129.2389526367
   },
   {
     "Rk": 524,
@@ -15193,7 +15716,8 @@
     "VBD": null,
     "PosRank": 144,
     "OvRank": null,
-    "-9999": "LairPa00"
+    "-9999": "LairPa00",
+    "expectedPoints": 106.0419082642
   },
   {
     "Rk": 525,
@@ -15222,7 +15746,8 @@
     "VBD": null,
     "PosRank": 147,
     "OvRank": null,
-    "-9999": "MostRa00"
+    "-9999": "MostRa00",
+    "expectedPoints": 109.3490753174
   },
   {
     "Rk": 526,
@@ -15251,7 +15776,8 @@
     "VBD": null,
     "PosRank": 205,
     "OvRank": null,
-    "-9999": "NewsDa00"
+    "-9999": "NewsDa00",
+    "expectedPoints": 155.8526611328
   },
   {
     "Rk": 527,
@@ -15280,7 +15806,8 @@
     "VBD": null,
     "PosRank": 143,
     "OvRank": null,
-    "-9999": "PhilSc01"
+    "-9999": "PhilSc01",
+    "expectedPoints": 111.9465713501
   },
   {
     "Rk": 528,
@@ -15309,7 +15836,8 @@
     "VBD": null,
     "PosRank": 145,
     "OvRank": null,
-    "-9999": "PrenAd00"
+    "-9999": "PrenAd00",
+    "expectedPoints": 111.0579986572
   },
   {
     "Rk": 529,
@@ -15338,7 +15866,8 @@
     "VBD": null,
     "PosRank": 151,
     "OvRank": null,
-    "-9999": "RagaTr00"
+    "-9999": "RagaTr00",
+    "expectedPoints": 107.9755172729
   },
   {
     "Rk": 530,
@@ -15367,7 +15896,8 @@
     "VBD": null,
     "PosRank": 142,
     "OvRank": null,
-    "-9999": "SamuJa00"
+    "-9999": "SamuJa00",
+    "expectedPoints": 108.0636367798
   },
   {
     "Rk": 531,
@@ -15396,7 +15926,8 @@
     "VBD": null,
     "PosRank": 209,
     "OvRank": null,
-    "-9999": "SillDa01"
+    "-9999": "SillDa01",
+    "expectedPoints": 130.008605957
   },
   {
     "Rk": 532,
@@ -15425,7 +15956,8 @@
     "VBD": null,
     "PosRank": 102,
     "OvRank": null,
-    "-9999": "StolJa00"
+    "-9999": "StolJa00",
+    "expectedPoints": 102.5610733032
   },
   {
     "Rk": 533,
@@ -15454,7 +15986,8 @@
     "VBD": null,
     "PosRank": 66,
     "OvRank": null,
-    "-9999": "StreCh00"
+    "-9999": "StreCh00",
+    "expectedPoints": 141.398147583
   },
   {
     "Rk": 534,
@@ -15483,7 +16016,8 @@
     "VBD": null,
     "PosRank": 206,
     "OvRank": null,
-    "-9999": "WallTy00"
+    "-9999": "WallTy00",
+    "expectedPoints": 155.8526611328
   },
   {
     "Rk": 535,
@@ -15512,7 +16046,8 @@
     "VBD": null,
     "PosRank": 150,
     "OvRank": null,
-    "-9999": "WattDe00"
+    "-9999": "WattDe00",
+    "expectedPoints": 108.7709960938
   },
   {
     "Rk": 536,
@@ -15541,7 +16076,8 @@
     "VBD": null,
     "PosRank": 104,
     "OvRank": null,
-    "-9999": "WilcMi01"
+    "-9999": "WilcMi01",
+    "expectedPoints": 106.9423446655
   },
   {
     "Rk": 537,
@@ -15570,7 +16106,8 @@
     "VBD": null,
     "PosRank": 153,
     "OvRank": null,
-    "-9999": "AkerCa00"
+    "-9999": "AkerCa00",
+    "expectedPoints": 123.1385879517
   },
   {
     "Rk": 538,
@@ -15599,7 +16136,8 @@
     "VBD": null,
     "PosRank": 217,
     "OvRank": null,
-    "-9999": "BlacTa00"
+    "-9999": "BlacTa00",
+    "expectedPoints": 145.5299377441
   },
   {
     "Rk": 539,
@@ -15628,7 +16166,8 @@
     "VBD": null,
     "PosRank": 72,
     "OvRank": null,
-    "-9999": "BlouDa00"
+    "-9999": "BlouDa00",
+    "expectedPoints": 139.045211792
   },
   {
     "Rk": 540,
@@ -15657,7 +16196,8 @@
     "VBD": null,
     "PosRank": 221,
     "OvRank": null,
-    "-9999": "BoykMi00"
+    "-9999": "BoykMi00",
+    "expectedPoints": 131.7743682861
   },
   {
     "Rk": 541,
@@ -15686,7 +16226,8 @@
     "VBD": null,
     "PosRank": 158,
     "OvRank": null,
-    "-9999": "BrigGa00"
+    "-9999": "BrigGa00",
+    "expectedPoints": 120.9562530518
   },
   {
     "Rk": 542,
@@ -15715,7 +16256,8 @@
     "VBD": null,
     "PosRank": 105,
     "OvRank": null,
-    "-9999": "CarrDe00"
+    "-9999": "CarrDe00",
+    "expectedPoints": 89.1632766724
   },
   {
     "Rk": 543,
@@ -15744,7 +16286,8 @@
     "VBD": null,
     "PosRank": 222,
     "OvRank": null,
-    "-9999": "CoutKe00"
+    "-9999": "CoutKe00",
+    "expectedPoints": 136.3795776367
   },
   {
     "Rk": 544,
@@ -15773,7 +16316,8 @@
     "VBD": null,
     "PosRank": 160,
     "OvRank": null,
-    "-9999": "CrocDa01"
+    "-9999": "CrocDa01",
+    "expectedPoints": 109.9127502441
   },
   {
     "Rk": 545,
@@ -15802,7 +16346,8 @@
     "VBD": null,
     "PosRank": 211,
     "OvRank": null,
-    "-9999": "DarbFr00"
+    "-9999": "DarbFr00",
+    "expectedPoints": 136.1811981201
   },
   {
     "Rk": 546,
@@ -15831,7 +16376,8 @@
     "VBD": null,
     "PosRank": 70,
     "OvRank": null,
-    "-9999": "EhliSa00"
+    "-9999": "EhliSa00",
+    "expectedPoints": 149.78074646
   },
   {
     "Rk": 547,
@@ -15860,7 +16406,8 @@
     "VBD": null,
     "PosRank": 71,
     "OvRank": null,
-    "-9999": "FitzRy00"
+    "-9999": "FitzRy00",
+    "expectedPoints": 131.8295898438
   },
   {
     "Rk": 548,
@@ -15889,7 +16436,8 @@
     "VBD": null,
     "PosRank": 161,
     "OvRank": null,
-    "-9999": "FunkJa00"
+    "-9999": "FunkJa00",
+    "expectedPoints": 114.9586486816
   },
   {
     "Rk": 549,
@@ -15918,7 +16466,8 @@
     "VBD": null,
     "PosRank": 218,
     "OvRank": null,
-    "-9999": "HallMa02"
+    "-9999": "HallMa02",
+    "expectedPoints": 127.7656326294
   },
   {
     "Rk": 550,
@@ -15947,7 +16496,8 @@
     "VBD": null,
     "PosRank": 108,
     "OvRank": null,
-    "-9999": "HarrDe03"
+    "-9999": "HarrDe03",
+    "expectedPoints": 82.9271774292
   },
   {
     "Rk": 551,
@@ -15976,7 +16526,8 @@
     "VBD": null,
     "PosRank": 109,
     "OvRank": null,
-    "-9999": "HopkBr01"
+    "-9999": "HopkBr01",
+    "expectedPoints": 115.7761230469
   },
   {
     "Rk": 552,
@@ -16005,7 +16556,8 @@
     "VBD": null,
     "PosRank": 156,
     "OvRank": null,
-    "-9999": "HoweGr00"
+    "-9999": "HoweGr00",
+    "expectedPoints": 107.3823547363
   },
   {
     "Rk": 553,
@@ -16034,7 +16586,8 @@
     "VBD": null,
     "PosRank": 214,
     "OvRank": null,
-    "-9999": "IsabAn00"
+    "-9999": "IsabAn00",
+    "expectedPoints": 131.4735870361
   },
   {
     "Rk": 554,
@@ -16063,7 +16616,8 @@
     "VBD": null,
     "PosRank": 154,
     "OvRank": null,
-    "-9999": "KellJo00"
+    "-9999": "KellJo00",
+    "expectedPoints": 107.6479034424
   },
   {
     "Rk": 555,
@@ -16092,7 +16646,8 @@
     "VBD": null,
     "PosRank": 220,
     "OvRank": null,
-    "-9999": "LewiTo00"
+    "-9999": "LewiTo00",
+    "expectedPoints": 129.2068481445
   },
   {
     "Rk": 556,
@@ -16121,7 +16676,8 @@
     "VBD": null,
     "PosRank": 111,
     "OvRank": null,
-    "-9999": "LongHu00"
+    "-9999": "LongHu00",
+    "expectedPoints": 113.3705368042
   },
   {
     "Rk": 557,
@@ -16150,7 +16706,8 @@
     "VBD": null,
     "PosRank": 152,
     "OvRank": null,
-    "-9999": "McFaAn00"
+    "-9999": "McFaAn00",
+    "expectedPoints": 121.2634506226
   },
   {
     "Rk": 558,
@@ -16179,7 +16736,8 @@
     "VBD": null,
     "PosRank": 215,
     "OvRank": null,
-    "-9999": "MerrKi00"
+    "-9999": "MerrKi00",
+    "expectedPoints": 136.2032470703
   },
   {
     "Rk": 559,
@@ -16208,7 +16766,8 @@
     "VBD": null,
     "PosRank": 219,
     "OvRank": null,
-    "-9999": "MickJa01"
+    "-9999": "MickJa01",
+    "expectedPoints": 128.6407775879
   },
   {
     "Rk": 560,
@@ -16237,7 +16796,8 @@
     "VBD": null,
     "PosRank": 212,
     "OvRank": null,
-    "-9999": "MorgSt02"
+    "-9999": "MorgSt02",
+    "expectedPoints": 128.6333618164
   },
   {
     "Rk": 561,
@@ -16266,7 +16826,8 @@
     "VBD": null,
     "PosRank": 110,
     "OvRank": null,
-    "-9999": "MundJo00"
+    "-9999": "MundJo00",
+    "expectedPoints": 100.5607070923
   },
   {
     "Rk": 562,
@@ -16295,7 +16856,8 @@
     "VBD": null,
     "PosRank": 159,
     "OvRank": null,
-    "-9999": "NallRy00"
+    "-9999": "NallRy00",
+    "expectedPoints": 105.1890335083
   },
   {
     "Rk": 563,
@@ -16324,7 +16886,8 @@
     "VBD": null,
     "PosRank": 155,
     "OvRank": null,
-    "-9999": "PatrJa01"
+    "-9999": "PatrJa01",
+    "expectedPoints": 110.265411377
   },
   {
     "Rk": 564,
@@ -16353,7 +16916,8 @@
     "VBD": null,
     "PosRank": 112,
     "OvRank": null,
-    "-9999": "RadeKe00"
+    "-9999": "RadeKe00",
+    "expectedPoints": 101.4406509399
   },
   {
     "Rk": 565,
@@ -16382,7 +16946,8 @@
     "VBD": null,
     "PosRank": 107,
     "OvRank": null,
-    "-9999": "RodgRi00"
+    "-9999": "RodgRi00",
+    "expectedPoints": 90.8641891479
   },
   {
     "Rk": 566,
@@ -16411,7 +16976,8 @@
     "VBD": null,
     "PosRank": 157,
     "OvRank": null,
-    "-9999": "SargMe00"
+    "-9999": "SargMe00",
+    "expectedPoints": 110.2042007446
   },
   {
     "Rk": 567,
@@ -16440,7 +17006,8 @@
     "VBD": null,
     "PosRank": 216,
     "OvRank": null,
-    "-9999": "SaunCJ00"
+    "-9999": "SaunCJ00",
+    "expectedPoints": 131.9073486328
   },
   {
     "Rk": 568,
@@ -16469,7 +17036,8 @@
     "VBD": null,
     "PosRank": 106,
     "OvRank": null,
-    "-9999": "StocLu00"
+    "-9999": "StocLu00",
+    "expectedPoints": 91.0700149536
   },
   {
     "Rk": 569,
@@ -16498,7 +17066,8 @@
     "VBD": null,
     "PosRank": 114,
     "OvRank": null,
-    "-9999": "TomlEr01"
+    "-9999": "TomlEr01",
+    "expectedPoints": 79.4597091675
   },
   {
     "Rk": 570,
@@ -16527,7 +17096,8 @@
     "VBD": null,
     "PosRank": 213,
     "OvRank": null,
-    "-9999": "WillTy00"
+    "-9999": "WillTy00",
+    "expectedPoints": 129.9946746826
   },
   {
     "Rk": 571,
@@ -16556,7 +17126,8 @@
     "VBD": null,
     "PosRank": 223,
     "OvRank": null,
-    "-9999": "WinsEa00"
+    "-9999": "WinsEa00",
+    "expectedPoints": 130.1764221191
   },
   {
     "Rk": 572,
@@ -16585,7 +17156,8 @@
     "VBD": null,
     "PosRank": 113,
     "OvRank": null,
-    "-9999": "WolfEt00"
+    "-9999": "WolfEt00",
+    "expectedPoints": 101.4406509399
   },
   {
     "Rk": 573,
@@ -16614,7 +17186,8 @@
     "VBD": null,
     "PosRank": 165,
     "OvRank": null,
-    "-9999": "AdamJo03"
+    "-9999": "AdamJo03",
+    "expectedPoints": 0
   },
   {
     "Rk": 574,
@@ -16643,7 +17216,8 @@
     "VBD": null,
     "PosRank": 225,
     "OvRank": null,
-    "-9999": "AdamRo01"
+    "-9999": "AdamRo01",
+    "expectedPoints": 0
   },
   {
     "Rk": 575,
@@ -16672,7 +17246,8 @@
     "VBD": null,
     "PosRank": 226,
     "OvRank": null,
-    "-9999": "AlliGe01"
+    "-9999": "AlliGe01",
+    "expectedPoints": 0
   },
   {
     "Rk": 576,
@@ -16701,7 +17276,8 @@
     "VBD": null,
     "PosRank": 116,
     "OvRank": null,
-    "-9999": "AsiaDe00"
+    "-9999": "AsiaDe00",
+    "expectedPoints": 0
   },
   {
     "Rk": 577,
@@ -16730,7 +17306,8 @@
     "VBD": null,
     "PosRank": 227,
     "OvRank": null,
-    "-9999": "AtemMa00"
+    "-9999": "AtemMa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 578,
@@ -16759,7 +17336,8 @@
     "VBD": null,
     "PosRank": 228,
     "OvRank": null,
-    "-9999": "AtweTu00"
+    "-9999": "AtweTu00",
+    "expectedPoints": 0
   },
   {
     "Rk": 579,
@@ -16788,7 +17366,8 @@
     "VBD": null,
     "PosRank": 257,
     "OvRank": null,
-    "-9999": "BachAl00"
+    "-9999": "BachAl00",
+    "expectedPoints": 129.6959533691
   },
   {
     "Rk": 580,
@@ -16817,7 +17396,8 @@
     "VBD": null,
     "PosRank": 166,
     "OvRank": null,
-    "-9999": "BargJa00"
+    "-9999": "BargJa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 581,
@@ -16846,7 +17426,8 @@
     "VBD": null,
     "PosRank": 167,
     "OvRank": null,
-    "-9999": "BarnKe00"
+    "-9999": "BarnKe00",
+    "expectedPoints": 118.9437942505
   },
   {
     "Rk": 582,
@@ -16875,7 +17456,8 @@
     "VBD": null,
     "PosRank": 117,
     "OvRank": null,
-    "-9999": "BeckAn01"
+    "-9999": "BeckAn01",
+    "expectedPoints": 0
   },
   {
     "Rk": 583,
@@ -16904,7 +17486,8 @@
     "VBD": null,
     "PosRank": 162,
     "OvRank": null,
-    "-9999": "BellNi01"
+    "-9999": "BellNi01",
+    "expectedPoints": 119.0162963867
   },
   {
     "Rk": 584,
@@ -16933,7 +17516,8 @@
     "VBD": null,
     "PosRank": 78,
     "OvRank": null,
-    "-9999": "BenkKu01"
+    "-9999": "BenkKu01",
+    "expectedPoints": 140.9789581299
   },
   {
     "Rk": 585,
@@ -16962,7 +17546,8 @@
     "VBD": null,
     "PosRank": 118,
     "OvRank": null,
-    "-9999": "BerrRa01"
+    "-9999": "BerrRa01",
+    "expectedPoints": 0
   },
   {
     "Rk": 586,
@@ -16991,7 +17576,8 @@
     "VBD": null,
     "PosRank": 115,
     "OvRank": null,
-    "-9999": "BoylNi00"
+    "-9999": "BoylNi00",
+    "expectedPoints": 85.0396881104
   },
   {
     "Rk": 587,
@@ -17020,7 +17606,8 @@
     "VBD": null,
     "PosRank": 168,
     "OvRank": null,
-    "-9999": "BradDa00"
+    "-9999": "BradDa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 588,
@@ -17049,7 +17636,8 @@
     "VBD": null,
     "PosRank": 229,
     "OvRank": null,
-    "-9999": "BrowJo02"
+    "-9999": "BrowJo02",
+    "expectedPoints": 0
   },
   {
     "Rk": 589,
@@ -17078,7 +17666,8 @@
     "VBD": null,
     "PosRank": 230,
     "OvRank": null,
-    "-9999": "BurtDe00"
+    "-9999": "BurtDe00",
+    "expectedPoints": 0
   },
   {
     "Rk": 590,
@@ -17107,7 +17696,8 @@
     "VBD": null,
     "PosRank": 231,
     "OvRank": null,
-    "-9999": "CageLa01"
+    "-9999": "CageLa01",
+    "expectedPoints": 0
   },
   {
     "Rk": 591,
@@ -17136,7 +17726,8 @@
     "VBD": null,
     "PosRank": 119,
     "OvRank": null,
-    "-9999": "CarlSt00"
+    "-9999": "CarlSt00",
+    "expectedPoints": 0
   },
   {
     "Rk": 592,
@@ -17165,7 +17756,8 @@
     "VBD": null,
     "PosRank": 232,
     "OvRank": null,
-    "-9999": "ChisDa00"
+    "-9999": "ChisDa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 593,
@@ -17194,7 +17786,8 @@
     "VBD": null,
     "PosRank": 233,
     "OvRank": null,
-    "-9999": "ClevTy00"
+    "-9999": "ClevTy00",
+    "expectedPoints": 0
   },
   {
     "Rk": 594,
@@ -17223,7 +17816,8 @@
     "VBD": null,
     "PosRank": 234,
     "OvRank": null,
-    "-9999": "ColeMa03"
+    "-9999": "ColeMa03",
+    "expectedPoints": 0
   },
   {
     "Rk": 595,
@@ -17252,7 +17846,8 @@
     "VBD": null,
     "PosRank": 164,
     "OvRank": null,
-    "-9999": "CottNa00"
+    "-9999": "CottNa00",
+    "expectedPoints": 107.3221664429
   },
   {
     "Rk": 596,
@@ -17281,7 +17876,8 @@
     "VBD": null,
     "PosRank": 235,
     "OvRank": null,
-    "-9999": "CoulIs00"
+    "-9999": "CoulIs00",
+    "expectedPoints": 0
   },
   {
     "Rk": 597,
@@ -17310,7 +17906,8 @@
     "VBD": null,
     "PosRank": 236,
     "OvRank": null,
-    "-9999": "CracRi00"
+    "-9999": "CracRi00",
+    "expectedPoints": 0
   },
   {
     "Rk": 598,
@@ -17339,7 +17936,8 @@
     "VBD": null,
     "PosRank": 79,
     "OvRank": null,
-    "-9999": "DaniCh00"
+    "-9999": "DaniCh00",
+    "expectedPoints": 134.2060852051
   },
   {
     "Rk": 599,
@@ -17368,7 +17966,8 @@
     "VBD": null,
     "PosRank": 120,
     "OvRank": null,
-    "-9999": "DaniDa02"
+    "-9999": "DaniDa02",
+    "expectedPoints": 84.878692627
   },
   {
     "Rk": 600,
@@ -17397,7 +17996,8 @@
     "VBD": null,
     "PosRank": 121,
     "OvRank": null,
-    "-9999": "DaviCo04"
+    "-9999": "DaviCo04",
+    "expectedPoints": 0
   },
   {
     "Rk": 601,
@@ -17426,7 +18026,8 @@
     "VBD": null,
     "PosRank": 122,
     "OvRank": null,
-    "-9999": "DillBr00"
+    "-9999": "DillBr00",
+    "expectedPoints": 0
   },
   {
     "Rk": 602,
@@ -17455,7 +18056,8 @@
     "VBD": null,
     "PosRank": 75,
     "OvRank": null,
-    "-9999": "DrisJe00"
+    "-9999": "DrisJe00",
+    "expectedPoints": 0
   },
   {
     "Rk": 603,
@@ -17484,7 +18086,8 @@
     "VBD": null,
     "PosRank": 169,
     "OvRank": null,
-    "-9999": "EdmuTr00"
+    "-9999": "EdmuTr00",
+    "expectedPoints": 0
   },
   {
     "Rk": 604,
@@ -17513,7 +18116,8 @@
     "VBD": null,
     "PosRank": 123,
     "OvRank": null,
-    "-9999": "ElleBe00"
+    "-9999": "ElleBe00",
+    "expectedPoints": 0
   },
   {
     "Rk": 605,
@@ -17542,7 +18146,8 @@
     "VBD": null,
     "PosRank": 237,
     "OvRank": null,
-    "-9999": "FehoSi00"
+    "-9999": "FehoSi00",
+    "expectedPoints": 0
   },
   {
     "Rk": 606,
@@ -17571,7 +18176,8 @@
     "VBD": null,
     "PosRank": 224,
     "OvRank": null,
-    "-9999": "FfreMa00"
+    "-9999": "FfreMa00",
+    "expectedPoints": 141.8066253662
   },
   {
     "Rk": 607,
@@ -17600,7 +18206,8 @@
     "VBD": null,
     "PosRank": 238,
     "OvRank": null,
-    "-9999": "FounDa00"
+    "-9999": "FounDa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 608,
@@ -17629,7 +18236,8 @@
     "VBD": null,
     "PosRank": 239,
     "OvRank": null,
-    "-9999": "FulgTr00"
+    "-9999": "FulgTr00",
+    "expectedPoints": 0
   },
   {
     "Rk": 609,
@@ -17658,7 +18266,8 @@
     "VBD": null,
     "PosRank": 240,
     "OvRank": null,
-    "-9999": "GandAn00"
+    "-9999": "GandAn00",
+    "expectedPoints": 0
   },
   {
     "Rk": 610,
@@ -17687,7 +18296,8 @@
     "VBD": null,
     "PosRank": 170,
     "OvRank": null,
-    "-9999": "GillCu00"
+    "-9999": "GillCu00",
+    "expectedPoints": 0
   },
   {
     "Rk": 611,
@@ -17716,7 +18326,8 @@
     "VBD": null,
     "PosRank": 241,
     "OvRank": null,
-    "-9999": "HardJu01"
+    "-9999": "HardJu01",
+    "expectedPoints": 0
   },
   {
     "Rk": 612,
@@ -17745,7 +18356,8 @@
     "VBD": null,
     "PosRank": 124,
     "OvRank": null,
-    "-9999": "HarrCl20"
+    "-9999": "HarrCl20",
+    "expectedPoints": 0
   },
   {
     "Rk": 613,
@@ -17774,7 +18386,8 @@
     "VBD": null,
     "PosRank": 242,
     "OvRank": null,
-    "-9999": "HarrDe09"
+    "-9999": "HarrDe09",
+    "expectedPoints": 0
   },
   {
     "Rk": 614,
@@ -17803,7 +18416,8 @@
     "VBD": null,
     "PosRank": 125,
     "OvRank": null,
-    "-9999": "HarrJa03"
+    "-9999": "HarrJa03",
+    "expectedPoints": 0
   },
   {
     "Rk": 615,
@@ -17832,7 +18446,8 @@
     "VBD": null,
     "PosRank": 144,
     "OvRank": null,
-    "-9999": "HelmDa01"
+    "-9999": "HelmDa01",
+    "expectedPoints": 100.9068832397
   },
   {
     "Rk": 616,
@@ -17861,7 +18476,8 @@
     "VBD": null,
     "PosRank": 126,
     "OvRank": null,
-    "-9999": "HemiTe00"
+    "-9999": "HemiTe00",
+    "expectedPoints": 0
   },
   {
     "Rk": 617,
@@ -17890,7 +18506,8 @@
     "VBD": null,
     "PosRank": 244,
     "OvRank": null,
-    "-9999": "HighJo00"
+    "-9999": "HighJo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 618,
@@ -17919,7 +18536,8 @@
     "VBD": null,
     "PosRank": 171,
     "OvRank": null,
-    "-9999": "HillBr02"
+    "-9999": "HillBr02",
+    "expectedPoints": 0
   },
   {
     "Rk": 619,
@@ -17948,7 +18566,8 @@
     "VBD": null,
     "PosRank": 76,
     "OvRank": null,
-    "-9999": "HogaKe00"
+    "-9999": "HogaKe00",
+    "expectedPoints": 0
   },
   {
     "Rk": 620,
@@ -17977,7 +18596,8 @@
     "VBD": null,
     "PosRank": 127,
     "OvRank": null,
-    "-9999": "HoltJ.01"
+    "-9999": "HoltJ.01",
+    "expectedPoints": 0
   },
   {
     "Rk": 621,
@@ -18006,7 +18626,8 @@
     "VBD": null,
     "PosRank": 128,
     "OvRank": null,
-    "-9999": "HudsTa00"
+    "-9999": "HudsTa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 622,
@@ -18035,7 +18656,8 @@
     "VBD": null,
     "PosRank": 129,
     "OvRank": null,
-    "-9999": "IzzoRy00"
+    "-9999": "IzzoRy00",
+    "expectedPoints": 0
   },
   {
     "Rk": 623,
@@ -18064,7 +18686,8 @@
     "VBD": null,
     "PosRank": 172,
     "OvRank": null,
-    "-9999": "JohnKe06"
+    "-9999": "JohnKe06",
+    "expectedPoints": 0
   },
   {
     "Rk": 624,
@@ -18093,7 +18716,8 @@
     "VBD": null,
     "PosRank": 262,
     "OvRank": null,
-    "-9999": "JohnKe07"
+    "-9999": "JohnKe07",
+    "expectedPoints": 0
   },
   {
     "Rk": 625,
@@ -18122,7 +18746,8 @@
     "VBD": null,
     "PosRank": 173,
     "OvRank": null,
-    "-9999": "JoneTa00"
+    "-9999": "JoneTa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 626,
@@ -18151,7 +18776,8 @@
     "VBD": null,
     "PosRank": 130,
     "OvRank": null,
-    "-9999": "LaCoMa00"
+    "-9999": "LaCoMa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 627,
@@ -18180,7 +18806,8 @@
     "VBD": null,
     "PosRank": 131,
     "OvRank": null,
-    "-9999": "MabrTy00"
+    "-9999": "MabrTy00",
+    "expectedPoints": 0
   },
   {
     "Rk": 628,
@@ -18209,7 +18836,8 @@
     "VBD": null,
     "PosRank": 245,
     "OvRank": null,
-    "-9999": "MattJo00"
+    "-9999": "MattJo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 629,
@@ -18238,7 +18866,8 @@
     "VBD": null,
     "PosRank": 177,
     "OvRank": null,
-    "-9999": "McCrNa00"
+    "-9999": "McCrNa00",
+    "expectedPoints": 119.7197723389
   },
   {
     "Rk": 630,
@@ -18267,7 +18896,8 @@
     "VBD": null,
     "PosRank": 246,
     "OvRank": null,
-    "-9999": "McElCo00"
+    "-9999": "McElCo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 631,
@@ -18296,7 +18926,8 @@
     "VBD": null,
     "PosRank": 73,
     "OvRank": null,
-    "-9999": "MondKe00"
+    "-9999": "MondKe00",
+    "expectedPoints": 152.1543579102
   },
   {
     "Rk": 632,
@@ -18325,7 +18956,8 @@
     "VBD": null,
     "PosRank": 247,
     "OvRank": null,
-    "-9999": "MoorDa03"
+    "-9999": "MoorDa03",
+    "expectedPoints": 0
   },
   {
     "Rk": 633,
@@ -18354,7 +18986,8 @@
     "VBD": null,
     "PosRank": 248,
     "OvRank": null,
-    "-9999": "NatsJo00"
+    "-9999": "NatsJo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 634,
@@ -18383,7 +19016,8 @@
     "VBD": null,
     "PosRank": 132,
     "OvRank": null,
-    "-9999": "OrzeMa00"
+    "-9999": "OrzeMa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 635,
@@ -18412,7 +19046,8 @@
     "VBD": null,
     "PosRank": 163,
     "OvRank": null,
-    "-9999": "OzigDe01"
+    "-9999": "OzigDe01",
+    "expectedPoints": 107.4020690918
   },
   {
     "Rk": 636,
@@ -18441,7 +19076,8 @@
     "VBD": null,
     "PosRank": 74,
     "OvRank": null,
-    "-9999": "PeteNa00"
+    "-9999": "PeteNa00",
+    "expectedPoints": 139.3417205811
   },
   {
     "Rk": 637,
@@ -18470,7 +19106,8 @@
     "VBD": null,
     "PosRank": 174,
     "OvRank": null,
-    "-9999": "PierAr00"
+    "-9999": "PierAr00",
+    "expectedPoints": 0
   },
   {
     "Rk": 638,
@@ -18499,7 +19136,8 @@
     "VBD": null,
     "PosRank": 133,
     "OvRank": null,
-    "-9999": "RiccGi00"
+    "-9999": "RiccGi00",
+    "expectedPoints": 0
   },
   {
     "Rk": 639,
@@ -18528,7 +19166,8 @@
     "VBD": null,
     "PosRank": 77,
     "OvRank": null,
-    "-9999": "RypiBr00"
+    "-9999": "RypiBr00",
+    "expectedPoints": 142.7313079834
   },
   {
     "Rk": 640,
@@ -18557,7 +19196,8 @@
     "VBD": null,
     "PosRank": 175,
     "OvRank": null,
-    "-9999": "ScarJo00"
+    "-9999": "ScarJo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 641,
@@ -18586,7 +19226,8 @@
     "VBD": null,
     "PosRank": 134,
     "OvRank": null,
-    "-9999": "SchrMa00"
+    "-9999": "SchrMa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 642,
@@ -18615,7 +19256,8 @@
     "VBD": null,
     "PosRank": 249,
     "OvRank": null,
-    "-9999": "SimsSt00"
+    "-9999": "SimsSt00",
+    "expectedPoints": 0
   },
   {
     "Rk": 643,
@@ -18644,7 +19286,8 @@
     "VBD": null,
     "PosRank": 250,
     "OvRank": null,
-    "-9999": "SlatMa00"
+    "-9999": "SlatMa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 644,
@@ -18673,7 +19316,8 @@
     "VBD": null,
     "PosRank": 251,
     "OvRank": null,
-    "-9999": "SmitDe04"
+    "-9999": "SmitDe04",
+    "expectedPoints": 0
   },
   {
     "Rk": 645,
@@ -18702,7 +19346,8 @@
     "VBD": null,
     "PosRank": 252,
     "OvRank": null,
-    "-9999": "SmitVy00"
+    "-9999": "SmitVy00",
+    "expectedPoints": 0
   },
   {
     "Rk": 646,
@@ -18731,7 +19376,8 @@
     "VBD": null,
     "PosRank": 135,
     "OvRank": null,
-    "-9999": "SoldNa00"
+    "-9999": "SoldNa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 647,
@@ -18760,7 +19406,8 @@
     "VBD": null,
     "PosRank": 136,
     "OvRank": null,
-    "-9999": "SullSt00"
+    "-9999": "SullSt00",
+    "expectedPoints": 0
   },
   {
     "Rk": 648,
@@ -18789,7 +19436,8 @@
     "VBD": null,
     "PosRank": 137,
     "OvRank": null,
-    "-9999": "SwooTy00"
+    "-9999": "SwooTy00",
+    "expectedPoints": 0
   },
   {
     "Rk": 649,
@@ -18818,7 +19466,8 @@
     "VBD": null,
     "PosRank": 138,
     "OvRank": null,
-    "-9999": "ThomCo03"
+    "-9999": "ThomCo03",
+    "expectedPoints": 0
   },
   {
     "Rk": 650,
@@ -18847,7 +19496,8 @@
     "VBD": null,
     "PosRank": 253,
     "OvRank": null,
-    "-9999": "ThomCo04"
+    "-9999": "ThomCo04",
+    "expectedPoints": 0
   },
   {
     "Rk": 651,
@@ -18876,7 +19526,8 @@
     "VBD": null,
     "PosRank": 139,
     "OvRank": null,
-    "-9999": "TogiNo00"
+    "-9999": "TogiNo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 652,
@@ -18905,7 +19556,8 @@
     "VBD": null,
     "PosRank": 140,
     "OvRank": null,
-    "-9999": "TravRo00"
+    "-9999": "TravRo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 653,
@@ -18934,7 +19586,8 @@
     "VBD": null,
     "PosRank": 254,
     "OvRank": null,
-    "-9999": "VeasJo00"
+    "-9999": "VeasJo00",
+    "expectedPoints": 0
   },
   {
     "Rk": 654,
@@ -18963,7 +19616,8 @@
     "VBD": null,
     "PosRank": 141,
     "OvRank": null,
-    "-9999": "WarrKa00"
+    "-9999": "WarrKa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 655,
@@ -18992,7 +19646,8 @@
     "VBD": null,
     "PosRank": 255,
     "OvRank": null,
-    "-9999": "WatsJu01"
+    "-9999": "WatsJu01",
+    "expectedPoints": 0
   },
   {
     "Rk": 656,
@@ -19021,7 +19676,8 @@
     "VBD": null,
     "PosRank": 80,
     "OvRank": null,
-    "-9999": "WebbDa00"
+    "-9999": "WebbDa00",
+    "expectedPoints": 140.9297637939
   },
   {
     "Rk": 657,
@@ -19050,7 +19706,8 @@
     "VBD": null,
     "PosRank": 256,
     "OvRank": null,
-    "-9999": "WebsNs00"
+    "-9999": "WebsNs00",
+    "expectedPoints": 0
   },
   {
     "Rk": 658,
@@ -19079,7 +19736,8 @@
     "VBD": null,
     "PosRank": 142,
     "OvRank": null,
-    "-9999": "WellDa00"
+    "-9999": "WellDa00",
+    "expectedPoints": 0
   },
   {
     "Rk": 659,
@@ -19108,7 +19766,8 @@
     "VBD": null,
     "PosRank": 176,
     "OvRank": null,
-    "-9999": "WilkJo01"
+    "-9999": "WilkJo01",
+    "expectedPoints": 0
   },
   {
     "Rk": 660,
@@ -19137,7 +19796,8 @@
     "VBD": null,
     "PosRank": 143,
     "OvRank": null,
-    "-9999": "YeldDe00"
+    "-9999": "YeldDe00",
+    "expectedPoints": 104.697517395
   },
   {
     "Rk": 661,
@@ -19166,7 +19826,8 @@
     "VBD": null,
     "PosRank": 178,
     "OvRank": null,
-    "-9999": "BlasKh00"
+    "-9999": "BlasKh00",
+    "expectedPoints": 102.327041626
   },
   {
     "Rk": 662,
@@ -19195,7 +19856,8 @@
     "VBD": null,
     "PosRank": 82,
     "OvRank": null,
-    "-9999": "EasoJa00"
+    "-9999": "EasoJa00",
+    "expectedPoints": 144.0837860107
   },
   {
     "Rk": 663,
@@ -19224,7 +19886,8 @@
     "VBD": null,
     "PosRank": 83,
     "OvRank": null,
-    "-9999": "FranFe00"
+    "-9999": "FranFe00",
+    "expectedPoints": 144.3146057129
   },
   {
     "Rk": 664,
@@ -19253,7 +19916,8 @@
     "VBD": null,
     "PosRank": 259,
     "OvRank": null,
-    "-9999": "McMaRa00"
+    "-9999": "McMaRa00",
+    "expectedPoints": 155.8914794922
   },
   {
     "Rk": 665,
@@ -19282,7 +19946,8 @@
     "VBD": null,
     "PosRank": 258,
     "OvRank": null,
-    "-9999": "TaylMa01"
+    "-9999": "TaylMa01",
+    "expectedPoints": 132.6375274658
   },
   {
     "Rk": 666,
@@ -19311,7 +19976,8 @@
     "VBD": null,
     "PosRank": 81,
     "OvRank": null,
-    "-9999": "WoodLo00"
+    "-9999": "WoodLo00",
+    "expectedPoints": 142.1961517334
   },
   {
     "Rk": 667,
@@ -19340,7 +20006,8 @@
     "VBD": null,
     "PosRank": 260,
     "OvRank": null,
-    "-9999": "BenjTr00"
+    "-9999": "BenjTr00",
+    "expectedPoints": 0
   },
   {
     "Rk": 668,
@@ -19369,7 +20036,8 @@
     "VBD": null,
     "PosRank": 179,
     "OvRank": null,
-    "-9999": "CannTr00"
+    "-9999": "CannTr00",
+    "expectedPoints": 107.8674697876
   },
   {
     "Rk": 669,
@@ -19398,7 +20066,8 @@
     "VBD": null,
     "PosRank": 84,
     "OvRank": null,
-    "-9999": "WolfJo00"
+    "-9999": "WolfJo00",
+    "expectedPoints": 138.2178039551
   },
   {
     "Rk": 670,
@@ -19427,7 +20096,8 @@
     "VBD": null,
     "PosRank": 85,
     "OvRank": null,
-    "-9999": "RoseJo01"
+    "-9999": "RoseJo01",
+    "expectedPoints": 142.5091400146
   },
   {
     "Rk": 671,
@@ -19456,7 +20126,8 @@
     "VBD": null,
     "PosRank": 261,
     "OvRank": null,
-    "-9999": "SpenDi00"
+    "-9999": "SpenDi00",
+    "expectedPoints": 122.9754257202
   },
   {
     "Rk": 1,
@@ -19490,7 +20161,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 2,
@@ -19524,7 +20196,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 3,
@@ -19558,7 +20231,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 4,
@@ -19592,7 +20266,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 5,
@@ -19626,7 +20301,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 6,
@@ -19660,7 +20336,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 7,
@@ -19694,7 +20371,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 8,
@@ -19728,7 +20406,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 9,
@@ -19762,7 +20441,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 10,
@@ -19796,7 +20476,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 11,
@@ -19830,7 +20511,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 12,
@@ -19864,7 +20546,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 13,
@@ -19898,7 +20581,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 14,
@@ -19932,7 +20616,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 15,
@@ -19966,7 +20651,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 16,
@@ -20000,7 +20686,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 17,
@@ -20034,7 +20721,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 18,
@@ -20068,7 +20756,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 19,
@@ -20102,7 +20791,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 20,
@@ -20136,7 +20826,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 21,
@@ -20170,7 +20861,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 22,
@@ -20204,7 +20896,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 23,
@@ -20238,7 +20931,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 24,
@@ -20272,7 +20966,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 25,
@@ -20306,7 +21001,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 26,
@@ -20340,7 +21036,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 27,
@@ -20374,7 +21071,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 28,
@@ -20408,7 +21106,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 29,
@@ -20442,7 +21141,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 30,
@@ -20476,7 +21176,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 31,
@@ -20510,7 +21211,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 32,
@@ -20544,7 +21246,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 33,
@@ -20578,7 +21281,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 34,
@@ -20612,7 +21316,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 35,
@@ -20646,7 +21351,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 36,
@@ -20680,7 +21386,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 37,
@@ -20714,7 +21421,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 38,
@@ -20748,7 +21456,8 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   },
   {
     "Rk": 39,
@@ -20782,6 +21491,7 @@
     "Tgt": 0,
     "Rec": 0,
     "Fmb": 0,
-    "FantPt": 0
+    "FantPt": 0,
+    "expectedPoints": 0
   }
 ]

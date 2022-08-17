@@ -3,6 +3,8 @@ from json.encoder import INFINITY
 
 with open('src/players.json') as fh1:
     json_data = json.load(fh1)
+with open('src/expectedPoints.json') as fh2:
+    json_data2 = json.load(fh2)
 
 
 newPlayers = []
@@ -93,42 +95,22 @@ def setupPlayers():
             player["Fmb"] = 0
             player["FantPt"] = 0
 
-                
-# "Cmp": 0,
-#    "Att": [
-#       0,
-#       0
-#    ],
-#    "Yds": [
-#       0,
-#       0,
-#       -3
-#    ],
-#    "TD": [
-#       0,
-#       0,
-#       0,
-#       0
-#    ],
-#    "Int": 0,
-#    "Y": {
-#       "A": null,
-#       "R": -3
-#    },
-#    "Tgt": 4,
-#    "Rec": 1,
-#    "Fmb": 2,
-#    "FL": 2,
-#    "2PM": null,
-#    "2PP": null,
-#    "FantPt": -4,
+def addExpectedPoints():
+    for player in json_data:
+        for dict in json_data2:
+            if dict["Player"] == player["Player"]:
+                player["expectedPoints"] = dict["expectedPoints"]
+    for player in json_data:
+        if "expectedPoints" not in player.keys():
+            player["expectedPoints"] = 0
 
 def writeToJSONFile(path, fileName, data):
     filePathNameWExt = './' + path + '/' + fileName + '.json'
     with open(filePathNameWExt, 'w') as fp:
         json.dump(data, fp)
 
-setupPlayers()
+# setupPlayers()
+addExpectedPoints()
 data = json_data
 
 writeToJSONFile('src','players', data)
