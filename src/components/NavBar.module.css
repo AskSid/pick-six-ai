@@ -1,123 +1,118 @@
 :root {
-    --main-bg-color: rgb(17, 17, 17);
-    /* var(--main-bg-color) */
-  }
+  --main-bg-color: rgb(17, 17, 17);
+  /* var(--main-bg-color) */
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Italiana&family=Nunito:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Italiana&family=Nunito:wght@300&display=swap");
 
 .nav {
-    background-color: var(--main-bg-color);
-    padding-top: 1vh;
-    padding-right: 5vw;
-    width: 100%;
-    transition-timing-function: ease-out;
-    transition: 0.5s;
-    position: fixed;
+  background-color: var(--main-bg-color);
+  padding-top: 1vh;
+  padding-right: 5vw;
+  width: 100%;
+  transition-timing-function: ease-out;
+  transition: 0.5s;
+  position: fixed;
+  backdrop-filter: saturate(180%) blur(10px);
 }
 
 .nav2 {
-    background-color: rgba(221, 221, 221, 0.945);
-    padding-top: 2vh;
-    padding-right: 5vw;
-    width: 100%;
-    transition-timing-function: ease-in;
-    transition: 0.5s;
-    position: fixed;
-    transform: translateY(-12vh);
-    z-index: 10;
-    background:
-    linear-gradient(rgb(2, 2, 2), transparent),
-    url(https://grainy-gradients.vercel.app/noise.svg);
+    background-color: rgba(59, 59, 59, 0.596);
+  padding-top: 2vh;
+  padding-right: 5vw;
+  width: 100%;
+  transition-timing-function: ease-in;
+  transition: 0.5s;
+  position: fixed;
+  transform: translateY(-12vh);
+  z-index: 10;
+  backdrop-filter: saturate(180%) blur(10px);
 }
 
 .nav3 {
-    background-color:rgb(59, 59, 59);
-    padding-top: 1vh;
-    padding-right: 5vw;
-    width: 100%;
-    transition-timing-function: ease-in;
-    transition: 0.3s;
-    position: fixed;
-    z-index: 10;
+  background-color: rgb(59, 59, 59, 0.596);
+  padding-top: 1vh;
+  padding-right: 5vw;
+  width: 100%;
+  transition-timing-function: ease-in;
+  transition: 0.3s;
+  position: fixed;
+  z-index: 10;
+  backdrop-filter: saturate(180%) blur(10px);
 }
 
 @keyframes move-up {
-    to {
-        top: 0;
-    }
+  to {
+    top: 0;
+  }
 }
 
 .logoContainer {
-    width: fit-content;
+  width: fit-content;
 }
 
 .logo {
-    text-decoration: none;
-    margin-left: 6vw;
-    margin-right: 10vw;
-    margin-top: 1vh;
-    text-decoration: none;
-    color: white;
-    width: max-content;
-    font-family: 'italiana';
-    font-size: 2rem;
-    font-weight: bold;
-    
+  text-decoration: none;
+  margin-left: 6vw;
+  margin-right: 10vw;
+  margin-top: 1vh;
+  text-decoration: none;
+  color: white;
+  width: max-content;
+  font-family: "italiana";
+  font-size: 2rem;
+  font-weight: bold;
 }
 
-.logo:hover{
-    color: lightgray;
+.logo:hover {
+  color: lightgray;
 }
 
 .logo2 {
-    text-decoration: none;
-    margin-left: 6vw;
-    margin-right: 10vw;
-    margin-top: 1vh;
-    text-decoration: none;
-    background: linear-gradient(90deg, #FB3DFF 0.76%, #06F0FF 98%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    width: max-content;
-    font-family: 'italiana';
-    font-size: 2rem; 
-    font-weight: bold;
+  text-decoration: none;
+  margin-left: 6vw;
+  margin-right: 10vw;
+  margin-top: 1vh;
+  text-decoration: none;
+  background: linear-gradient(90deg, #fb3dff 0.76%, #06f0ff 98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  width: max-content;
+  font-family: "italiana";
+  font-size: 2rem;
+  font-weight: bold;
 }
 
-.logo2:hover{
-    color: lightgray;
+.logo2:hover {
+  color: lightgray;
 }
-
 
 .link {
-    text-decoration: none;
-    margin-left: 8vw;
-    margin-top: 1vh;
-    text-decoration: none;
-    color: white;
-    width: max-content; 
-    text-decoration: bold;
-    font-weight: bold;
+  text-decoration: none;
+  margin-left: 8vw;
+  margin-top: 1vh;
+  text-decoration: none;
+  color: white;
+  width: max-content;
+  text-decoration: bold;
+  font-weight: bold;
 }
 
 .link2 {
-    text-decoration: none;
-    margin-left: 8vw;
-    margin-top: 1vh;
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-    width: max-content; 
-    font-weight: bold;
+  text-decoration: none;
+  margin-left: 8vw;
+  margin-top: 1vh;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  width: max-content;
+  font-weight: bold;
 }
 
-.link:hover{
-    color: lightgray;
+.link:hover {
+  color: lightgray;
 }
 
-.link2:hover{
-    color: lightgray;
+.link2:hover {
+  color: lightgray;
 }
-
-
-
