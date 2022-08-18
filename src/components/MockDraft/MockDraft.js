@@ -55,9 +55,7 @@ const MockDraft = () => {
   }
 
   const [userTurn, setUserTurn] = useState(false);
-  const [userTurnTime, setUserTurnTime] = useState(
-    JSON.parse(localStorage.getItem("userTurnTime")) || 5
-  );
+
 
   const [started, setStarted] = useState("not started");
 
@@ -72,10 +70,9 @@ const MockDraft = () => {
   useEffect(() => {
     localStorage.setItem("teams", JSON.stringify(teams));
     localStorage.setItem("rounds", JSON.stringify(rounds));
-    localStorage.setItem("userTurnTime", JSON.stringify(userTurnTime));
     localStorage.setItem("userPick", JSON.stringify(userPick));
     localStorage.setItem("userStartPick", JSON.stringify(userStartPick));
-  }, [teams, rounds, userTurnTime, userPick, userStartPick]);
+  }, [teams, rounds, userPick, userStartPick]);
 
   // Sets board size based on user input for rounds and teams
   useEffect(() => {
@@ -88,7 +85,8 @@ const MockDraft = () => {
   function addPlayer(player, user) {
     if (user) {
       setTeam([...team, player]);
-      setUserTurn(false);
+      setUserTurn(false)
+      setCurrentPick(currentPick + 1);
     }
 
     const tempPlayers = players.filter(
@@ -137,9 +135,6 @@ const MockDraft = () => {
   // Runs the user turn
   const userTurnHandler = async () => {
     setUserTurn(true);
-    //await new Promise((r) => setTimeout(r, userTurnTime * 1000));
-    setUserTurn(false);
-    setCurrentPick(currentPick + 1);
     if (oddUserPick === true) {
       setUserPick(userPick + 2 * (teams - userStartPick) - 1);
       console.log(userPick);
@@ -190,20 +185,6 @@ const MockDraft = () => {
                   disabled={started === "started"}
                   aria-label="num-rounds"
                   onChange={(e) => setRounds(parseInt(e.target.value))}
-                />
-              </InputGroup>
-            </Col>
-            <Col lg={4} className="px-5 pb-3">
-              <InputGroup className="mb-3 w-10">
-                <InputGroup.Text>Time for Pick (sec)</InputGroup.Text>
-                <FormControl
-                  className="p-3"
-                  defaultValue={
-                    JSON.parse(localStorage.getItem("userTurnTime")) || 5
-                  }
-                  disabled={started === "started"}
-                  aria-label="num-teams"
-                  onChange={(e) => setUserTurnTime(parseInt(e.target.value))}
                 />
               </InputGroup>
             </Col>
