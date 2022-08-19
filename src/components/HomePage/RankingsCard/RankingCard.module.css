@@ -75,5 +75,6 @@
 
 .rankingsCardImageMain {
     width: 80%;
+    object-fit: cover;
     border-radius: 25px;
 }

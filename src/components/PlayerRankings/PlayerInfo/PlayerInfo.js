@@ -4,8 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import playersJson from "../../../twitter/filtered_tweets.json";
 
 function PlayerInfo({ display, player, change, info }) {
-  
-var posStats = {
+  var posStats = {
     QB: (
       <>
         {" "}
@@ -154,37 +153,67 @@ var posStats = {
         <div className={styles.stats}>
           <div className={styles.statistics1}>
             <p className={styles.games}>GAMES</p>
-            <p className={styles.attempts}>REC</p>
-            <p className={styles.yds}>TGTs</p>
-            <p className={styles.avg}>YDS</p>
+            <p className={styles.attempts}>FG%</p>
+            <p className={styles.yds}>LONG</p>
+            <p className={styles.avg}>XPM</p>
           </div>
           <div className={styles.statistics2}>
             <p className={styles.games}>{player.G}</p>
-            <p className={styles.attempts}>{player.Rec}</p>
-            <p className={styles.yds}>{player.Tgt}</p>
-            <p className={styles.avg}>{player.Yds[2]}</p>
+            <p className={styles.attempts}>{(player.FGM[5]/player.FGA[5]).toFixed(2)}</p>
+            <p className={styles.yds}>{player.Lng[0]}</p>
+            <p className={styles.avg}>{player.XPM}</p>
           </div>
         </div>
         <br></br>
         <div className={styles.stats}>
           <div className={styles.statistics1}>
-            <p className={styles.games}>Y/R</p>
-            <p className={styles.attempts}>FMBLs</p>
-            <p className={styles.yds}>TDs</p>
-            <p className={styles.avg}>RANK</p>
+            <p className={styles.games}>20+</p>
+            <p className={styles.attempts}>30+</p>
+            <p className={styles.yds}>40+</p>
+            <p className={styles.avg}>50+</p>
           </div>
           <div className={styles.statistics2}>
-            <p className={styles.games}>
-              {(player.Yds[2] / player.Rec).toFixed(2)}
-            </p>
-            <p className={styles.attempts}>{player.Fmb}</p>
-            <p className={styles.yds}>{player.TD[3]}</p>
-            <p className={styles.avg}>{player.Rk}</p>
+            <p className={styles.games}>{player.FGM[1]}</p>
+            <p className={styles.attempts}> {player.FGM[2]}</p>
+            <p className={styles.yds}>{player.FGM[3]}</p>
+            <p className={styles.avg}>{player.FGM[4]}</p>
           </div>
         </div>
       </>
     ),
-
+    DEF: (
+      <>
+        <div className={styles.stats}>
+          <div className={styles.statistics1}>
+            <p className={styles.games}>SACKS</p>
+            <p className={styles.attempts}>INT</p>
+            <p className={styles.yds}>DEFTD</p>
+            <p className={styles.avg}>SPCTD</p>
+          </div>
+          <div className={styles.statistics2}>
+            <p className={styles.games}>{player.Sack}</p>
+            <p className={styles.attempts}>{player.Int}</p>
+            <p className={styles.yds}>{player.DefTD}</p>
+            <p className={styles.avg}>{player.SpcTD}</p>
+          </div>
+        </div>
+        <br></br>
+        <div className={styles.stats}>
+          <div className={styles.statistics1}>
+          <p className={styles.games}>Safety</p>
+            <p className={styles.attempts}>FF</p>
+            <p className={styles.yds}>FR</p>
+          </div>
+          <div className={styles.statistics2}>
+            <p className={styles.games}>
+              {player.Safety}
+            </p>
+            <p className={styles.attempts}>{player.FF}</p>
+            <p className={styles.yds}>{player.FR}</p>
+          </div>
+        </div>
+      </>
+    ),
   };
 
   const filtered_players = JSON.parse(JSON.stringify(playersJson));
@@ -215,7 +244,7 @@ var posStats = {
       </>
     ));
   };
-  
+
   function GetSortOrder(prop) {
     return function (a, b) {
       if (a[prop] < b[prop]) {
@@ -228,7 +257,9 @@ var posStats = {
   }
 
   for (let player in filtered_players) {
-    filtered_players[player] = filtered_players[player].sort(GetSortOrder(["id"]))
+    filtered_players[player] = filtered_players[player].sort(
+      GetSortOrder(["id"])
+    );
   }
 
   return (

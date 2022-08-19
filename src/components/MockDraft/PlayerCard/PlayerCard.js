@@ -16,6 +16,7 @@ const PlayerCard = ({
   positions.set("WR", styles.wr);
   positions.set("TE", styles.te);
   positions.set("k", styles.k)
+  positions.set("DEF", styles.def)
   positions.set(undefined, styles.none);
 
   const positionsClick = new Map();
@@ -24,6 +25,7 @@ const PlayerCard = ({
   positionsClick.set("WR", styles.wrClick);
   positionsClick.set("TE", styles.teClick);
   positionsClick.set("k", styles.kClick)
+  positionsClick.set("DEF", styles.defClick)
   positionsClick.set(undefined, styles.noneClick);
 
   const nameSplit = ["", ""];
