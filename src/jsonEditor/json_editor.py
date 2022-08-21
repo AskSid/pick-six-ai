@@ -84,33 +84,8 @@ data = []
 
 def setupPlayers():
     for player in json_data:
-        if player["FantPos"] == "DEF":
-            player["Sack"] = 0
-            player["FR"] = 0
-            player["FF"] = 0
-            player["DefTD"] = 0
-            player["Safety"] = 0
-            player["SpcTD"] = 0
-        # player["Tm"] = player["Team"]
-        # player["Cmp"] = 0
-        # player["Att"] = [0,0]
-        # player["Yds"] = [0,0,0]
-        # player["TD"] = [0,0,0,0]
-        # player["Int"] = 0
-        # player["Y"] = {"A": 0, "R": 0}
-        # player["Tgt"] = 0
-        # player["Rec"] = 0
-        # player["Fmb"] = 0
-        # player["FantPt"] = 0
-        # player["FGA"] = [0,0,0,0,0,0]
-        # player["FGM"] = [0,0,0,0,0,0]
-        # player["Lng"] = [0,0]
-        # player["FG%"] = 0
-        # player["XPA"] = 0
-        # player["XPM"] = 0
-        # player["Rk"] = 0
-        # player["FantPos"] = "DEF"
-        # data.append(player)
+        if player["FantPos"] == "RB":
+            player["expectedPoints"] = player["expectedPoints"] * 1.2
 
 
         
