@@ -26,17 +26,23 @@
     border-width: 2px;
     border-color: rgb(255, 255, 255);
     border-radius: 15px;
-    width: 30vw;
+    width: 24vw;
+    height: 30vw;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .person {
-    width: 70%;
+    height: 90%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
+    max-height: 50vh;
 }
 
 .bio {

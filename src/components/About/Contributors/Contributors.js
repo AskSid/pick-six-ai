@@ -8,7 +8,8 @@ import {
   FormControl,
   Button,
 } from "react-bootstrap";
-import Alex from "../../../images/tensorflow.png";
+import Alex from "../../../images/alex.png";
+import Sid from "../../../images/sid.jpeg"
 
 function Contributors(props) {
   return (
@@ -31,7 +32,7 @@ function Contributors(props) {
           </Col>
           <Col sm={6} className={styles.col}>
             <div className={styles.personContainer}>
-              <img className={styles.person} src={Alex} alt="BigCo Inc. logo" />
+              <img className={styles.person} src={Sid} alt="BigCo Inc. logo" />
             </div>
             <p className={styles.bio}>
               "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
