@@ -9,7 +9,7 @@ import {
   Button,
 } from "react-bootstrap";
 import Alex from "../../../images/alex.png";
-import Sid from "../../../images/sid.jpeg"
+import Sid from "../../../images/sid.jpeg";
 
 function Contributors(props) {
   return (
@@ -35,13 +35,11 @@ function Contributors(props) {
               <img className={styles.person} src={Sid} alt="BigCo Inc. logo" />
             </div>
             <p className={styles.bio}>
-              "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-              reprehenderit in voluptate velit esse cillum dolore eu fugiat
-              nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-              sunt in culpa qui officia deserunt mollit anim id est laborum."
+              A New England die-hard, Sid Boppana is a sophmore at Brown
+              University majoring in Coputer Science and Enconomics. A true
+              believer in connecting the gap between football and machine
+              learning, he has submitted to the Big Data Bowl and worked with
+              the Brown University Football Team on data analytics.
             </p>
           </Col>
         </Row>

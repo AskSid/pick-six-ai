@@ -28,10 +28,10 @@ function Technologies(props) {
           <Col md={6}>
             <h2 className={styles.tensorflowTitle}>TensorFlow</h2>
             <p className={styles.tensorflowText}>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              We use only the most recent and modern technologies to do our
+              machine learning. After scraping and parsing through thousands of
+              players over the last 50 years, we feed the data into TensorFlow
+              in order to develop our neural netowrk.
             </p>
           </Col>
         </Row>
