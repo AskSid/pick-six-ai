@@ -1,4 +1,4 @@
-Website URL: pick-six-ai.web.app
+Website URL: (https://pick-six-ai.web.app)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
